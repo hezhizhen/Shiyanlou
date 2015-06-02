@@ -23,4 +23,15 @@ Linux历史简介
 UNIX进化史
 ![image](/Linux%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%EF%BC%88%E6%96%B0%E7%89%88%EF%BC%89/1.svg)
 
+Linux重要人物
+-------------
+- Ken Thompson: father of C and UNIX
+- Dennis Ritchie: father of C and UNIX
+- Stallman: hacker, founder of GNU, Emacs and gcc and bash shell
+- Bill Joy: BSD
+- Tanenbaum: Minix
+- Linus Torvalds: father of Linux
+
+学习路径
+![image](/Linux%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%EF%BC%88%E6%96%B0%E7%89%88%EF%BC%89/2.png)
 

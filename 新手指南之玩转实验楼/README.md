@@ -37,7 +37,7 @@ Hello World
 - 运维
 - DBA
 
-[为什么使用LINUX](http://blog.csdn.net/touchsea/article/details/751842)
-[我们使用LINUX的真正原因](http://www.yeeyan.org/articles/view/18211/5768)
+- [为什么使用LINUX](http://blog.csdn.net/touchsea/article/details/751842)
+- [我们使用LINUX的真正原因](http://www.yeeyan.org/articles/view/18211/5768)
 
 

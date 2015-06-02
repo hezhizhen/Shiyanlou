@@ -21,6 +21,6 @@ Linux历史简介
 - GNU项目
 
 UNIX进化史
-![image](https://github.com/hezhizhen/Shiyanlou/blob/master/Linux%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%EF%BC%88%E6%96%B0%E7%89%88%EF%BC%89/1.svg)
+![image](/Linux%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%EF%BC%88%E6%96%B0%E7%89%88%EF%BC%89/1.svg)
 
 

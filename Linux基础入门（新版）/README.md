@@ -68,6 +68,7 @@ shell(壳) &  UNIX/Linux内核(核)
 - {c1..c2}:匹配c1-c2中全部字符
 
 > touch love{1..10}linux.txt
+> 
 > love1linux.txt, love2linux.txt, ..., love10linux.txt
 
 Manual Page
@@ -89,5 +90,107 @@ Manual Page
 - h:显示帮助
 
 > man ls
+> 
 > info ls (更详细的帮助)
+> 
 > ls --help (快速查看某个具体参数的作用)
+
+查看用户
+--------
+> who am i
+
+> who mom likes
+
+- 第一列：打开当前伪终端的用户的用户名
+- 第二列：pts表示伪终端（相对于/dev/tty设备而言），后面的数字表示打开的伪终端序号
+- 第三列：当前伪终端的启动时间
+
+创建用户
+--------
+使用sudo的两个条件：
+
+- 知道当前登录用户的密码
+- 当前用户在sudo用户组
+
+> sudo adduser lilei (新建一个叫lilei的用户，然后按照提示输入)
+> 
+> ls /home (显示所有用户)
+>
+>su -l lilei (切换登录用户)
+
+用户组
+------
+> groups shiyanlou (冒号之前表示用户，之后表示所属用户组)
+>
+>cat /etc/group | sort (cat用于读取指定文件的内容并打印到终端，sort将读取的文本进行字典序排列再输出)
+>
+>cat /etc/group | grep -E “shiyanlou|sudo” (过滤掉一些不想看到的结果)
+
+/etc/group文件格式说明
+
+- 内容包括：用户组，用户组口令，GID，该用户组所包含的用户
+- 每个用户组一条纪录，格式为： groupname:password:GID:userlist
+
+>sudo usermod -G sudo lilei (usermod可以为用户添加用户组，将lilei添加到sudo用户组)
+>
+>sudo deluser lilei --remove-home (删除用户)
+
+Linux文件权限
+------------
+> ls -l
+
+- 文件类型和权限
+    - 第一个字母
+        - d：目录
+        - l：软链接
+        - b：块设备
+        - c：字符设备
+        - s：socket
+        - p：管道
+        - -：普通文件
+    - 2-4字母：拥有者权限
+        - r:读
+        - w:写
+        - x:执行
+    - 5-7字母：所属用户组权限
+    - 8-10字母：其他用户权限
+- 链接数
+- 所有者
+- 所属用户组
+- 文件大小
+- 最后修改时间
+- 文件名
+
+ls的一些用法
+------------
+> ls -lh
+>
+> ls -A (ls -Al) (A为显示除.和..之外的所有文件)
+>
+> ls -dl <filename> (查看一个目录的完整属性)
+>
+> ls -AsSh (显示所有文件大小，s为显示文件大小，S为按文件大小排列)
+
+变更文件所有者
+--------------
+> touch test (以lilei登录)
+>
+> cd /home/lilei
+>
+> sudo chown shiyanlou test
+>
+> cp test /home/shiyanlou
+
+修改文件权限
+------------
+- 二进制数字表示
+
+> echo “echo \”hello shiyanlou\”” > test
+>
+>chmod 700 test (其他用户无法读取test文件)
+
+- 加减赋值操作
+
+> chmod go-rw test (g, o, u分别代表group, other, user, +,-分别表示增加，去掉权限)
+
+

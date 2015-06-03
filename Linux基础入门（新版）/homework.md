@@ -1,5 +1,6 @@
 banner
 ======
+print large banner
 
 Installation
 -----------
@@ -7,10 +8,11 @@ Installation
 
 Usage
 -----
-> banner shiyanlou
+> banner text
 
 Printerbanner
 =============
+print large banner on printer
 
 Usage
 -----
@@ -18,8 +20,20 @@ Usage
 
 toilet
 ======
+display large colourful characters
 
 figlet
 ======
+display large characters made up of ordinary screen characters
+
+<hr>
+
+fortune
+=======
+print a random, hopefully interesting, adage
+
+Installation
+------------
+> sudo apt-get install fortune fortune-mod fortune-zh
 
 <hr>

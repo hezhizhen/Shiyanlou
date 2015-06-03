@@ -56,3 +56,17 @@ Advice
 for better effect, change the background color of terminal to dark
 
 <hr>
+
+aafire
+======
+aalib example programs
+
+Installation
+------------
+> sudo apt-get install libaa-bin
+
+Usage
+-----
+> aafire
+
+<hr>

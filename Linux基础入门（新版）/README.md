@@ -359,4 +359,71 @@ Linux文件的基本操作
     >
     > locate /usr/share/\*.jpg
 
+常用压缩包格式
+--------------
+- \*.zip：zip程序打包压缩的文件
+- \*.rar：rar程序压缩的文件
+- \*.7z：7zip程序压缩的文件
+- \*.tar：tar程序打包，未压缩的文件
+- \*.gz：gzip程序(GNU zip)压缩的文件
+- \*.xz：xz程序压缩的文件
+- \*.bz2：bzip2程序压缩的文件
+- \*.tar.gz：tar打包，gzip压缩的文件
+- \*.tar.xz：tar打包，xz压缩的文件
+- \*.tar.bz2：tar打包，bzip2压缩的文件
+- \*.tar.7z：tar打包，7zip压缩的文件
+
+zip
+----
+> zip -r -q -o shiyanlou.zip /home/shiyanlou (-r递归打包，-q静默模式，-o输出文件)
+>
+> zip -r -9 -q -o shiyanlou9.zip /home/shiyanlou -x ～/\*.zip (压缩级别1-9,9最大，表示体积最小但耗时最久； -x排除我们上一次创建的zip文件)
+>
+> du -h -d 0 \*.zip ～ | sort (分别查看默认压缩级别、最低和最高压缩级别以及未压缩文件的大小)
+>
+> zip -r -e -o shiyanlouencryption.zip /home/shiyanlou (创建加密zip包)
+>
+> zip -r -l -o shiyanlou.zip /home/shiyanlou (-l参数将LF(Linux下的换行)转换为CR+LF(Windows下的回车加换行))
+>
+> unzip -q shiyanlou.zip -d ziptest (静默解压至指定目录)
+>
+> unzip -l shiyanlou.zip (不解压只查看压缩包内容)
+>
+> unzip -O GBK 中文压缩文件.zip (大写o，指定编码类型)
+
+rar
+---
+rar的命令参数没有-，加上会报错
+
+> rar a shiyanlou.rar . (a参数添加一个目录～到一个归档文件中，不存在则创建)
+>
+> rar d shiyanlou.rar .zshrc (从指定压缩包中删除某个文件)
+>
+> rar l shiyanlou.rar (查看不解压文件)
+>
+> unrar x shiyanlou.rar (全路径解压)
+>
+> unrar e shiyanlou.rar tmp/ (去掉路径解压)
+>
+> 上述俩命令不明白?
+
+tar
+---
+> tar -cf shiyanlou.tar ~ (创建一个tar包， -c表示创建一个tar包，-f表示指定创建的文件名，文件名需紧随其后， -v以可视化的方式输出打包文件)
+>
+> 会自动去掉表示绝对路径的/， 可使用-P保留绝对路径
+>
+> tar -xf shiyanlou.tar -C tardir (解包一个文件(-x)到指定路径的存在目录（-C）)
+>
+> tar -tf shiyanlou.tar (-t只查看不解包文件)
+>
+> tar -cphf etc.tar /etc (-p保留文件的属性，-h保留链接指向的源文件)
+>
+> tar -czf shiyanlou.tar.gz ~ (-z表示使用gzip来压缩文件)
+>
+> tar -xzf shiyanlou.tar.gz (解压tar.gz文件)
+>
+> tar -xJf shiyanlou.tar.xz (解压tar.xz文件)
+>
+> tar -xjf shiyanlou.tar.bz2 (解压tar.bz2文件)
 

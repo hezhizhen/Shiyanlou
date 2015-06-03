@@ -37,3 +37,13 @@ Installation
 > sudo apt-get install fortune fortune-mod fortune-zh
 
 <hr>
+
+xeyes
+=====
+a follow the mouse X demo
+Usage
+-----
+> nohup xeyes & 
+
+<hr>
+

@@ -193,4 +193,87 @@ ls的一些用法
 
 > chmod go-rw test (g, o, u分别代表group, other, user, +,-分别表示增加，去掉权限)
 
+Linux目录结构
+-------------
+- FHS标准：定义了系统中每个区域的用途、所需最小构成的文件和目录，例外处理和矛盾处理
+    - 第一层：/下面的各个目录应该放什么文件数据
+    - 第二层：/usr和/var两个目录的子目录存放内容
 
+![image](/Linux%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%EF%BC%88%E6%96%B0%E7%89%88%EF%BC%89/3.png)
+
+> tree /
+
+目录的四种交互作用的形态
+------------------------
+
+![image](/Linux%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%EF%BC%88%E6%96%B0%E7%89%88%EF%BC%89/4.png)
+
+Linux文件的基本操作
+-------------------
+- 新建
+
+> mkdir -p father/son/grandson (同时创建父目录)
+
+- 复制
+
+> cp -r father family (复制目录，递归复制。 -R)
+
+- 删除
+
+> chmod 444 test; rm test (删除只读文件)
+> 
+> rm -f test (强制删除)
+>
+> rm -r family (删除目录)
+
+- 移动
+
+> mv file1 Documents (把file1移到Documents中)
+
+- 重命名
+
+> mv file1  file2 (重命名)
+>
+>touch file{1..5}.txt
+>
+> rename ‘s/\.txt/\.c/’ \*.txt (批量把这5个txt文件的后缀改成c)
+>
+> rename ‘y/a-z/A-Z/’ \*.c (批量把文件名改成大写)
+
+- 查看文件
+
+    - cat：打印文件内容到标准输出，正序显示
+    
+    > cat -n test (显示行号)
+
+    - tac：打印文件内容到标准输出，倒序显示
+
+    - nl：添加行号并打印
+        - -b:指定添加行号的方式，有 -b a 和 -b t。
+        - -n:设置行号的样式，有 -n ln (最左端显示)和 -n rn (最右端显示，不加0)和 -n rz(最右端显示，加0)。
+        - -w:行号字段占用的位数(默认为6位)
+
+    - more
+
+    - less
+
+    - head
+
+    - tail
+
+    > tail -n 1 test (只查看最后一行)
+    >
+    > tail -f test (不停地读取某文件的内容并显示，可以动态查看日志，起到实时监视的作用)
+
+- 文件类型
+    - file
+
+- 编辑文件
+
+标准输入输出
+------------
+当我们执行一个shell命令行时，通常会自动打开三个标准文件：stdin， stdout, stderr
+
+- stdin：标准输入文件，默认对应终端的键盘
+- stdout：标准输出文件，对应被重定向到终端的屏幕
+- stderr：标准错误输出文件，对应被重定向到终端的屏幕

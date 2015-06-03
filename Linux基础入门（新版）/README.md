@@ -338,9 +338,13 @@ Linux文件的基本操作
 搜索文件
 --------
 - whereis
+
     > whereis who
+
 - which
+
 - find
+
     > find /etc/ -name interfaces (在指定目录搜索指定文件名的文件)
     >
     > find命令的路径是第一个参数，基本命令格式为find [path] [option] [action]
@@ -348,8 +352,11 @@ Linux文件的基本操作
     > find ～ -mtime 0 (列出home目录中当天(24小时之内)有改动的文件)
     >
     > find ～ -newer Documents/test.c\～ (列出home目录下比test.c还要新的文件)
+
 - locate
+
     > locate /etc/sh
     >
     > locate /usr/share/\*.jpg
+
 

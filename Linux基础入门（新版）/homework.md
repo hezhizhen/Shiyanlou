@@ -47,3 +47,12 @@ Usage
 
 <hr>
 
+cmatrix
+=======
+simulates the display from “The Matrix”
+
+Advice
+-------
+for better effect, change the background color of terminal to dark
+
+<hr>

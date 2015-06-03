@@ -277,3 +277,79 @@ Linux文件的基本操作
 - stdin：标准输入文件，默认对应终端的键盘
 - stdout：标准输出文件，对应被重定向到终端的屏幕
 - stderr：标准错误输出文件，对应被重定向到终端的屏幕
+
+变量
+----
+> tmp=shiyanlou (创建一个变量tmp，并赋值为shiyanlou)
+>
+> echo $tmp (读取变量的值。 $用于表示引用一个变量的值)
+
+环境变量
+--------
+- 当前shell进程私有用户自定义变量，只在当前shell中有效
+- shell本身内建的变量
+- 从自定义变量导出的环境变量
+
+- set：显示当前shell所有环境变量
+- env：显示与当前用户相关的环境变量
+- export：显示从shell中导出成环境变量的变量
+
+> temp=shiyanlou
+>
+> export tempenv=shiyanlou
+>
+> env|sort>env.txt
+>
+> export|sort>export.txt
+>
+> set|sort>set.txt
+>
+>vimdiff env.txt export.txt set.txt
+
+简单地说，在当前进程的子进程中有效的变量即环境变量，否则不是
+
+为了与普通变量区分，通常我们习惯将环境变量名设为大写
+
+添加自定义路径到PATH环境变量
+----------------------------
+> PATH=$PATH:/path/to/mybin (一定要用绝对路径，使用：作为分隔符)
+>
+> echo “PATH=$PATH:/path/to/mybin” >> .zshrc (>>表示将标准输出以追加的方式重定向到一个文件中，>以覆盖的方式重定向到一个文件中)
+
+变量修改
+-------
+- ${变量名#匹配字串}：从头向后开始匹配，删除符合匹配字串的最短数据
+- ${变量名##匹配字串}：从头向后匹配，删除符合匹配字串的最长数据
+- ${变量名%匹配字串}：从尾向前开始匹配，删除复合匹配字串的最短数据
+- ${变量名%%匹配字串}：从尾向前匹配，删除符合匹配字串的最长数据
+- ${变量名/旧的字串/新的字串}：将符合旧字串的第一个字串替换为新的字串
+- ${变量名//旧的字串/新的字串}：将符合旧字串的全部字串替换为新的字串
+
+变量删除
+-------
+> unset temp (删除一个环境变量)
+
+让环境变量立即生效
+------------------
+>source .zshrc
+>
+>. ./.zhsrc
+
+搜索文件
+--------
+- whereis
+    > whereis who
+- which
+- find
+    > find /etc/ -name interfaces (在指定目录搜索指定文件名的文件)
+    >
+    > find命令的路径是第一个参数，基本命令格式为find [path] [option] [action]
+    >
+    > find ～ -mtime 0 (列出home目录中当天(24小时之内)有改动的文件)
+    >
+    > find ～ -newer Documents/test.c\～ (列出home目录下比test.c还要新的文件)
+- locate
+    > locate /etc/sh
+    >
+    > locate /usr/share/\*.jpg
+

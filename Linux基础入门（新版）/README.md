@@ -556,4 +556,54 @@ dd
 >
 > history | cut -c 8- | cut -d ‘ ‘ -f 1 | sort | uniq -D (输出所有重复的行)
 
+<hr>
 
+tr
+==
+translate or delete characters. tr [OPTION] ... SET1 [SET2]
+
+- -d: 删除和set1匹配的字符，不是全词匹配也不是按字符顺序匹配
+- -s: 去除set1指定的在输入文本中连续并重复的字符
+
+> echo ‘hello shiyanlou’ | tr -d ‘olh’ (删除所有的o、l、h)
+>
+> echo ‘hello’ | tr -s ‘l’ (把ll去重为l)
+>
+> cat /etc/passwd | tr ‘[:lower:]’ ‘[:upper:]’ (将输入文本全部转换为大写或小写输出)
+
+col
+---
+filter reverse line feeds from input. col [-bfhpx] [-l num]
+
+- -x:将Tab转换为空格
+- -h:将空格转换为Tab
+
+> cat -A /etc/protocols (查看不可见字符，可以看到很多^I，其实是Tab转义成可见字符的符号)
+>
+> cat /etc/protocols | col -x | cat -A (^I不见了)
+
+join
+----
+join lines of two files on a common field. join [OPTION] FILE1 FILE2
+
+- -t:指定分隔符，默认空格
+- -i:忽略大小写差异
+- -1:指明第一个文件要用哪个字段来对比，默认对比第一个字段
+- -2:指定第二个文件要用哪个字段对比，默认对比第一个字段
+
+> sudo join -t ‘:’ /etc/passwd /etc/shadow
+>
+> sudo join -t ‘:’ -1 4 /etc/passwd -2 3 /etc/group (指定以：为分隔符，分别对比第4和第3字段)
+
+paste
+-----
+类似join，在不对比数据的情况下，合并多文件，以Tab隔开
+
+- -d:指定合并的分隔符，默认为Tab
+- -s:不合并到一行，每个文件为一行
+
+> paste -d ‘:’ file1 file2
+>
+> paste -s file1 file2
+
+<hr>

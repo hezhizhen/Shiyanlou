@@ -93,4 +93,11 @@ a high quality ASCII art image viewer
 
 <hr>
 
+Space Invaders
+==============
 
+Installation
+------------
+> sudo apt-get install ninvaders
+
+<hr>

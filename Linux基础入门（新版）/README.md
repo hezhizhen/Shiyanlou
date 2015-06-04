@@ -427,3 +427,71 @@ tar
 >
 > tar -xjf shiyanlou.tar.bz2 (解压tar.bz2文件)
 
+<hr>
+
+du
+---
+> du -h -d 0 ~ (只查看1级目录的信息，-d指定参看目录的深度)
+>
+> du -h -d 1 ~ (查看2级)
+
+dd
+--
+用于转换和复制文件(不同于cp)，可以用在备份硬件的引导扇区、获取一定数量的随机数据或者空数据等任务中；可以在复制时处理数据
+
+命令项格式
+
+> 选项=值
+
+默认从标准输入中读取，并写入标准输出中，但可以用选项if(输出文件)和of(输出文件)改变
+
+> dd of=test bs=10 count=1 (dd if=/dev/stdin of=test bs=10 count=1) (输出到文件)
+>
+> dd if=/dev/stdin of=dev/stdout bs=10 count=1 (输出到标准输出)
+
+- bs用于指定块大小(默认单位为Byte)
+- count用于指定块数量
+- 多余输入将被截取并保留在stdin
+
+创建虚拟磁盘
+------------
+> dd if=/dev/stdin of=test bs=10 count=1 conv=ucase (将输出的英文字符转换为大写再写入文件)
+
+> dd if=/dev/zero of=virtual.img bs=1M count=256 (从/dev/zero设备创建一个容量为256M的空文件)
+>
+> mkfs.ext4 virtual.img (格式化虚拟磁盘镜像为ext4)
+>
+> ls -l /lib/modules/$(uname -r)/kernel/fs (查看系统支持哪些文件系统)
+>
+> mount -o loop -t ext4 virtual.img /mnt (把虚拟磁盘镜像挂载到/mnt目录，挂载类型可省略，会自动识别)
+> 
+> mount -o lopp --ro virtual.img /mnt (-o后面跟操作选项，-t后面跟文件系统类型，-w|--rw|--ro为读写权限，后面是文件系统源和挂载点)
+>
+> sudo umount /mnt (卸载已挂载磁盘)
+>
+> [/dev/loop](http://zh.wikipedia.org/wiki//dev/loop)
+>
+> sudo fdisk -l (查看硬盘分区表信息)
+>
+> sudo fdisk virtual.img (进入磁盘分区模式)
+>
+> 分区方案：使用128M的虚拟磁盘镜像创建一个30M的主分区，剩余部分为扩展分区，包含2个45M的逻辑分区
+>
+> 最后要输入w写入分区表
+>
+> sudo losetup /dev/loop0 virtual.img (建立镜像与loop设备的关联)
+>
+> sudo losetup -d /dev/loop0 (解除设备关联)
+>
+> sudo kpart kpartx -av /dev/loop0 (为各分区建立虚拟设备的映射，使用kpartx)
+>
+> sudo kpart kpartx -dv /dev/loop0 (取消映射)
+>
+> sudo mkfs.ext4 -q /dev/mapper/loop0p1 (格式化各分区，还有loop0p5,loop0p6)
+>
+> mkdir -p /media/virtualdisk\_{1..3} (在/media目录下新建4个空目录用于挂载虚拟磁盘)
+>
+> sudo mount /dev/mapper/loop0p1 /media/virtualdisk\_1 (挂载磁盘分区， 还有loop0p5,loop0p6，分别挂载到2和3)
+>
+> sudo umount /dev/mapper/loop0p1 (卸载磁盘分区，还有loop0p5和loop0p6)
+

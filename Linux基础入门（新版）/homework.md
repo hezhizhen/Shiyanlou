@@ -70,3 +70,17 @@ Usage
 > aafire
 
 <hr>
+
+cowsay
+======
+configurable speaking cow
+
+Usage
+-----
+> cowsay hello world (默认是牛)
+>
+> cowsay -l (打印所有支持的动物种类)
+>
+> cowsay -f elephant hello world (使用-f参数选择动物种类)
+>
+> fortune | cowsay -f daemon 

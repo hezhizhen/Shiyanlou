@@ -84,3 +84,13 @@ Usage
 > cowsay -f elephant hello world (使用-f参数选择动物种类)
 >
 > fortune | cowsay -f daemon 
+
+<hr>
+
+asciiview
+=========
+a high quality ASCII art image viewer
+
+<hr>
+
+

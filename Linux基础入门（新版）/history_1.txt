@@ -1,0 +1,9999 @@
+sudo apt-get install tint2
+sudo apt-get install deluge
+sudo add-apt-repository ppa:otto-kesselgulasch/gimp
+sudo apt-get install gimp
+sudo add-apt-repository ppa:diodon-team/stable
+sudo add-apt-repository ppa:webupd8team/gnome3
+sudo add-apt-repository ppa:webupd8team/y-ppa-manager
+sudo apt-get install diodon
+sudo apt-get install gnome-shell-extensions-gpaste
+sudo apt-get install y-ppa-manager
+sudo add-apt-repository ppa:weather-indicator-team/ppa
+sudo apt-get install synaptic
+sudo apt-get install newsbeuter
+sudo apt-get install htop
+sudo apt-get install dolphin
+sudo apt-get install uget
+sudo apt-get install shutter 
+ibus-setup
+sudo apt-get install librime-data
+sudo apt-get install preload
+sudo apt-get install prelink
+sudo apt-get install gnome-shell-theme-elegance-colors
+sudo apt-get install gnome-tweak-tool
+sudo apt-get install cinnamon
+sudo apt-get install numix-gtk-theme
+sudo add-apt-repository ppa:satyajit-happy/themes
+sudo apt-get updat
+sudo apt-get install orchis-gtk-theme
+sudo apt-get install numix-icon-theme-circle
+sudo apt-get install gpaste
+sudo apt-get install calcurse
+sudo apt-get install gnome-shell-extension-weather
+echo $SHELL
+ack-grep $SHELL
+ack-grep chsh
+./theme_chooser.sh
+sudo apt-get install rake
+sh -c "`curl -fsSL https://raw.githubusercontent.com/skwp/dotfiles/master/install.sh`"
+git pull --rebase
+rake upte
+rake update
+vim --version | gerp +lua
+vim --version | grep +lua
+cd .yadr
+cd vim
+tree | less
+tree . | less
+tree .yadr
+sudo apt-get install tree
+vim --version
+vim --version | grep lua
+vim lua
+echo $VIM
+sudo apt-get build-dep vim
+sudo apt-get build-dep vim +lua
+dpkg -l | grep vim
+sudo apt-get install lua5.1
+sudo apt-get install lua5.2
+sudo apt-get install vim-nox
+man vim-nox
+curl https://j.mp/spf13-vim3 -L > spf13-vim.sh && sh spf13-vim.sh
+sudo dpkg -i sublime-text_build-3083_amd64.deb
+rm google-chrome-stable_current_amd64.deb sublime-text_build-3083_amd64.deb
+unzip weiruanfonts.zip
+sudo apt-get install fontconfig
+sudo apt-get install chinese-calendar
+cd ╬в╚э
+sudo cp Yahei\ regular.ttf /usr/share/fonts/yahei
+sudo chmod 555 /usr/share/fonts/yahei/Yahei\ regular.ttf
+mkdir Compiler
+wget cs.nju.edu.cn/dxy/实验1.pdf
+evince $'\345'$'\256'%9E$'\351'$'\252'%8C1.pdf
+mv $'\345'$'\256'%9E$'\351'$'\252'%8C1.pdf 实验要求.pdf
+wget cs.nju.edu.cn/dxy/附录A.pdf
+mv $'\351'%99%84$'\345'$'\275'%95A.pdf 附录A.pdf
+evince 附录A.pdf
+sudo apt-get install abiword
+pdfchain 实验要求.pdf
+sudo add-apt-repository ppa:loneowais/fogger
+sudo apt-get install fogger
+sudo dpkg -i wps-office_9.1.3_amd64.deb
+dpkg -l wps
+sudo apt-get install gftp
+cd /bin
+find plank
+sudo dpkg -i linuxqq_v1.0.2-beta1_i386.deb
+rm linuxqq_v1.0.2-beta1_i386.deb
+sudo add-apt-repository ppa:lainme/pidgin-lwqq
+sudo apt-get install pidgin-lwqq
+sudo apt-get install pidgin
+git clone git@github.com:Andrew-liu/Dou_Ban_Spider.git
+sudo apt-get install git
+git clone https://github.com/Andrew-liu/dou_ban_spider.git
+man mc
+mv movie.txt movie_former.txt
+python douban_spider.py
+python threading_douban.py
+vim movie.txt
+vimdiff movie.txt movie_former.txt
+cd Documents/ls
+cd media
+cd 00087333000AFF8A/ls
+cd 00087333000AFF8A/
+cd 4ab06fdb-9b04-429e-a609-3afea3457427
+cd home
+display mit.JPG
+display touxiang.jpg
+display black2.jpg
+display black.jpg
+cd F.G.S
+display DSC_0233.JPG
+gimp DSC_0242.JPG
+gimp DSC_0114.JPG
+preload
+^Dv
+-h
+^M
+-c
+tmux -c
+tmux -h -p 50 -c
+man tmux
+cd ~/Documents
+cloc dou_ban_spider
+sudo apt-get install gcc
+sudo apt-get install bison
+dpkg -l bison
+dpkg -l flex
+sudo apt-get install bittorrent
+unzip pack.zip
+rm pack.zip
+fc-list :lang=zh
+sudo nautilus /usr/share/font
+sudo nautilus /usr/share/fonts
+sudo apt-get install ttf-wqy-microhei
+mutx
+sudo mkdir /media/matlab
+cd java
+cd ~/Downloads
+unzip Matlab_R2014b_linux64_crack.zip
+sudo cp install.jar /media/matlab/java/jar/install.jar
+sudo nautilus /media/matlab
+cd /media/matlab/java/jar
+sudo chmod a+w install.jar
+sudo chmod w install.jar
+vim R2014b_glnxa64.iso
+mount -o loop ~/Downloads/R2014b_LINUX/R2014b_glnxa64.iso /media/matlab
+sudo mount -o rw loop ~/Downloads/R2014b_LINUX/R2014b_glnxa64.iso /media/matlab
+sudo mount -o rw,loop ~/Downloads/R2014b_LINUX/R2014b_glnxa64.iso /media/matlab
+cd /media/matlab/java
+cd jar
+rm install.jar
+sudo rm install.jar
+vim installer_input.txt
+vim install
+sudo mount -o loop ~/Downloads/R2014b_LINUX/R2014b_glnxa64.iso /media/matlab
+sudo apt-get install ttf-wqy-zenhei
+sudo apt-get install fonts-wqy-microhei
+sudo apt-get install fonts-wqy-zenhei
+cd Downloads/R2014b_LINUX/R2014b_LINUX
+nautilus /usr/local/MATLAB/R2014b/bin/glnxa64/
+sudo cp ../Matlab\ 2014b\ linux64\ crack/libmwservices.so /usr/local/MATLAB/R2014b/bin/glnxa64/libmwservices.so
+nautilus ../Matlab\ 2014b\ linux64\ crack
+_matlab
+cd glnxa64
+cd Matlab\ 2014b\ linux64\ crack
+vim FIK\ 2014b.txt
+vim README.ps
+evince README.ps
+cd R2014b_LINUX
+sudo ./install
+dpkg -l | grep matlab
+cd R2014b_LINUX/Matlab\ 2014b\ linux64\ crack
+subl FIK\ 2014b.txt
+cd /usr/local/MATLAB/R2014b/bin
+./matlab
+dpkg -l matlab
+dpkg -l | grep MATLAB
+sudo apt-get install flac
+sudo add-apt-repository ppa:v-launchpad-jochen-sprickerhof-de/pcl
+sudo cp flann-1.8.4-src.zip ../Documents/MATLAB
+sudo unzip flann-1.8.4-src.zip
+ssudo apt-get install libpcl-all
+sudo apt-get install libpcl-all
+sudo mkdir build
+cmake
+sudo make
+cp
+sudo apt-get install cmake-qt-gui
+sudo cmake-gui
+whereis matlab
+cd /usr/bin
+matlab
+cd /usr/local/MATLAB/R2014b
+cd bin
+cd MATLAB/flann-1.8.4-src
+whereis MATLAB
+mex --help
+echo $path
+sudo apt-get remove octave
+sudo cmake ..
+dpkg -l | grep octave
+echo $PATH
+sudo apt-get install octave
+octave-cli
+sudo apt-get install guake
+tmx
+sudo mex nearest_neighbors.cpp
+sudo nautilus .
+sudo chmod a+w flann-1.8.4-src.zip
+unzip flann-1.8.4-src.zip
+rm flann-1.8.4-src.zip
+mkdir build
+cd ../src/matlab
+sudo apt-get install gtest
+cmake-gui
+mex nearest_neighbors.cpp
+mkdir ReadingList
+sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt-get install ap-hotspot
+sudo apt-get remove hostpad
+ufw
+sudo ufw disable
+wget http://archive.ubuntu.com/ubuntu/pool/universe/w/wpa/hostapd_1.0-3ubuntu2.1_amd64.deb
+sudo dpkg -i hostapd_1.0-3ubuntu2.1_amd64.deb
+sudo apt-mark hold hostpad
+sudo apt-mark hold hostapd
+sudo apt-get install hostapd
+sudo ap-hotspot configure
+sudo ap-hotspot start
+cd ../Videos
+mplayer CCTV.Xin.Wen.Lian.Bo.20130110.HDTV.720p.x264-CGTV.mkv
+clar
+sudo msgfmt -o ~/Mac.po
+wget http://jingyan.baidu.com/article/a378c960a30b21b329283042.html
+cd ~
+sudo apt-get install vocal 
+sudo apt-get install amarok
+wget http://linux.cn/article-3910-1.html 
+cd CD1
+sudo battery-stats-collector
+cd Documents/ReadingList
+evince LinuxShell编程从初学到精通.pdf
+df -l
+sudo apt-get install fonts-noto 
+sudo apt-get install gconf-editor
+sudo apt-get install dconf-editor
+sudo apt-get install xinput
+xinput -list
+xinput list-props "ETPS/2 Elantech Touchpad" | grep Capabilities
+xinput list-props "ETPS/2 Elantech Touchpad" 
+synclient -l
+compiz
+synclient
+sudo apt-get install synaptics
+man synaptics
+synaptic
+sudo apt-get install touchegg
+vim /etc/X11/Xsession.d
+sudo apt-get install gpointing-device-settings
+cat /proc/bus/input/devices
+evtest /etc/input/event4
+sudo apt-get install evtest
+sudo evtest /dev/input/event4
+cd flann-1.8.4-src
+cmake ..
+cd src/matlab
+cd build
+cd doc
+evince manual.pdf
+sudo matlab
+mkdir GT
+cd GT
+mkdir GRE
+mkdir TOEFL
+unzip Noto-hinted.zip
+cd GNUstep
+cd Library
+cd Services
+sudo apt-get install djvulibre-desktop
+sudo apt-get install djvulibre-bin
+sudo apt-get install djview4
+mplayer \[颐和园\].Summer.Palace.2006.D9.MiniSD-TLF.mkv
+mpv 胜者即是正义.Legal.High.2012.S01E01.HDTV.Repack.MiniSD-TLF.mkv
+mpv 胜者即是正义.Legal.High.2012.S01E05.HDTV.MiniSD-TLF.mkv
+mpv 胜者即是正义.Legal.High.2012.S01E06.HDTV.MiniSD-TLF.mkv
+mpv 胜者即是正义.Legal.High.2012.S01E02.HDTV.MiniSD-TLF.mkv
+mpv 胜者即是正义.Legal.High.2012.S01E03.HDTV.MiniSD-TLF.mkv
+mpv 胜者即是正义.Legal.High.2012.S01E04.HDTV.MiniSD-TLF.mkv
+mpv 胜者即是正义.Legal.High.2012.S01E07.HDTV.MiniSD-TLF.mkv
+mpv 胜者即是正义.Legal.High.2012.S01E08.HDTV.MiniSD-TLF.mkv
+sudo apt-get install smplayer
+man flac
+evince-previewer 编译原理（中文第二版）_扫描版_16M.pdf
+evince 编译原理（中文第二版）_扫描版_16M.pdf
+evince 编译原理（高清龙书中文版）.pdf
+unzip 编译原理龙书答案.zip
+mpv IMG_1961.MOV
+vlc IMG_1961.MOV
+sudo apt-get install gstreamer0.10-*
+sudo apt-get install gstreamer0.10-alsa
+sudo apt-get install gstreamer0.10-buzztard
+cvlc IMG_1961.MOV
+cvlc 纸牌屋.House.Of.Cards.2013.S03E01.中英字幕.HDTVrip.1024X512.mp4
+vlc 纸牌屋.House.Of.Cards.2013.S03E01.中英字幕.HDTVrip.1024X512.mp4
+mpv 纸牌屋.House.Of.Cards.2013.S03E13.中英字幕.HDTVrip.1024X512.mp4
+evince 实验要求.pdf
+cd Downloads/ls
+unzip squirrel.zip
+display 松鼠高清复刻版-01.png
+mkdir GitLib
+git config --global user.name "hezhizhen"
+git config --global user.email "hezhizhen.yi@gmail.com"
+vim .gitconfig
+git remote add origin git@github.com:hezhizhen/Courses.git
+git remote 
+git remote
+mkdir Compilers
+git remote add origin https://github.com/hezhizhen/Compilers.git
+git remote add origin https://github.com/hezhizhen/Extracurricular-Reading.git
+git clone https://github.com/hezhizhen/Extracurricular-Reading.git
+ls
+cd Extracurricular-Reading
+ls
+git remote add origin https://github.com/hezhizhen/Extracurricular-Reading.git
+git push -u origin master
+exit
+ls
+cd ..
+ls
+du -h
+ls
+cd Extracurricular-Reading
+ls
+vim README.md
+cd ..
+ls
+cd Compilers
+ls
+vim README.md
+exit
+sudo shutdown -h now
+df -lh
+cd Documents/GitLib
+ls
+cd Extracurricular-Reading
+git log
+cd ../Compilers
+git log
+cd 
+cd Videos
+ls
+cd CCTV.Xin.Wen.Lian.Bo.20130110.HDTV.720p.x264-CGTV
+ls
+mpv CCTV.Tian.Qi.Yu.Bao.20130110.HDTV.720p.x264-CGTV.mkv
+mpv CCTV.Xin.Wen.Lian.Bo.20130110.HDTV.720p.x264-CGTV.mkv
+mpv \[颐和园\].Summer.Palace.2006.D9.MiniSD-TLF.mkv
+ls
+cd ..
+mpv \[颐和园\].Summer.Palace.2006.D9.MiniSD-TLF.mkv
+cd
+clear
+sudo apt-get upgrade
+sudo shutdown -h now
+ls
+sudo apt-get install xournal
+sudo apt-get install zim
+ls
+cd Documents
+ls
+l
+vim test.cpp
+g++ test.cpp
+sudo apt-get install --fix-missing
+sudo apt-get upgrade --fix-missing
+sudo apt-get install zim
+ssh
+vim test.cpp
+g++ test.cpp
+ls
+./a.out
+rm a.out
+ls
+./test 
+man flex++
+man flex
+man bison
+ls
+cd Documents
+ls
+cd Compiler
+ls
+mkdir ex1
+ls
+cd ex1
+ls
+git init
+touch README.md
+vim README.md
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hezhizhen/ex1.git
+git push -u origin master
+ls
+cd ..
+ls
+cd ..
+ls
+cd GitLib
+LS
+ls
+cd Compilers
+ls
+mkdir ex1
+ls
+cd ex1
+ls
+vim README.md
+git add README.md
+git commit -m "添加词法分析实验"
+git push
+sudo apt-get install zim
+sudo apt-get install okular
+cd 
+cd Downloads
+ls
+sudo dpkg -i mendeleydesktop_1.13.7-stable_amd64.deb
+cd Compiler
+rm mendeleydesktop_1.13.7-stable_amd64.deb
+ls
+cd ../GitLib/Compilers
+ls
+cd ex1
+ls
+vim lexical.l
+sudo apt-get install kchmviewer
+subl lexical.l
+vim lexical.l
+sudo add-apt-repository ppa:lotem/rime
+sudo apt-get update
+wc
+man wc
+ls
+wc lexical.l
+cloc lexical.l
+sudo apt-get install ibus-rime
+sudo apt-get upgrade
+vim lexical.l
+flex lexical.l
+ls
+vim lex.yy.c
+git add lexical.l lex.yy.c
+git commit -m "类似wc的文字统计程序"
+git push
+vim lexical.l
+flex lexical.l
+man ls'
+man '
+ls
+vim lex.yy.c
+git add lexical.l lex.yy.c
+git commit -m "改进：一次能统计多个文件"
+git push
+git log
+sudo apt-get install kate
+gconf-editor
+ls
+cd ../Documents/ReadingList/my\ favorite\ ebooks
+cd 三体
+ls
+vim 三体【第一部】.txt
+cd 
+sudo apt-get install bookview
+sudo apt-get install fbreader
+fbreader
+ls
+ls -a
+cd .FBReader
+ls
+cd ..
+exit
+sudo shutdown -h now
+ls
+sudo apt-get update
+man tweak
+sudo apt-get update
+ls
+vim /etc/hosts
+ls
+vim /etc/hostapd
+vim /etc/apt/sources.list
+dpkg -l ibus-rime
+dpkg -l vim
+ls
+fbReader
+fbreader
+FBReader
+sudo apt-get install xpad
+sudo apt-get install kplayer
+douban.fm
+tmux
+exit
+tmux
+ls
+cd Documents
+ls
+cd GitLib
+ls
+cd Compilers
+ls
+git log
+cd 
+sudo apt-get install pinta
+ls
+exit
+sudo apt-get install retext
+clear
+ls -a
+ls
+cd Notebooks
+ls
+cd Notes
+ls
+vim Home.txt
+vim notebook.zim
+sudo apt-get install gtg
+df -lh
+free -h
+htop
+cal
+calendar
+sudo apt-get install conky
+conky
+man conky
+conky
+cd Downloads
+ls
+sudo dpkg -i rainlendar2-lite_2.12.2.b138-1_amd64.deb
+sudo apt-get install tofrodos
+sudo apt-get -f install
+sudo apt-get install tofrodos
+sudo apt-get install libjpeg62
+sudo dpkg -i rainlendar2-lite_2.12.2.b138-1_amd64.deb
+sudo conky
+ls
+rm rainlendar2-lite_2.12.2.b138-1_amd64.deb
+sudo dpkg -i rainlendar2-pro_2.12.2.b138-1_amd64.deb
+sudo dpkg -r rainlendar2-lite
+sudo dpkg -i rainlendar2-pro_2.12.2.b138-1_amd64.deb
+ls
+unzip 【批量下载】Rainlendar.Pro.2.12.Build.131.x64.keygen.lic.完美破解等.zip
+ls
+kplayer
+sudo apt-get install samba
+rm IMG_1961.MOV
+ls
+df -lh
+sudo vim /root/.gvfs
+cd /root
+sudo cd /root/
+sudo apt-get install tweak
+sudo tweak
+man tweak
+sudo apt-get install python-software-properties
+sudo add-apt-repository ppa:chris-lea/node.js
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install nodejs
+node --version
+npm
+npm install twei -g
+twei
+curl http://npmjs.org/install.sh | sudo sh
+sudo curl http://npmjs.org/install.sh | sudo sh
+node --version
+curl http://npmjs.org/install.sh
+ls
+vim .npm/twei
+sudo npm install twei -g
+twei
+twei remind
+sudo npm install douban.fm -g
+douban.fm
+sudo apt-get upgrade
+twei 
+twei timeline
+twei
+twei remind
+twei config
+twei friends
+twei comment
+twei
+twei followers
+twei rt
+twei remind
+ls
+cd Do
+cd Downloads
+ls
+evince sol4.pdf
+ls
+exit
+sudo shutdown -h now
+df -lh
+ls
+df -lh
+sudo apt-get upgrade
+exit
+ls
+clear
+sudo shutdown -h now
+battery-graph
+sudo apt-get install libopencv-dev python-opencv
+pkg-config
+ls
+cd Documents/
+ls
+mkdir PR
+ls
+cd P
+cd PR
+ls
+cd ../Physics
+ls
+cd ..
+lsc
+clear
+cd PR
+wget http://cs.nju.edu.cn/wujx/teaching/PR_5.pdf
+ls
+curl http://cs.nju.edu.cn/wujx/teaching/PR_5.pdf
+ls
+ls -a
+wget http://cs.nju.edu.cn/wujx/teaching/PR_5.pdf
+ping cslab.nju.edu.cn
+ls
+exit
+ls
+ping cslab.nju.edu.cn
+sudo apt-get install cmake
+sudo apt-get install qt5-default
+opencv
+cd ..
+ls
+vim tst.py
+python tst.py
+dpkg -l | grep opencv
+sudo apt-get install liblinear1
+sudo apt-get install liblinear-tools
+dpkg -l | grep liblinear
+man touch
+cd PR
+ls
+evince PR_5.pdf
+opencv -vserion
+opencv -version
+opencv --version
+sudo apt-get install w3m
+w3m www.google.com
+sudo apt-get install w3m*
+sudo apt-get install w3m-el w3m-el-snapshot w3m-img
+sudo apt-get install w3m-img
+w3m www.baidu.com
+cat /proc/acpi/button/lid/LID/state 
+ack-grep battery
+clear
+sudo apt-get upgrade
+ls
+cd Documents/GitLib
+ls
+mkdir Physics
+ls
+cd Physics
+ls
+git init
+touch README.md
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hezhizhen/Physics.git
+git push -u origin master
+git log
+ls
+vim TextBook.md
+git add TextBook.md
+git commit -m "本学期大体目录"
+git push
+df -lh
+ls
+sudo shutdown -h now
+df -lh
+cd Documents/GitLib/Physics
+ls
+vim TextBook.md
+subl TextBook.md
+ls
+firefox TextBook.html
+ls
+rm TextBook.html
+ls
+retext TextBook.md
+ls
+cd Documents
+ls
+vim markd.md
+mark-my-words
+sudo apt-get remove mark-my-words
+subl markd.md
+firefox markd.html
+ls
+rm markd.html
+cd ../Pictures
+mv Markdown.jpeg 献给写作者的Markdown新手指南.jpeg
+ls
+display 献给写作者的Markdown新手指南.jpeg
+display Screenshot\ from\ 2015-04-09\ 19:27:42.png
+display Selection_001.png
+ls
+twei remind
+tmux
+cd Documents
+ls
+cd GitLib/Physics
+ls
+git status
+git log
+vim TextBook.md
+cd 
+sudo apt-get install liferea
+dpkg -l | grep rss
+newsbeuter
+dpkg -l newsbeuter
+man newsbeuter
+df -lh
+free
+free -h 
+htop
+sudo apt-get install liferea
+lsmod
+gksudo
+uname -a
+sudo apt-get disk-upgrade
+sudo apt-get upgrade
+sduo apt-get update
+sudo apt-get update
+ls
+clear
+cd
+cd 
+uname -a
+uname
+gdb
+ls
+ssh
+exit
+ls
+exit
+sudo shutdown -h now
+ls
+sudo add-apt-repository ppa:costales/anoise
+sudo apt-get update
+sudo apt-get install anoise
+anoise
+exit
+sudo apt-get install anoise-gui
+anoise
+sudo apt-get install anoise
+sudo apt-get upgrade
+dpkg -l anoise
+man anoise
+sudo anoise
+ls
+exit
+sudo shutdown -h now
+exit
+sudo shutdown 0-h now
+sudo shutdown -h now
+sudo reboot
+ls
+cd Documents
+ls
+cd ReadingList
+ls
+cd my\ favorite\ ebooks
+ls
+cd 
+cd Downloads
+s
+ls
+sudo dpkg -i Yandex.deb
+rm Yandex.deb
+ls
+cd 
+cd Documents
+ls
+cd PR
+ls
+cd ..
+ls
+cd Compiler
+cd ../GitLib/Physics
+ls
+git statue
+git status
+git log
+vim TextBook.md
+retext TextBook.md
+douban.fm
+sudo apt-get install mathtex
+mex
+man mex
+mex
+df
+man mathtex
+mathtex
+ls
+vim TextBook.md
+git add TextBook.md
+git commit -m "2015.4.11"
+git push
+git log
+exit
+sudo shutdown -h now
+df -lh
+ping www.baidu.com
+route www.baidu.com
+free -h
+cd Documents/GitLib/Compilers
+ls
+cd ex1
+ls
+vim README.md
+vim lexical.l
+man bison
+sudo shutdown -h now
+ls
+cd Documents
+ls
+cd Compiler
+ls
+cd Documents/GitLib/Compilers
+ls
+cd ex1
+ls
+vim lexical.l
+ls
+vim mc_lexer.l
+vim lexical.l
+ls
+flex lexical.l
+ls
+vim lex.yy.c
+subl lex.yy.c
+subl lexical.l
+subl lex.yy.c
+vim main.c
+gcc  main.c lex.yy.c -lfl -o scanner
+vim main.c
+gcc  main.c lex.yy.c -lfl -o scanner
+ls
+vim lexical.l
+ls
+rm lexical.l lex.yy.c main.c
+vim lexical.l
+flex lexical.l
+vim lex.yy.c
+subl lex.yy.c
+vim main.c
+subl lexical.l
+subl main.c
+flex lexical.l
+subl lex.yy.c
+gcc lex.yy.c -lfl -o scanner
+ls
+./scanner main.c
+subl main.c
+ls
+rm mc_lexer.l
+vim lexical.l
+ls
+vim lexical.l
+exit
+ls
+git add -A
+git commit -m "words counter"
+git push
+git log
+exit
+sudo shutdown -h now
+ls
+cd Documents
+ls
+cd Compiler
+ls
+vim syntax.y
+subl syntax.y
+vim lexical.l
+vim main.c
+vim lexical.l
+vim syntax.y
+vim lexical.l
+vim syntax.y
+exit
+vim lexical.l
+vim syntax.y
+vim lexical.l
+cd Documents/GitLib/Compilers
+ls
+cd ex1
+ls
+vim lexical.l
+flex lexical.l
+gcc lex.yy.c -lfl -o scanner
+vim lexical.l
+flex lexical.l
+gcc lex.yy.c -lfl -o scanner
+vim test.c
+./scanner test.c
+vim lexical.l
+vim test.c
+flex lexical.l
+gcc lex.yy.c -lfl -o scanner
+./scanner test.c
+vim lexical.l
+flex lexical.l
+gcc lex.yy.c -lfl -o scanner
+./scanner test.c
+flex lexical.l
+gcc lex.yy.c -lfl -o scanner
+./scanner test.c
+cd 
+cd Documents/Compiler
+ls
+vim lexical.l
+cd Documents/Compiler
+vim test.c
+vim lexical.l
+flex lexical.l
+exit
+gcc lex.yy.c -lfl -o scanner
+./scanner test.c
+vim lexical.l
+flex lexical.l
+gcc lex.yy.c -lfl -o scanner
+./scanner test.c
+vim lexical.l
+cd Documents/GitLib/Compilers
+ls
+cd ex1
+ls
+vim lexical.l
+flex lexical.l
+gcc lex.yy.c -lfl -o scanner
+vim test.c
+./scanner test.c
+vim lexical.l
+flex lexical.l 
+gcc lex.yy.c -lfl -o scanner
+./scanner test.c
+vim lexical.l
+flex lexical.l
+gcc lex.yy.c -lfl -o scanner
+./scanner test.c
+vim test.c
+subl lexical.l
+flex lexical.l
+gcc lex.yy.c -lfl -o scanner
+./scanner test.c
+vim test.c
+ls
+cd 121220032_lab1
+ls
+exit
+sudo apt-get upgrade
+sudo apt-get update
+ls
+exit
+sudo apt-get update
+sudo apt-get upgrade
+df -lh
+exit
+sudo shutdown -h now
+free -h
+cd /media/hezhizhen
+ls
+cd Macintosh\ HD
+ls
+cd Users
+ls
+cd hezhizhen
+ls
+cd Desktop
+ls
+sudo cd Desktop
+ls
+exit
+ls
+df -lh
+cd Downloads
+ls
+abiword dump.docx
+rm dump.docx
+ls
+cd Documents
+ls
+mkdir CG
+ls
+cd CG
+ls
+cd ..
+ls
+cd PR
+ls
+date
+date -u
+date 
+date %U
+date
+man date
+cal
+sudo apt-get install lunar
+lunar
+exit
+lunar
+sudo npm install douban.fm -g
+ls -a
+cd .k
+cd .kde
+ls
+cd share
+ls
+cd config
+ls
+cd ..
+cd ../
+ls
+cd ..
+ls
+sudo pip install douban.fm
+douban.fm
+twei remind
+twei timeline
+twei remind
+sudo apt-get install libcurl3
+sduo apt-get upg
+sudo apt-get upgrade
+sudo apt-get install amule
+sudo apt-get upgrade
+sudo apt-get install pptp-linux
+pptp
+pptpsetup
+man pptp
+sudo apt-get install openfetion
+sudo apt-get install kmess
+df -lh
+ls
+cd Documents
+cd ../Downloads
+ls
+rm myieForUbuntu.tar
+ls
+mutt
+sudo apt-get install mutt
+mutt
+man mutt
+sudo apt-get install fqterm
+sudo apt-get install conky
+conky
+sudo apt-get install basket
+sudo apt-get install osmo
+df -h
+sudo apt-get install keepnote
+sudo apt-get install evernote-mode
+sudo apt-get install rednotebook
+sudo apt-get install dia
+exit
+sudo apt-get install impressive
+dial
+dia
+impressive
+ls
+cd Downloads
+impressive sol4.pdf
+sudo apt-get install freemind
+sudo apt-get install freeplane
+sudo apt-get install cuyo
+ls
+sudo dpkg -i nixnote-1.5_amd64.deb
+sudo apt-get upgrade
+sudo apt-get -f install
+sudo apt-get upgrade
+sudo add-apt-repository ppa:nvbn-rm/ppa
+sudo apt-get upgrade
+sudo apt-get up
+sudo apt-get update
+df -h
+sudo apt-get install everpad
+sudo apt-get install steam
+df -lh
+ls
+exit
+sudo shutdown -h now
+ls
+cd Downloads
+ls
+rm nixnote-1.5_amd64.deb
+ls
+df -lh
+cd 
+cd Documents
+ls
+./test
+vim tst.py
+python tst.py
+cd GitLib
+ls
+mkdir ComputerGraphics
+cd ComputerGraphics
+touch README.md
+echo "# ComputerGraphics" >> README.md
+vim README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hezhizhen/ComputerGraphics.git
+git push -u origin master
+git log
+cd Documents/CG
+ls
+impressive 计算机图形学实习作业二.pdf
+impressive 计算机图形学的算法基础-扫描版.pdf
+cd ..
+ls
+cd Compiler/
+ls
+impressive 实验1讲解.pptx
+impressive chapter\ 1.pptx
+default
+ls
+man impressive
+conky
+df -lh
+sudo apt-get install pingus
+cd ..
+ls
+cd ComputerGraphics
+cd Documents/CG
+ls
+impressive CG-course-01-Introduction.pdf
+cd
+sudo apt-get install openttd
+df -lh
+sudo apt-get install nethogs
+nethogs
+sudo nethogs
+sudo nethogs eth0
+sudo nethogs eth1
+ifconfig
+sudo nethogs wlan0
+sudo apt-get install xcircuit
+sudo apt-get install gnuplot
+xcircuit
+sudo apt-get install ffmpeg
+sudo apt-get install exaile 
+sudo apt-get install gpicview
+cd Pictures
+ls
+gpicview Screenshot\ from\ 2015-04-09\ 19:27:42.png
+sudo apt-get install gthumb
+sudo apt-get install stardict
+sudo apt-get install sdcv
+sdcv
+sudo apt-get install mupdf
+cd
+cd Downloads
+ls
+mupdf sol4.pdf
+sudo apt-get install gparted
+sudo apt-get install powertop
+powertop
+sudo apt-get install ntfs-config
+sudo apt-get install geany
+df -lh
+cd 
+ls
+cd Documents
+ls
+cd ../Downloads
+ls
+sudo dpkg -i xmind-linux-3.5.1.201411201906_amd64.deb
+suod apt-get -f install
+sudo apt-get -f install
+ls
+rm xmind-linux-3.5.1.201411201906_amd64.deb
+ls
+cd .
+cd
+cd Documents
+ls
+xmind Today\ To\ Do\ List.xmind
+xmind
+sudo apt-get upgrade
+ext
+exit
+cd 
+ls
+cd Notebooks
+ls
+cd Notes
+ls
+cd ..
+ls
+cd ..
+ls
+cd M
+cd Mail
+ls
+cd ..
+cd Music
+ls
+cd ..
+exit
+ls
+vim Slides.md
+evince CG-course-01-Introduction.pdf
+cd ../../CG
+ls
+exit
+cd ../GitLib/ComputerGraphics
+ls
+rm Slides.md
+vim CG-course-01-Introduction.md
+ls
+git add CG-course-01-Introduction.md
+git commit -m "part"
+git push
+ls
+cd Documents/Compiler
+cd ../CG
+ls
+impressive 计算机图形学实习作业二.pdf
+cd
+cd Downloads
+ls
+impressive 121220032_何之真.pptx
+ls
+presentation
+ls
+cd 
+cd Documents
+ls
+impressive test.odp
+man impressive
+ls
+rm test.odp
+ls
+impressive /usr/share/doc/impressive/demo.pdf
+ls
+cd ReadingList
+ls
+cd my\ favorite\ ebooks
+ls
+impressive Google第一本自有杂志《Think\ Quarterly》.pdf
+impressive 《人性的优点》全集.txt
+ls
+cd ..
+ls
+cd Unix\ \&\ Linux
+ls
+cd ..
+ls
+cd 【6寸PDF】红楼梦脂评汇校本
+ls
+impressive 【6寸PDF】红楼梦脂评汇校本.pdf
+cd ..
+ls
+impressive everyone-can-use-english.pdf
+cd
+cd Downloads
+impressive 121220032_何之真.pdf
+ls
+rm 121220032_何之真.pdf
+ls
+rm 121220032_何之真.pptx
+ls
+twei remind
+twei timeline
+twei remind
+exit
+df -lh
+sudo apt-get update
+df -lh
+sudo apt-get upgrade
+sudo apt-get install p7zip
+mutt
+sudo apt-get install msmtp
+ls
+ls -a
+cd .npm
+ls
+cd ..
+cd .npm
+du -h
+cd ..
+ls
+cd M
+cd Mail
+ls
+ls -a
+cd ..
+vim /etc/Muttrc
+ls
+mutt
+vim .muttrc
+mutt
+vim .msmtprc
+chmod 600 .msmtprc
+mutt
+ls 
+cd M
+cd Mail
+ls
+cd ..
+ls
+ls -a
+vim .msmtprc
+rm .msmtprc .muttrc
+ls
+vim hs_err_pid27184.log
+mutt
+df -lh
+free -h
+exit
+sudo shutdown -h now
+ls
+cd /media
+ls
+cd hezhizhen
+ls
+cd Seagate\ Backup\ Plus\ Drive
+ls
+du -h
+df -lh
+exit
+cd /media/hezhizhen/Seagate\ Backup\ Plus\ Drive
+ls
+cd reading\ task
+ls
+impressive 当下的力量.pdf
+cd ../picture/讲座照片
+ls
+impressive -e IMG_8042.JPG
+impressive IMG_8043.JPG
+twei remind
+twei update From the day before yesterday on, my ipad has been broken. Apps like wechat are now unavailable, so please do not contact me on wechat.
+twei
+df -lh
+twei timeline
+free -h
+exit
+sudo shutdown -h now
+exit
+sudo apt-get upgrade
+ls
+cd Downloads
+ls
+vim Makefile
+ls
+cd 
+cd Documents/GitLib/ComputerGraphics
+ls
+cd
+cd Downloads
+ls
+cd
+cd Documents/PR
+cd att_faces
+ls
+tree
+cd
+ls
+cd Do
+cd Documents
+s
+ls
+cd Mendeley\ Desktop
+ls
+impressive Amplifier,\ Simulation\ -\ 2009\ -\ 基于\ Multisim\ 的差分放大电路仿真分析.pdf
+du -h
+sudo shutdown -h now
+ls
+sudo apt-get upgrade
+sudo apt-get install --fix-missing
+sudo apt-get upgrade
+sudo apt-get install w3m
+sudo apt-get update
+free -
+free -h
+sudo apt-get upgrade
+sudo subl /etc/hosts
+vim /etc/hosts
+ping www.google.com
+sudo apt-get upgrade
+ls
+cd Documents
+ls
+cd Mendeley\ Desktop
+ls
+impressive Np\ -\ 1993\ -\ No\ Title.pdf
+rm Np\ -\ 1993\ -\ No\ Title.pdf
+ls
+impressive Mi,\ Qiu-pi\ -\ 2004\ -\ -\ Dimensional\ Microelectronics\ An\ Overview\ of\ Three.pdf
+rm Mi,\ Qiu-pi\ -\ 2004\ -\ -\ Dimensional\ Microelectronics\ An\ Overview\ of\ Three.pdf
+ls
+impressive Yi,\ Xin\ -\ 2006\ -\ An\ Overview\ of\ Fluid\ Dispensing\ Technology\ for\ Micro\ -\ electronics\ Packaging.pdf
+rm Yi,\ Xin\ -\ 2006\ -\ An\ Overview\ of\ Fluid\ Dispensing\ Technology\ for\ Micro\ -\ electronics\ Packaging.pdf
+ls
+rm Al,\ Ab\ -\ 2013\ -\ 微电子封装技术及发展趋势综述.pdf
+ls
+rm Amplifier,\ Simulation\ -\ 2009\ -\ 基于\ Multisim\ 的差分放大电路仿真分析.pdf
+ls
+impressive Unknown\ -\ 2003\ -\ No\ Title.pdf
+rm Unknown\ -\ 2003\ -\ No\ Title.pdf
+impressive Unknown\ -\ 2007\ -\ No\ Title.pdf
+rm Unknown\ -\ 2007\ -\ No\ Title.pdf
+ls
+impressive Unknown\ -\ 2008\ -\ t\ u\ d\ o\ u\ r\ i\ e\ r\ r\ a\ n\ s\ f\ o\ r\ mB\ a\ s\ e\ do\ nF.pdf
+rm Unknown\ -\ 2008\ -\ t\ u\ d\ o\ u\ r\ i\ e\ r\ r\ a\ n\ s\ f\ o\ r\ mB\ a\ s\ e\ do\ nF.pdf
+ls
+impressive Unknown\ -\ Unknown\ -\ A\ Tutorial\ on\ Support\ Vector\ Machines\ for\ Pattern\ Recognition.pdf
+ls
+impressive Unknown\ -\ Unknown\ -\ I\ c\ I\ c\ u.pdf
+rm Unknown\ -\ Unknown\ -\ I\ c\ I\ c\ u.pdf
+impressive Unknown\ -\ Unknown\ -\ \(l\ \)\ 2\ \(.pdf
+rm Unknown\ -\ Unknown\ -\ \(l\ \)\ 2\ \(.pdf
+impressive Unknown\ -\ Unknown\ -\ No\ Title.pdf
+rm Unknown\ -\ Unknown\ -\ No\ Title.pdf
+cd /tmp
+ls
+vim report.html
+cp report.html ~/Documents
+cd Documents
+ls
+yandex-browser report.html
+exit
+sudo shutdown -h now
+douban.fm
+sudo apt-get upgrade
+douban.fm
+dpkg -l douban.fm
+sudo pip install douban,fm
+sudo pip install douban.fm
+clear
+douban.fm
+twei remind
+twei timeline
+exit
+ls
+sudo apt-get upgrade
+sudo apt-get install -f
+ls
+cd Documents
+ls
+cd dou_ban_spider
+ls
+git status
+ls
+vim douban_spider.py
+ls
+cd ..
+sl
+ls
+vim test.cpp
+./test
+vim Today\ To\ Do\ List.xmind
+vim tst.py
+python tst.py
+ls
+cd Documents
+ls
+./test
+cd dou_ban_spider
+ls
+vim douban_spider.py
+exit
+cd 
+vim .vimrc
+subl .vimrc
+ls
+vim .viminfo
+exit
+vim .vimrc.local
+vim .viminfo
+vim .vimrc
+exit
+vim .viminfo
+ls
+cd Documents
+ls
+cd dou_ban_spider
+ls
+vim douban_spider.py
+cd ..
+ls
+vim test.cpp
+sudo apt-get install tagbar
+sudo apt-get install gotags
+ls
+cd Documents
+ls
+vim test.cpp
+cd 
+vim .vimrc
+vim 
+ls
+vim 
+vim
+vim test.cpp
+vim
+ls
+vim test.cpp
+g++ test.cpp
+./a.out
+df 0lh
+df -lh
+ls
+rm a.out
+ls
+./test
+subl test.cpp
+./test
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+sudo shutdown -h now
+ping www.google.com
+twei remind
+twei timeline
+cd Documents/Compiler/
+ls
+impressive 编译原理第2版\(中文\).pdf
+ls
+twei timeline
+twei remind
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+douban.fm
+ls -a
+vim .doubanfm_config
+douban.fm 
+exit
+sudo apt-get install fortune-mod
+fortune
+sudo apt-get install fortune-zh
+fortune
+fortune-zh
+fortune
+toilet
+toilet linux
+sudo apt-get install toilet
+df -h
+toilet linux
+toilet Hello wol
+toilet Hello World, I will hug you!
+toilet Hello World, I 
+toilet Hello World I 
+toilet Helldjfldjfldf
+toilet dfjldjfldjfd
+exit
+clear
+df -lh
+w3m www.baidu.com
+ls
+cd Documents
+ls
+vim test.cpp
+twei remind
+exit
+sudo shutdown -h now
+sudo apt-get update
+fortune
+fortune-zh
+cd Desktop
+wget http://cs.nju.edu.cn/wujx/teaching/PR_6.pdf
+du -h PR_6.pdf
+cd
+cd Documents/PR
+ls
+impressive PR_6.pdf
+tmux
+:q
+exit
+screen
+tmux
+ack-grep .tmux
+ls -a
+vim .tmux.conf
+tmux
+ls -a
+vim .tmux.conf
+vim .vimrc
+vim .zshrc
+cd .spf13-vim-3
+ls
+cd ..
+cd .oh-my-zsh
+ls
+cd tools
+ls
+cd ..
+ls
+cd plugins
+ls
+cd tmux
+ls
+vim tmux.only.conf
+vim tmux.extra.conf
+vim tmux.plugin.zsh
+exi
+exit
+tmux
+?
+%
+impressive PR_6.pdf
+exit
+ls -a
+vim .inputrc
+vim .editrc
+exit
+vim .tweirc
+exit
+cd
+tmux
+exit
+cd Documents/PR
+ls
+w3m www.baidu.co
+w3m www.baidu.com
+ls -a
+cd .adobe
+ls
+du -h
+cd ..
+vim .aprc
+ls -a
+ls 
+clear
+ls
+cd .TelegramDesktop
+ls
+cd tdata
+l
+ls
+display icon.png
+cd ticons
+ls
+impressive ico_22_1.png
+impressive ico_22_2.png
+impressive icomute_22_0.png
+cd
+ping cslab.nju.edu.cn
+clear
+impressive PR_1.pdf
+cd att_faces
+ls
+cd ..
+ls
+clear
+vim note
+ls
+clear
+ls
+fortune
+cal
+free -h
+printerbanner heh
+man printerbanner
+clear
+ls -a
+vim .profile
+vim .xinputrc
+vim .dmrc
+.fonts
+ls
+cd ..
+vim .zsh-update
+cd .oh-my-zsh
+ls
+vim README.markdown
+cd 
+vim .zshrc
+impressive PR_4.pdf
+impressive PR_5.pdf
+subl
+gnuplot
+octave
+exit
+dict
+ls
+l -h
+w3m att_faces
+cd Face\ Recognition\ with\ OpenCV\ —\ OpenCV\ 2.4.11.0\ documentation_files
+ls
+display a70b88b2b74cccfad3877a6950ce295d41f35483.png
+cd ..
+clear
+impressive PR_6.pdf
+timer
+time
+times
+tic toc
+ls
+man tic
+toe
+man toe
+exit
+sudo shutdown -h nopw
+sudo shutdown -h now
+sudo apt-get upgrade
+sudo apt-get install dict
+dict update
+ls
+clear
+exit
+df -lh
+cd Downloads
+ls
+twei remind
+twei timeline
+df -lh
+ls
+du -h Matlab\ R2015a
+cd Matlab\ R2015a
+ls
+du -h ml15aw64.iso
+clear
+sudo 
+exit
+sudo shutdown -h now
+df -lh
+sudo apt-get upgrade
+sudo fdisk -l
+sudo mkfs.vfat -F 32 /dev/sdb1
+sudo fdisk -l
+sudo fdisk -lh 
+sudo fdisk -l -h
+sudo fdisk -l
+sudo mkfs.vfat -F 32 /dev/sdb1
+exit
+sudo apt-get upgrade
+exit
+df -h
+exit
+ls
+exit
+sudo shutdown -h now
+sudo apt-get  upgrade
+sudo apt-get update
+ls
+cd Music
+ls
+cd Bach\ -\ Brandenburg\ Concertos\&Orchestral\ Suite
+ls
+cd ..
+ls
+sudo add-apt-repository ppa:hzwhuang/ss-qt5
+sudo apt-get update
+sudo apt-get install shadowsocks-qt5
+ping www.google.com
+ping www.facebook.com
+sudo pip install shadowsocks
+sudo apt-get install python-pip
+pip install shadowsocks
+df -lh
+exit
+shadowconfig
+ls a-a
+ls -a
+cd .sunpinyin
+ls
+vim userdict
+cd ...
+cd 
+ack-grep shadow
+ls -a
+cd .config
+ls
+exit
+sudo shutdown -h now
+twei remind
+twei timeline
+sudo apt-get upgrade
+sudo reboot
+vim .profile
+source .profile
+vim .profile
+source .profile
+cd Music/邓紫棋
+ls
+sudo apt-get upgrade
+sudo apt-get install python-mutagen
+sudo apt-get install gstreamer0.10-plugins-ugly 
+cd
+tmux
+ls
+df -lh
+cd Documents
+ls
+mkdir jekyll_demo
+cd jekyll_demo
+git init
+git checkout --orphan gh-pages
+tmux
+cd Documents/GitLib
+ls
+git clone https://github.com/hezhizhen/hezhizhen.github.io
+ls
+cd hezhizhen.github.io
+ls
+echo "Hello World" > index.html
+git add -A
+git commit -m "Initial commit"
+git push -u origin master
+cd ..
+ls
+rmdir jekyll_demo
+ls
+vim markd.md
+ls
+vim index.html
+sudo pip install markdown
+git add index.html
+git commit -m "test"
+git push
+ls
+vim _config.yml
+ls
+vim _config.yml
+subl _config.yml
+ls
+mkdir _layouts
+cd _layouts
+vim default.html
+subl default.html
+ls
+cd ..
+s
+ls
+rm index.html
+mkdir _posts
+cd _posts
+ls
+vim hello-world.html
+subl hello-world.html
+cd ..
+ls
+vim index.html
+subl index.html
+ls
+git add -A
+git commit -m "first post"
+git push
+ls
+cd _posts
+ls
+mv hello-world.html 2015-04-19-hello-world.html
+ls
+cd ..
+git add -A
+git commmit -m "modify"
+git commit -m "modify"
+git push
+ls
+cd _posts
+ls
+vim 2015-04-19-test.md
+d ..
+cd ..
+ls
+git add -A
+git commit -m "test markdown"
+git push
+cd _posts
+subl 2015-04-19-test.md
+cd ..
+git add -A
+git commit -m "modify test"
+git push
+ls
+cd _posts
+ls
+vim 2015-04-19-test.md
+ls
+vim 2015-04-19-hello-world.html
+ls
+rm 2015-04-19-test.md
+ls
+subl 2015-04-19-hello-world.html
+cd ..
+ls
+subl index.html
+ls
+git add -A
+git commit -m "modify examples"
+git push
+cd ..
+cd hezhizhen.github.io
+ls
+ack hello
+ls
+cd _layouts
+ls
+cd ..
+ls
+vim _config.yml
+subl _config.yml
+ls
+sudo npm install hexo -g
+exit
+sudo apt-get install jekyll
+dpkg -l | grep markdown
+sudo apt-get install rubygems-integration
+jekyll
+ls
+cd Documents
+ls
+git clone https://github.com/mojombo/mojombo.github.io.git
+ls
+cd mojombo.github.io
+ls
+subl _config.yml
+ls
+subl _config.yml
+ls
+subl index.html
+ls
+vim README.textile
+cd _layouts
+ls
+vim default.html
+subl default.html
+ls
+cd _layouts
+ls
+vim default.html
+subl default.html
+vim post.html
+subl post.html
+ls
+cd ..
+ls
+cd _posts
+ls
+cd ..
+ls
+cd _posts
+ls
+subl 2008-10-18-how-i-turned-down-300k.textile
+subl 2014-04-21-farewell-github-hello-immersive-computing.md
+cd ..
+ls
+vim atom.xml
+vim CNAME
+ls
+cd ..
+ls
+git add -A
+git commit -m "change the template"
+git push
+ls
+subl index.html
+ls
+subl _config.yml
+cd _layouts
+ls
+subl default.html
+subl post.html
+ls
+cd ..
+ls
+git add -A
+git commit -m "correct some mistakes"
+git push
+ls
+subl _config.yml
+subl index.html
+cd _layouts
+ls
+subl default.html post.html
+ls
+vim default.html
+cd ..
+git add -A
+git commit -m "last one"
+git push
+ls
+cd cs
+cd css
+ls
+vim screen.css
+cd .
+ls
+cd ..
+cd css
+ls
+mkdir css
+cd css
+ls
+subl screen.css
+vim screen.css
+subl screen.css
+ls
+subl syntax.css
+vim syntax.css
+subl syntax.css
+ls
+cd ..
+git add -A
+git commit -m "add css"
+git push
+ls
+cd ..
+ls
+cd images
+ls
+display rss.png
+ls
+cd ..
+ls
+vim atom.xml
+vim pgp.txt
+vim README.textile
+cd random
+ls
+vim canvas_rotated_textfill.html
+ls
+cd ..
+ls
+cd _posts
+ls
+vim 2010-08-23-readme-driven-development.md
+subl 2014-04-21-farewell-github-hello-immersive-computing.md
+ls
+cd _posts
+ls
+vim 2014-04-19-first-commit.md
+mv 2014-04-19-first-commit.md 2015-04-19-first-commit.md
+ls
+subl 2015-04-19-first-commit.md
+cd Documents/GitLib/hezhizhen.github.io
+ls
+cd _posts
+ls
+vim 2015-04-19-first-commit.md
+ls
+cd ..
+git add -A
+git commit -m "first commit markdown"
+git push
+ls
+vim 2015-04-19-first-commit.md
+ls
+cd ..
+ls
+cd ..
+ls
+exit
+ls
+df -lh
+ls
+cd _layouts
+ls
+vim post.html
+vim default.html
+vim post.html
+w3m hezhizhen.github.io
+cd Documents/GitLib
+ack meta
+ack-grep meta
+cd Documents/mojombo.github.io
+ls
+cd _posts
+ls
+vim 2008-11-17-blogging-like-a-hacker.textile
+ls
+ls *.md
+vim 2011-11-22-open-source-everything.md
+ls
+cd .
+cd ..
+cd _posts
+ls
+vim 2015-04-19-first-commit.md
+vim 2014-04-21-farewell-github-hello-immersive-computing.md
+vim 2011-05-03-rejected-bio-from-the-setup.md
+vim 2010-12-11-designer-architect-developer.md
+vim 2015-04-19-hello-world.html
+vim 2010-12-11-designer-architect-developer.md
+cd ..
+git add -A
+git commit -m "modify something"
+git push
+vim 2011-05-03-rejected-bio-from-the-setup.md
+cd _posts
+vim 2015-04-19-first-commit.md
+ls
+vim 2000-01-01-test.md
+cd ..
+git add -A
+git commmit -m "try a old time"
+git push
+git commit -m "try a old time"
+git push
+ls
+cd ..
+ls
+ack-grep meta
+ls
+cd _posts
+ls
+vim 2000-01-01-test.md
+git add -A
+git commit -m "add"
+git push
+exit
+ls
+cd hezhizhen.github.io
+ls
+cd css
+ls
+vim screen.css
+vim syntax.css
+cd Documents
+ls
+cd mojombo.github.io
+ls
+cd _posts
+ls
+vim 2014-04-21-farewell-github-hello-immersive-computing.md
+cd Documents/GitLib/hezhizhen.github.io
+ls
+cd _posts
+ls
+vim 2000-01-01-test.md
+vim 2015-04-19-first-commit.md
+exit
+cd Documents
+cd mojombo.github.io
+ls
+cd _posts
+ls
+cd ..
+cd random
+ls
+vim canvas_rotated_textfill.html
+cd ..
+cd _posts
+ls
+vim 2014-04-21-farewell-github-hello-immersive-computing.md
+subl 2014-04-21-farewell-github-hello-immersive-computing.md
+cd ..
+ls
+cd _posts
+ls
+vim 2014-04-21-farewell-github-hello-immersive-computing.md
+subl 2014-04-21-farewell-github-hello-immersive-computing.md
+git add -A
+git commit -m "test"
+git push
+ls
+rm 2014-04-21-farewell-github-hello-immersive-computing.md
+vim 2000-01-01-test.md
+ls
+vim 2014-04-21-farewell-github-hello-immersive-computing.md
+git add -A
+git commit -m "modify"
+hezhizhen
+git push
+ls
+cd Documents/GitLib
+ls
+cd hezhizhen.github.io
+ls
+git push
+cd _posts
+ls
+vim 2000-01-01-test.md
+ls
+vim 2015-04-19-first-commit.md
+cd Documents/mojombo.github.io
+ls
+cd css
+ls
+vim screen.css
+ls
+cd ..
+ls
+cd random
+ls
+cd ..
+ls
+vim README.textile
+ls
+exit
+subl 2014-04-21-farewell-github-hello-immersive-computing.md
+subl 2000-01-01-test.md
+ls
+git add -A
+git commit -m "modify character"
+git push
+ls
+vim 2015-04-19-first-commit.md
+subl 2015-04-19-first-commit.md
+subl 2015-04-19-hello-world.html
+ls
+git add -A
+git commit -m "modify character"
+git push
+vim 2015-04-19-hello-world.html
+ls
+exit
+cd ..
+ls
+vim markd.md
+subl markd.md
+vim markd.md
+cd 
+ls
+vim .vimrc
+cd Documents
+ls
+vim markd.md
+cd ..
+ls
+subl .vimrc
+vim .vimrc
+ls -a
+vim .vimrc.local
+vim .vimrc
+cd Documents
+ls
+vim 
+ls
+vim a.md
+ls
+free -h
+cd GitLib/hezhizhen.github.io
+ls
+cd _posts
+ls
+vim 2015-04-19-first-commit.md
+subl 2015-04-19-first-commit.md
+exit
+twei remind
+twei timeline
+sudo shutdown -h now
+ls
+exit
+cd Documents/GitLib
+ls
+cd hezhizhen.github.io
+ls
+cd _posts
+ls
+vim 2015-04-19-first-commit.md
+git add -A
+git commit -m "delete >, add tab"
+git push
+ls
+ls -a
+ls
+cd Documents
+ls
+vim markd.md
+nano markd.md
+vim markd.md
+exit
+vim .zshrc
+vim .vimrc
+ls
+cd
+cd Documents
+subl markd.md
+ls
+firefox markd.html
+rm markd.html
+ls
+subl test.cpp
+subl markd.md
+ls
+subl tst.py
+exit
+subl .vimrc
+cd Documents
+nano markd.md
+gedit markd.md
+vim markd.md
+cd ..
+subl .vimrc
+vim
+vim --version | grep python
+sudo apt-get install vim-addon-manager
+cd Documents/GitLib
+ls
+cd hezhizhen.github.io
+ls
+cd _posts
+ls
+subl 2000-01-01-test.md
+ls
+subl 2015-04-19-first-commit.md
+git add -A
+git commit -m "test"
+git push
+w3m hezhizhen.github.io
+ls
+git add -A
+git commit -m "test"
+git push
+ls
+cd ..
+ls
+mkdir images
+ls
+cd _posts
+ls
+vim 2015-04-20-diary.md
+subl 2015-04-20-diary.md
+vim 2015-04-20-diary.md
+subl 2015-04-20-diary.md
+cd ..
+ls
+cd images
+ls
+cd ../_posts
+ls
+git add -A
+cd ..
+ls
+git add -A
+git commit -m "add a photo"
+git push
+twei remind
+ls
+cd _posts
+subl 2015-04-20-diary.md
+git add -A
+git commit -m "modify the path"
+git push
+ls
+vim 2015-04-20-diary.md
+douban.fm
+subl 2015-04-20-diary.md
+retext 2015-04-20-diary.md
+ls
+vim 2015-04-20-diary.md
+git add -A
+git commit -m "2015.4.20 diary"
+git push
+twei remind
+ls
+vim 2000-01-01-test.md
+git add -A
+git commit -m "modify"
+git push
+exit
+ls
+twei remind
+df -lh
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+ls
+xinput list
+clear
+exit
+douban.fm
+sudo apt-get install -f
+douban.fm
+sudo pip install douban.fm
+sudo apt-get install mplayer
+sudo pip install douban.fm
+sudo apt-get install python3-pip
+sudo pip3 install douban.fm
+douban.fm
+npm
+dd
+sudo npm install douban.fm -g
+douban.fm
+tmux
+ls
+cd Documents
+ls
+cd GitLib/hezhizhen.github.io
+ls
+cd _posts
+ls
+vim 2015-04-21-beautify-ubuntu.md
+subl 2015-04-19-first-commit.md
+subl 2015-04-21-beautify-ubuntu.md
+vim 2015-04-21-beautify-ubuntu.md
+subl 2015-04-21-beautify-ubuntu.md
+ls
+firefox 2015-04-21-beautify-ubuntu.html
+rm 2015-04-19-hello-world.html 2015-04-21-beautify-ubuntu.html 
+ls
+firefox 2015-04-21-beautify-ubuntu.html
+rm 2015-04-21-beautify-ubuntu.html
+ls
+vim 2015-04-21-beautify-ubuntu.md
+ls
+cd Documents/GitLib/hezhizhen.github.io/_posts
+vim 2015-04-21-beautify-ubuntu.md
+ls
+subl 2015-04-21-beautify-ubuntu.md
+ls
+firefox 2015-04-21-beautify-ubuntu.html
+rm 2015-04-21-beautify-ubuntu.html
+ls
+vim 2015-04-21-beautify-ubuntu.md
+ls -a
+uname -a
+dpkg -l | grep rainlendar
+sudo apt-get install preload prelink
+sudo apt-get install gparted 
+sudo apt-get install gpart
+ls
+cd Documents
+ls
+vim test.cpp
+exit
+subl 2015-04-21-beautify-ubuntu.md
+git add -A
+git log
+git commit -m "2015.04.21"
+git push
+exit
+ls
+s
+ls
+git add -A
+git commit -m "modify"
+git push
+ls
+cd Documents
+ls
+cd mojombo.github.io
+ls
+cd _posts
+ls
+cd ..
+ls
+cd ..
+ls
+exit
+ls
+subl 2015-04-21-beautify-ubuntu.md
+ls
+git add -A
+git commit -m "modify"
+git push
+git add -A
+git commit -m "modify"
+git push
+ls
+git add -A
+git commit -m "modify"
+git push
+git add -A
+git commit -m "modify"
+git push
+git add -A
+git commit -m "modify"
+git push
+exit
+eixt
+exit
+ls
+cd Documents
+ls
+cd GitLib
+cd hezhizhen.github.io
+clot
+cloc
+cloc _posts
+cd _posts
+ls
+cloc 2000-01-01-test.md
+cd ../..
+ls
+cd ..
+ls
+cloc test.cpp
+wc test.cpp
+wc -h test.cpp
+wc -l test.cpp
+wc -m test.cpp
+wc -c test.cpp
+wc -w test.cpp
+cd GitLib/hezhizhen.github.io
+ls
+wc _posts
+cd _posts
+ls
+wc 2000-01-01-test.md
+vim 2000-01-01-test.md
+sudo pip install zwc
+easy_install -U pip
+sudo easy_install -U pip
+sudo pip install zwc
+douban.fm
+sudo pip install douban.fm
+douban.fm
+python --version
+zwc
+ls
+zwc 2000-01-01-test.md
+cd
+zwc < Documents/GitLib/hezhizhen.github.io/_posts/2000-01-01-test.md
+zwc < Documents/GitLib/hezhizhen.github.io/_posts/2015-04-20-diary.md
+twei
+twei remind
+gem install jekyll
+man gem
+sudo gem install jekyll
+gem
+gem install
+jekyll
+ls -a
+cd .subversion
+ls
+vim config
+ls
+cd .
+cd ..
+ls
+gem
+gem install rake
+sudo gem install jekyll
+sudo gem install rake
+ls
+jekyll new
+ls
+jekyll new my-awesome-site
+sudo apt-get install jekyll rake
+man jekyll
+df -lh
+man jekyll
+jekyll build
+ls
+cd Documents/GitLib/hezhizhen.github.io
+ls
+vim _config.yml
+gem install jekyll --pre
+exit
+ls
+cd Documents
+ls
+cd GitLib
+cd ..
+cd PR
+ls
+evince ex2.pdf
+cd ..
+ls
+cd GitLib/hezhizhen.github.io
+ls
+vim _config.yml
+cd ..
+ls
+subl markd.md
+ls
+vim markd.md\~
+firefox markd.html
+ls
+rm markd.html
+rm markd.md\~
+ls
+exit
+sudo shutdown -h now
+cd Documents/GitLib/hezhizhen.github.io
+ls
+cd _posts
+ls
+vim 2015-04-20-diary.md
+subl 2015-04-21-beautify-ubuntu.md
+vim 2015-04-20-diary.md
+cd ..
+cd images
+ls
+git add -A
+cd ..
+cd _posts
+git add -A
+git commit -m "add a photo"
+git push
+ls
+vim 2015-04-21-beautify-ubuntu.md
+ls
+exit
+ls
+sudo apt-get install cmatrix
+free -h
+cmatrix
+man cmatrix
+ls
+cmatrix
+free -h
+exit
+free -h
+df -h
+ls -l /lib/modules/3.16.0-33-generic/kernel/fs
+sudo mount
+fdisk
+fdisk -l
+sudo fdisk -l
+sudo fdisk -lh
+sudo fdisk -l
+cowsay
+sudo apt-get install cowsay 
+cowsay hello world
+cowsay -l
+cowsay -f elephant  hello world
+fortune | cowsay -f daemon
+man daemon
+fortune | cowsay -f daemon
+cowsay -f daemon  hello world
+cowsay -l
+cowsay -f apt  hello world
+cowsay -f default  hello world
+cowsay -f cock  hello world
+cowsay
+cowsay |\nd
+fortune | cowsay
+fortune
+fortune-zh
+sudo apt-get install aview
+cd Pictures
+ls
+display Screenshot\ from\ 2015-04-09\ 19:27:42.png
+asciiview 
+man aview
+man asciiview
+asciiview Screenshot\ from\ 2015-04-09\ 19:27:42.png
+asciiview Screenshot\ from\ 2015-04-09\ 19:27:42.png -driver curses
+cd ..
+cd Documents
+cd
+cd Downloads
+ls
+cd Telegram\ Desktop
+s
+ls
+cd squirrel
+ls
+asciiview 松鼠高清复刻版-01.png
+asciiview 松鼠高清复刻版-01.png -driver curse
+asciiview 松鼠高清复刻版-01.png -driver curses
+asciiview 松鼠高清复刻版-05.png -driver curses
+gnome-screensaver
+sudo apt-get install xscreensaver
+vim /etc/rc.local
+cd 
+vim /etc/profile
+gnome-control-center
+df -lh
+ls 
+du -h deja-dup
+df -lh
+cd deja-dup
+ls
+ls -a
+cd ..
+free -h
+cd ..
+ls
+cd hezhizhen
+ls
+du -h d
+du -h deja-dup
+exit
+fdisk
+fdisk -l
+sudo fdisk -l
+exit
+ls
+cd Pictures
+ls
+mkdir Pretty
+ls
+cd Pretty
+ls
+ls -lh
+rm 9426.jpg
+ls -lh
+free -h
+ls
+impressive .
+cd Pictures/Pretty
+impressive .
+ls
+impressive emma_watson_254-normal.jpg
+impressive Emma-Watson-image.jpg
+impressive /
+impressive .
+exit
+df -h
+eix
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+df -lh
+free -h
+sudo apt-get install bb
+bb
+exit
+ls
+cd Documents
+ls
+cd Mendeley\ Desktop
+ls
+cd ..
+s
+ls
+mkdir nature_paper
+ls
+cd nature_paper
+ls
+exit
+df -lh
+sudo shutdown -h now
+sudo apt-get upgrade
+cd Documents/PR
+ls
+impressive ex2.pdf
+ls
+du -lh
+ls
+du -l
+ls -lh
+evince \[Christopher_M._Bishop\]Pattern\ Recognition\ and\ Maching\ Learning.pdf
+cd Documents/PR
+impressive ex2.pdf
+impressive \[Christopher_M._Bishop\]Pattern\ Recognition\ and\ Maching\ Learning.pdf
+evince ex2.pdf
+evince \[Christopher_M._Bishop\]Pattern\ Recognition\ and\ Maching\ Learning.pdf
+vim note
+impressive ex2.pdf
+ls
+ls -lh
+evince paper.95.2.ps
+cd liblinear-1.96
+ls
+subl mnist mnist.t
+ls
+cd liblinear-1.96
+ls
+vim README
+subl README
+vim linear.
+vim linear.cpp
+subl README
+make
+ls
+exit
+cmatrix
+sudo shutdown -h now
+sudo dpkg-reconfigure ca-certificates
+telnet 74.125.239.50
+telnet 74.125.239.50 443
+ping 216.58.209.100
+telnet 216.58.209.100
+cd Downloads
+ls
+df 0lh
+df -h
+dict nudge
+twei remind
+exit
+ls
+cd Downloads
+ls
+evince 1.pdf
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+df -lh
+cd Documents/PR
+ls
+evince ex1.pdf
+evince ex2.pdf
+ls
+ls -ls
+ls -lh
+evince \[Christopher_M._Bishop\]Pattern\ Recognition\ and\ Maching\ Learning.pdf
+sudo shutdown -h now
+cd Documents/PR
+evince ex2.pdf
+ls
+cd liblinear-1.96
+ls
+vim README
+subl README
+cd ..
+ls
+cd liblinear-1.96
+ls
+train
+./train ../mnist
+cd Documents/PR
+ls
+./predict ../mnist.t mnist.model output
+./train ../mnist.scale
+./predict ../mnist.scale.t mnist.scale.model output
+ls 
+d ..
+cd ..
+ls
+ls -lh
+cd Downloads
+evince attachment.pdf
+exit
+cd
+cd Pictures
+ls
+display Selection_003
+display Selection_003.png
+ls
+exit
+sudo shutdown -h now
+cd Pictures
+ls
+display Selection_003.png Selection_004.png
+display Selection_004.png
+ls
+cd Documents
+ls
+vim tst.py
+python tst.py
+exit
+ls
+cd smplayer_screenshots
+ls
+cd ..
+cd Wallpapers
+ls
+display Screenshot\ from\ 2015-04-09\ 19:27:42.png
+rm Screenshot\ from\ 2015-04-09\ 19:27:42.png
+ls
+cd ..
+ls
+cd
+cd Documents/PR
+ls
+impressive PR_6.pdf
+ping www.quora.com
+ping www.google.com
+cd liblinear-1.96
+s
+ls
+vim mnist.model
+cd windows
+ls
+cd ..
+ls
+cd ..
+ls
+man opencv_performance
+man opencv_createsamples
+ls
+w3m cs.nju.edu.cn/wujx
+cd Downloads
+ls
+cd /tmp/kde-hezhizhen
+ls
+cd ..
+ls
+cd Popcorn-Time
+s
+ls
+cd TorrentCache
+ls
+cd ../..
+ls
+cd ksocket-hezhizhen
+ls
+cd ..
+cd orbit-hezhizhen
+ls
+cd ..
+ls
+cd
+man bash
+man 2 bash
+msn bash 2
+man bash 2
+man ls
+man 4 ls
+msn 7 ls
+man 7 ls
+man bash
+ls
+cd Documents
+ls
+cd PR
+ls
+impressive ex2.pdf
+ls
+sudo apt-get install tpp
+man tpp
+uname -a
+vim /usr/share/doc/tpp/examples/colors.tpp
+tpp /usr/share/doc/tpp/examples/ac-am.tpp
+tpp /usr/share/doc/tpp/examples/colors.tpp
+tpp /usr/share/doc/tpp/examples/colors2.tpp
+l
+cd /usr/share/doc/tpp
+ls
+vim README.gz
+vim DESIGN
+cd examples
+ls
+vim shell.tpp
+tpp shell.tpp
+uptime
+exit
+vim shell.tpp
+tpp test.tpp
+tpp colors.tpp
+tpp manyslides.tpp
+tpp exec.tpp
+tpp -x exec.tpp
+tpp source.tpp
+vim source.tpp
+tpp wrap.tpp
+tpp bold.tpp
+vim bold.tpp
+tmux
+ls
+vim bold.tpp
+tpp bold.tpp
+vim bold.tpp
+exit
+ls
+cd ..
+ls
+vim THANKS
+vim DESIGN
+cd Pictures
+ls
+display Selection_003.png
+display Selection_004.png
+exit
+tpp THANKS
+cd examples
+ls
+cd ..
+ls
+cd examples
+tpp list.tpp
+vim list.tpp
+tpp list.tpp
+vim list.tpp
+cd ..
+ls
+vim README.gz
+cd 
+cd Documents
+ls
+vim example.tpp
+tpp example.tpp
+vim example.tpp
+tpp example.tpp
+cd Documents
+tpp example.tpp
+vim example.tpp
+tpp example.tpp
+exit
+vim example.tpp
+tpp example.tpp
+sudo apt-get install gthumb
+vim example.tpp
+gthumb
+tpp example.tpp
+vim example.tpp
+tpp example.tpp
+vim example.tpp
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+ls
+cd Documents
+ls
+cd ..
+cd Downloads
+ls
+nautilus
+sudo apt-get upgrade
+sudo apt-get update
+sudo shutdown -h now
+cd /media/hezhizhen/Ubuntu\ 14.04.2\ LTS\ amd64
+ls
+impressive .
+exit
+sudo shutdown -h now
+ls
+df -lh
+sudo apt-get upgrade
+sudo shutdown -h now
+sudo apt-get ugpe
+sudo apt-get upgrade
+ls
+douban.fm
+clear
+cd Documents/
+ls
+./test
+vim test.cpp
+ls
+cd Mendeley\ Desktop
+ls
+evince Unknown\ -\ 2003\ -\ No\ Title.pdf
+rm Unknown\ -\ 2003\ -\ No\ Title.pdf
+cd ..
+ls
+tpp example.tpp
+s
+exit
+man tpp
+cd Documents
+tpp
+ls
+cd Physics
+ls
+cd ..
+cd GitLib
+ls
+cd Physics
+s
+ls
+vim README.md
+vim TextBook.md
+subl TextBook.md
+cd 
+ls
+man qupzilla
+exit
+sudo shutdown -h now
+free -h
+htop
+sudo apt-get upgrade
+df -lh
+exit
+twei remind
+ls
+cd Documents
+cd ..
+cd Downloads
+ls
+display RegularExpression.png
+ls
+cd ..
+ls
+cd Documents
+ls
+cd py
+ls
+cd Physics
+ls
+cd ..
+cd 
+ls
+cd Documents
+ls
+cd CG
+ls
+evince CG-course-03-Primitives.pdf
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+twei remind
+ls
+cd Documents/Compiler
+ls
+man evince
+cd
+cd Downloads
+fbreader \[Robert_D._Smith,_Andy_Andrews\]_20,000_Days_and_Co\(BookZZ.org\).epub
+sudo apt-get install calibre
+cd 
+ls 
+cd Documents/Compiler
+ls
+vim note
+ls
+cd Documents
+ls
+cd ReadingList
+ls
+cd ..
+ls
+tpp markd.md
+cd ..
+cd Downloads
+ls
+cd 
+vim note
+exit
+vim note
+dpkg -l gcc
+sudo shutdown -h now
+twei remind
+sudo shutdown -h now
+sudo apt-get upgrade
+df -lh
+ping www.baidu.com
+exit
+df -lh
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+cmatrix
+ls
+cowsay
+cowsay hehe
+cowsay 呵呵
+clea
+exit
+ls
+cd Videos
+s
+ls
+cd The.Best.of.Me.2014.720p.BluRay.x264.DTS-WiKi
+ls
+vlc The.Best.of.Me.2014.720p.BluRay.x264.DTS-WiKi.mkv
+cd
+ls
+cd ZDoc
+cd Documents
+ls
+twei remind
+cd ..
+cd Downloads
+ls
+vim download
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+ls
+twei remind
+twei update
+twei timeline
+sudo apt-get install build-essential
+sudo apt-get install libgl1-mesa-dev
+sudo apt-get install libglu1-mesa-dev
+sudo apt-get install libglut-dev
+sudo apt-get install freeglut3-dev
+cd Documents
+ls
+vim example.c
+subl example.
+subl example.c
+gcc example.c -c -IGL -IGLU -lglut
+ls
+gcc example.c -c -IGL -IGLU -Iglut
+ls
+gcc example.c -c -lglut
+ls
+ls -lh
+gcc example.o
+ls
+gcc example.c
+gcc example.o -c -lglut
+ls
+rm example.c example.o
+ls
+vim example.tpp
+tpp example.tpp
+cd Documents
+ls
+tpp example.tpp
+exit
+vim example.c
+subl example.
+subl example.c
+gcc test.c -o test -lGL -lGLU -lglut
+gcc example.c -o example -lGL -lGLU -lglut
+ls
+./example
+./test
+nano
+ls
+vim markd.md
+sudo shutdown -h npw
+sudo shutdown -h now
+cd Documents/MATLAB
+subl bresenham_line.m
+ls
+subl bresenham.m
+ls 
+rm BresenhamDraw.m main.m Swap.m
+ls
+free -h
+htop
+sudo shutdown -h now
+cd /media/hezhizhen
+ls
+cd Macintosh\ HD
+ls
+cd Users
+ls
+cd hezhizhen
+ls
+cd Desktop
+sudo cd Desktop
+ls
+cd Desktop
+sudo su
+ls
+exit
+cd Documents/MATLAB
+ls
+vim tianchong.m
+vim FunctionDrawing.m
+vim bresenham_line.m
+vim untitled.m
+sudo apt-get upgrade
+sudo shutdown -h now
+sudo apt-get upgrade
+date
+time
+tic toc
+toc
+tic
+ls
+vim Mac.po
+cd /usr/share/locale/en/LC_MESSAGES
+ls
+vim calcurse.mo
+vim unity.mo
+vim calcurse.mo
+exit
+ls
+cd Documents
+ls
+cd Compiler
+ls
+wget http://labfile.oss.aliyuncs.com/byyl_cffx.zip
+ls
+unzip byyl_cffx.zip
+ls
+cd lexical_analyzer
+ls
+vim test.c
+g++ lexical_analyzer.cpp -o lexical_analyzer
+./lexical_analyzer
+ls
+vim lexical_analyze_result.txt
+cd ..
+ls
+cd Downloads
+ls
+rm byyl_cffx.zip
+ls
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+subl lexical_analyze
+subl lexical_analyzer.cpp
+cd ..
+ls
+wget http://labfile.oss.aliyuncs.com/byyl_yffx.zip
+ls
+unzip byyl_yffx.zip
+ls
+cd grammar_analyzer
+g++ grammar_analyzer.cpp -o grammar_analyzer
+./grammar_analyzer
+ls
+vim lexical_analyze_result.txt
+vim action.txt
+vim goto.txt
+cd ..
+ls
+wget http://labfile.oss.aliyuncs.com/byyl_yyfx.zip
+unzip byyl_yyfx.zip
+cd semantic_analyzer
+ls
+g++ semantic_analyzer.cpp -o semantic_analyzer
+./semantic_analyzer
+ls
+cd ..
+wget http://labfile.oss.aliyuncs.com/byyl_byq.zip
+unzip byyl_byq.zip
+cd byq
+ls
+g++ byq.cpp -o byq
+./byq
+ls
+cd res
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+git clone http://git.shiyanlou.com/shiyanlou/shell_typing_game
+ls
+cd shell_typing_game
+ls
+vim words.txt
+subl words.txt
+vim words.txt
+./game.sh
+gconf-editor
+ls
+cd ..
+ls
+vim .vimrc
+vim words.txt
+./game.sh
+ls
+vim game.sh
+vim word
+cd 
+ls
+cd Documents
+ls
+vim example.c
+cd Compiler
+ls
+cd 编译原理实验-小型编译器-实验楼
+ctags -R
+sudo apt-get install ctags
+cd ..
+ls
+cd ..
+ctags -R
+ls
+vim example.c
+cd Documents
+s
+ls
+vim example.c
+cd Compiler
+ls
+cd 编译原理实验-小型编译器-实验楼
+ls
+cd lexical_analyzer
+ls
+vim lexical_analyzer
+vim lexical_analyzer.cpp
+sudo apt-get install tagtool
+sudo apt-get install taglist
+man tagtool
+sudo apt-get install cscope
+vim lexical_analyzer.cpp
+cd 
+ls
+cd Documents
+ls
+vim test.cpp
+df -lh
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+cd Downloads
+ls
+vim 30430.txt
+ls
+cd 死亡通知单
+ls
+vim 死亡通知单2:宿命.txt
+cd ..
+exit
+cd Downloads
+ls
+vim 万历十五年.txt
+vim 最后一个道士.txt
+ls
+cd ..
+ls
+cd Documents
+ls
+cd ReadingList
+ls
+ack *.txt
+ack-grep *.txt
+ack-grep txt
+ls
+cd extra\ reading
+ls
+exit
+sudo shutdown -h now
+exit
+sudo apt-get upgrade
+sudo shutdown -h now
+ping cslab.nju.edu.cn
+sudo shutdown -h now
+twei remind
+twei timeline
+exit
+sudo apt-get upgrade
+sudo reboot
+cd Downloads
+ls
+vim good.html
+sudo shutdown -h now
+sudo apt-get upgrade
+df -lh
+cd Documents
+ls
+cd shell_typing_game
+ls
+./game.sh
+ls
+clear
+cd ..
+ls
+cd Compiler
+ls
+cd 编译原理实验-小型编译器-实验楼
+l
+ls
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+subl lexical_analyzer.cpp
+ls
+cd ..
+ls
+cd grammar_analyzer
+ls
+vim grammar.txt
+cd 
+cd Documents/GT
+ls
+cd iBT新托福突破口TPO（1-30+纸质TPO4、5）加速版听力音频文件全集【无老师力荐】
+ls
+vim 无老师的网站\ _\ 我的留学我做主.url
+w3m www.ibtsat.com
+ls
+cd TPO10【无老师力荐】
+ls
+vlc lecture\ 2.mp3
+df -lh
+exit
+sudo apt-get upgrade
+twei remind
+ls
+exit
+twei remind
+df -lh
+twei timeline
+ls
+exit
+cd Documents
+ls
+./example
+tpp example.tpp
+./example
+vim tags
+evince \[David_P._Williamson,_David_B._Shmoys\]_The_Design_\(BookZZ.org\).pdf
+evince \[Vijay_V._Vazirani\]_Approximation_algorithms\(BookZZ.org\).pdf
+twei remind
+twei timeline
+ls
+cd Xom
+cd Compiler
+ls
+mkdir Flex&Bison
+ls
+rmdir Flex
+mkdir Flex_Bison
+cd Flex_Bison
+ls
+vim fb1-1.l
+subl fb1-1.l
+flex fb1-1.l
+subl lex.yy.c
+flex fb1-1.l
+ls
+subl lex.yy.c
+cc lex.yy.c -lfl
+ls
+./a.out fb1-1.l
+./a.out
+subl fb1-1.l
+vim fb1-1.l
+ls
+subl fb1-5.y
+vim fb1-5.y
+subl fb1-5.y
+vim fb1-5.y
+ls
+cd Downloads
+twei remind
+ls
+vim readonline.asp
+rm readonline.asp
+ls
+vim downloadcdmd.asp
+rm downloadcdmd.asp
+ls
+twei remind
+ls
+vim fb1-5.y
+vim fb1-5.l
+vim Makefile
+make
+rm Makefile
+bison -d fb1-5.y
+vim fb1-5.y
+bison -d fb1-5.y
+vim Makefile
+make
+ls
+./fb1-5
+ls
+vim fb1-5.y
+tmux
+vim fb1-5.y
+cd 
+cd Documents
+ls
+cd C
+ls
+cd Compiler
+ls
+cd Flex_Bison
+ls
+vim fb1-5.y
+cd ..
+ls
+evince Flex\&Bison.pdf
+exit
+sudo apt-get upgrade
+df -lh
+ls
+cd Downloads
+ls
+wc economy.doc
+wc internet.doc
+ls
+rm readonline.asp
+ls
+cd ..
+cd Documents
+ls
+vim 马原论文.md
+sudo reboot
+ls
+sudo apt-get upgrade
+cd Documents/Compiler
+ls
+cd Flex_Bison
+ls
+./fb1-5
+vim fb1-5.y
+vim fb1-5.l
+vim fb1-5.y
+twei remind
+vim fb1-5.y
+vim fb1-5.l
+tmux
+vim fb1-5.y
+vim fb1-5.l
+make
+vim fb1-5.l
+vim fb1-5.y
+make
+./fb1-5
+cd Documents/Compiler/编译原理实验-小型编译器-实验楼
+ls
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+exit
+clear
+vim calculator_lexical_analyzer.c
+ls
+gcc calculator_lexical_analyzer.c
+vim fb1-5.tab.h
+./fb1-5
+ls
+file fb1-5.l
+file fb1-5.y
+file Makefile
+file calculator_lexical_analyzer.c
+file fb1-5.tab.h
+file fb1-5
+ls 
+vim fb2-1.l
+flex fb2-1.l
+vim fb2-1.l
+flex fb2-1.l
+ls
+gcc lex.yy.c -lfl
+./a.out Makefile
+vim Makefile
+exit
+sudo shutdown -h now
+cd Downloads
+ls
+cd ../Documents
+ls
+cd PR
+ls
+evince PR_6.pdf
+wget http://cs.nju.edu.cn/wujx/teaching/PR_7.pdf
+evince PR_7.pdf
+impressive PR_7.pdf
+cd 
+cd Downloads
+ls
+cd ..
+nautilus
+ls
+evince fsamaria_thesis.ps
+du -h
+du fsamaria_thesis.ps -h
+impressive PR_7.pdf
+cd Documents
+ls
+vim example.tpp
+cd ..
+ls
+tpp example.c
+tpp example.tpp
+vim test.tpp
+tpp test.tpp
+vim test.tpp
+tpp test.tpp
+vim test.tpp
+tpp test.tpp
+vim test.tpp
+tpp test.tpp
+clear
+man tpp
+tpp /usr/share/doc/tpp/examples/shell.tpp
+vim /usr/share/doc/tpp/examples/shell.tpp
+tpp test.tpp
+tpp /usr/share/doc/tpp/examples/shell.tpp
+q 
+man tpp
+vim test.tpp
+tpp /usr/share/doc/tpp/examples/test.tpp
+tpp test.tpp
+vim /usr/share/doc/tpp/examples/test.tpp
+vim test.tpp
+tpp test.tpp
+tpp /usr/share/doc/tpp/examples/test.tpp
+tpp /usr/share/doc/tpp/examples/list.tpp
+vim /usr/share/doc/tpp/examples/list.tpp
+cd Documents/PR
+ls
+vim chapter7.tpp
+vim /usr/share/doc/tpp/examples/list.tpp
+tpp chapter7.tpp
+vim /usr/share/doc/tpp/examples/list.tpp
+vim chapter7.tpp
+tpp chapter7.tpp
+vim chapter7.tpp
+tpp chapter7.tpp
+vim chapter7.tpp
+vim /usr/share/doc/tpp/examples/colors.tpp
+tpp /usr/share/doc/tpp/examples/colors.tpp
+vim /usr/share/doc/tpp/examples/colors2.tpp
+tpp /usr/share/doc/tpp/examples/colors2.tpp
+tpp chapter7.tpp
+vim /usr/share/doc/tpp/examples/colors.tpp
+vim chapter7.tpp
+tpp /usr/share/doc/tpp/examples/colors.tpp
+tpp chapter7.tpp
+vim chapter7.tpp
+tpp chapter7.tpp
+vim chapter7.tpp
+tpp chapter7.tpp
+w3m www.baidu.com
+w3m www.google.com
+w3m www.baidu.com
+w3m bing.net
+dict 
+dict proportion
+clear
+w3m www.bing.net
+exit
+sudo shutdown -h now
+cd Documents
+ls
+cd Physics
+ls
+cd ..
+twei remind
+twei
+twei update "一天听一套四六级听力真题，也不知道有没有帮助..."
+twei timeline
+twei remind
+sudo apt-get upgrade
+cd 
+cd Downloads
+vim doaction\ \(1\).php
+df -lh
+cd 
+cd Videos
+ls
+cd 胜者即是正义.Legal.High.2012.S01.HDTV.MiniSD-TLF
+ls
+vlc 胜者即是正义.Legal.High.2012.S01E06.HDTV.MiniSD-TLF.mkv
+vlc 胜者即是正义.Legal.High.2012.S01E09.HDTV.MiniSD-TLF.mkv
+vlc 胜者即是正义.Legal.High.2012.S01E08.HDTV.MiniSD-TLF.mkv
+vlc 胜者即是正义.Legal.High.2012.S01E09.HDTV.MiniSD-TLF.mkv
+cd
+sudo apt-get install python-pip
+sudo pip install shadowsocks
+sudo vim /etc/shadowsocks.json
+sslocal -c /etc/shadowsocks.json
+ps -ef | grep sslocal
+vim /etc/rc.local
+exit
+ps -ef | grep sslocal
+sslocal -c /etc/shadowsocks.json
+ps -ef | grep sslocal
+vim /etc/shadowsocks.json
+sslocal -s 107.191.106.217 -p 443 -l 1080 -k 5cd946 -t 600 -m aes-128-cfb
+exit
+vim /etc/shadowsocks.json
+sudo shutdown -h now
+twei remind
+sudo shutdown -h now
+sudo apt-get upgrade
+sudo apt-get install pidgin-skype
+twei remind
+df -lh
+ls
+cd Music
+ls
+douban.fm
+dpkg -l | grep douban
+cd 
+cd Documents/Compiler
+ls
+evince 编译原理第2版\(中文\).pdf
+sudo apt-get upgrade
+twei remind
+cd Documents/Compiler
+ls
+evince 编译原理第2版\(中文\).pdf
+cd 
+cd Downloads
+ls
+rm 201409201029427.doc
+exit
+sudo shutdown -h now
+cd Downloads
+ls
+evince 201505Midtermsol.pdf
+evince 计算机图形学实习作业三.pdf
+cd 
+cd Documents/Compiler/Flex_Bison
+ls
+vim calculator_lexical_analyzer.c
+subl calculator_lexical_analyzer.c
+twei remind
+sudo apt-get install mencoder
+mencoder
+man mencoder
+sudo apt-get install openshot
+df -lh
+sudo apt-get install conky-all
+cd Downloads
+ls
+cd Conky-lua/Conky\ ubuntu-lua
+ls
+ls -a
+cd 
+ls
+cd .Conky
+ls
+ls -a
+cp .conkyrc ..
+ls
+ls -a
+rm .conkyrc
+cd 
+ls -a
+vim .conky
+vim .conkyrc
+mv .Conky .conky
+ls -a
+vim .conkyrc
+conky
+cd
+vim .conkyrc
+cd .con
+cd .conky
+ls
+vim clock_rings.lua
+cd
+sudo add-apt-repository ppa:gwendal-lebihan-dev/cinnamon-stable
+　　sudo add-apt-repository ppa：gwendal-lebihan-dev/cinnamon-stable
+sudo add-apt-repository ppa：gwendal-lebihan-dev/cinnamon-stable
+cinnamon
+sudo add-apt-repository ppa: tualatrix/ppa
+sudo add-apt-repository ppa : tualatrix/ppa
+sudo add-apt-repository ppa：tualatrix/ppa
+htop
+free -h
+conky
+sudo add-apt-repository ppa:teejee2008/ppa
+sudo apt-get update
+sudo apt-get install conky-manager
+ls
+ls -a
+cd .conky
+ls
+ping www.baidu.com
+w3m www.baidu.com
+sudo shutdown -h now
+htop
+free -h
+ls a
+ls -a
+vim .ctags
+conky
+douban.fm
+conky
+ls
+ls -a
+cd .con
+cd .conky
+ls
+cd Green\ Apple\ Desktop
+ls
+cd ..
+cd Conky\ Seamod
+ls
+cd ..
+conky-color help
+conky-colors help
+sudo apt-get install dstat
+cd 
+cd Downloads
+ls
+sudo dpkg -i indicator-sysmonitor_0.3.9-oneiric0_all.deb
+sudo apt-get install python-psutil
+sudo dpkg -i indicator-sysmonitor_0.3.9-oneiric0_all.deb
+cd 
+mkdir .Indicator-Sysmonitor-Scripts
+cd .Indicator-Sysmonitor-Scripts
+wget http://webupd8.googlecode.com/files/sysmon_0.2.tar.gz
+ls
+tar xf sysmon_0.2.tar.gz
+ls
+vim sysmon
+cd 
+cd Downloads
+ls
+rm sysmon_0.2.tar.gz indicator-sysmonitor_0.3.9-oneiric0_all.deb
+ls
+cp conkyrc ~/.conkyrc
+cp clock_rings.lua ~/.conky
+ls
+cd 
+vim .conkyrc
+conky
+vim .conkyrc
+cd Downloads
+ls
+exit
+vim .conkyrc
+file .conkyrc
+cd .conky/fonts
+ls
+vim /etc/fonts/conf.d/49-sansserif.conf
+sudo vim /etc/fonts/conf.d/49-sansserif.conf
+cd 
+ls
+vim .conkyrc
+conky
+dpkg -l conky
+cd Downloads
+ls
+cd conky_colors
+ls
+make
+sudo make install
+conky-colors --help
+cd 
+cd conky_colors
+ls
+make
+sudo make install
+ls
+cd ..
+sudo apt-get install python-keyring ttf-ubuntu-font-family hddtemp curl lm-sensors 
+vim .conkyrc
+exit
+ls
+ls -a
+conky-colors --theme=custom
+vim .conkycolors/conkyrc
+conky
+vim .conkyrc
+cd /usr/share/fonts/conkycolors
+ls
+cd ..
+ls
+cd yahei
+ls
+cd ..
+cd conkycolors
+ls
+cd 
+cd Downloads
+ls
+cd Noto-hinted
+ls
+:q
+cd
+vim .conkyrc
+conky
+vim .conkyrc
+conky
+vim .conkyrc
+cd .conkycolors
+vim conkyrc
+cd ..
+vim .conkyrc
+conky
+vim .conkyrc
+vim .conky/clock_rings.lua
+file .conky/clock_rings.lua
+conky
+vim .conkyrc
+conky
+vim .conkyrc
+conky
+vim .conkyrc
+subl .conkyrc
+conky
+mkdir .conkydir
+cd .conkydir
+cp ~/Downloads/conkyForecast.py .
+ls
+conky
+exit
+cd Downloads
+ls
+rm conkyForecast.py conkyForecast.py.bz2
+s
+ls
+vim .conkyrc
+sudo nautilus
+cd /usr/share/fonts
+ls
+cd Weather
+ls
+cd ..
+conky
+exit
+conky
+chrome
+kill 5305
+conky
+exit
+kill 7508
+conky
+kill 8599
+subl .conkyrc
+conky
+kill 24757
+subl .conkyrc
+conky
+kill 30059
+conky
+kill conky
+kill 31251
+sudo apt-add-repository ppa:alexeftimie/ppa
+sudo apt-get update
+dpkg -l | grep indicator
+sudo apt-get install indicator-sysmonitor
+indicator-sysmonitor
+cd .Indicator-Sysmonitor-Scripts
+ls
+vim sysmon
+sudo apt-get install syspeek
+cd 
+cd Documents/Compiler
+ls
+vim note
+cd Documents/Compiler
+ls
+vim notes.tpp
+cd ..
+ls
+vim example.tpp
+cd PR
+ls
+tpp chapter7.tpp
+vim chapter7.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+sudo apt-get install dash
+dash
+cd 
+vim Mac.po
+cd /usr/share/locale/en/LC_MESSAGES
+ls
+sudo msgfmt -o unity.mo ~/Mac.po
+exit
+twei remind
+cd Documents/Compiler/
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+tpp notes.tpp
+vim notes.tpp
+exit
+cd Documents/Compiler
+vim notes.tpp
+tmux
+vim notes.tpp
+tpp notes.tpp
+exit
+tpp notes.tpp
+exit
+sudo shutdown -h now
+conky
+kill 5543
+ls
+sudo apt-get upgrade
+cd Videos
+ls
+df -lh
+cd 
+cd Documents
+ls
+vim test.cpp
+twei remind
+twei timeline
+exit
+sudo shutdown -h now
+df -lh
+cd Documents
+ls
+vim test.cpp
+twei update "用效率，而不是拿时间熬。"
+twei remind
+twei timeline
+ls
+cd Compiler
+tpp notes.tpp
+evince 编译原理第2版\(中文\).pdf
+cd Documents/Compiler
+vim notes.tpp
+ls
+evince Flex\&Bison.pdf
+exit
+sudo apt-get install gtimer
+sudo apt-get install gnome-shell-timer
+sudo apt-get install ktimer
+df -lh
+sudo shutdown -h now
+sudo apt-get upgrade
+ls
+cd Documents/GitLib
+ls
+cd hezhizhen.github.io
+ls
+cd _posts
+ls
+viim 2015-04-21-beautify-ubuntu.md
+vim 2015-04-21-beautify-ubuntu.md
+git add 2015-04-21-beautify-ubuntu.md
+git commit -m "modify the fonts"
+git push
+subl 2015-04-21-beautify-ubuntu.md
+vim 2015-05-13-my-rss-sources.md
+subl 2015-05-13-my-rss-sources.md
+vim 2015-05-13-my-rss-sources.md
+git add 2015-05-13-my-rss-sources.md
+git commit -m "my rss sources"
+git push
+vim 2015-05-13-my-rss-sources.md
+git add 2015-05-13-my-rss-sources.md
+git commit -m "add source"
+git push
+subl 2015-05-13-my-rss-sources.md
+ls
+git add 2015-05-13-my-rss-sources.md
+git commit -m "modify"
+git push
+ls
+git add 2015-05-13-my-rss-sources.md
+git commit -m "modify"
+git push
+vim 2015-05-13-my-rss-sources.md
+git add 2015-05-13-my-rss-sources.md
+git commit -m "add sources"
+git push
+vim 2015-05-13-my-rss-sources.md
+git add 2015-05-13-my-rss-sources.md
+git commit -m "add sources"
+git push
+vim 2015-05-13-my-rss-sources.md
+git add 2015-05-13-my-rss-sources.md
+git commit -m "add sources"
+git push
+vim 2015-05-13-my-rss-sources.md
+git add 2015-05-13-my-rss-sources.md
+git commit -m "add sources"
+git push
+vim 2015-05-13-my-rss-sources.md
+git add 2015-05-13-my-rss-sources.md
+git commit -m "add 少数派"
+git push
+git log
+exit
+df -lh
+twei remind
+twei timeline 
+df -lh
+cd Documents
+ls
+cd GitLib
+ls
+cd hezhizhen.github.io
+ls
+vim index.html
+cd _layouts
+ls
+vim default.html
+cd ..
+ls
+vim index.html
+git add index.html
+git commit -m "modify index's layout"
+git push
+vim index.html
+git add
+git add index.html
+git commit -m "modify layout"
+git push
+free -h
+ls
+cd ..
+cd hezhizhen.github.io
+vim _config.yml
+cd ..
+ls
+cd ..
+ls
+cd mojombo.github.io
+ls
+vim index.html
+vim README.textile
+subl README.textile
+ls
+cd images
+ls
+cd ..
+ack-grep rss.png
+ls
+cd _posts
+ls
+vim 2008-10-27-looking-back-on-selling-gravatar-to-automattic.textile
+cd ..
+ls
+cd _layouts
+ls
+vim post.html
+vim default.html
+subl default.html
+cd Documents/GitLib/hezhizhen.github.io
+ls
+cd _layouts
+ls
+subl default.html
+ls
+git add default.html
+git commit -m "add weibo address to default.html"
+git push
+subl default.html
+git add default.html
+git commit -m "add mail address to default.html"
+git push
+ls
+cd ..
+ls
+cd css
+ls
+cd ..
+cd css
+ls
+vim syntax.css
+vim screen.css
+ls
+cd ..
+sl
+ls
+cd _layouts
+ls
+cd ..
+vim index.html
+cd ..
+ls
+vim index.html
+cd _layouts
+ls
+vim default.html
+subl default.html
+ls
+vim index.html
+cd _layouts
+ls
+vim default.html
+subl default.html
+ls
+cd ..
+vim index.html
+ls
+git add -A
+git commit -m "add icon"
+git push
+ls
+git add _layouts/
+git add -A
+git commit -m "modify the path of favicon.ico"
+git push
+ls
+git add -A
+git commit -m "delete icon type"
+git push
+ls
+git add -A
+git commit -m "delete links"
+git push
+ls
+cd _layouts
+ls
+vim default.html
+git add default.html
+git commit -m "have a try"
+git push
+vim default.html
+ls
+cd ..
+ls
+file favicon.ico
+cd _layouts
+ls
+vim default.html
+git add default.html
+git commit -m "last try"
+git push
+ls
+cd ..
+ls
+cd _posts
+ls
+subl 2015-05-13-my-rss-sources.md
+vim 2012-07-01-those-memories.md
+subl 2012-07-01-those-memories.md
+vim 2012-07-01-those-memories.md
+git add 2012-07-01-those-memories.md
+git commit -m "add QQ日志：昨日辰光"
+git push
+cd ..
+ls
+vim README.md
+git add README.md
+git commit -m "add readme file"
+git push
+vim README.md
+git add README.md
+vim README.md
+git add README.md
+git commit -m "modify readme file"
+git push
+ls
+cd _posts
+ls
+vim 2013-12-15-story-in-life.md
+subl 2012-07-01-those-memories.md
+subl 2013-12-15-story-in-life.md
+subl 2015-04-21-beautify-ubuntu.md
+git add 2013-12-15-story-in-life.md
+git commit -m "add 凡尘之歌"
+git push
+ls
+exit
+cd Documents/Compiler
+ls
+vim notes.tpp
+subl notes.tpp
+cd ..
+ls
+cd ..
+ls
+cd Documents/GitLib/hezhizhen.github.io
+ls
+cd _posts
+ls
+vim 2015-05-13-notes-of-compiler.md
+subl 2013-12-15-story-in-life.md
+subl 2015-05-13-notes-of-compiler.md
+vim 2015-05-13-notes-of-compiler.md
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "add notes of compiler"
+git push
+vim 2015-05-13-notes-of-compiler.md
+cd Documents/Compiler
+vim notes.tpp
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "modify notes of compiler"
+git push
+vim 2015-05-13-notes-of-compiler.md
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "modify notes of compiler"
+git push
+vim 2015-05-13-notes-of-compiler.md
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "modify notes of compiler"
+git push
+vim 2015-05-13-notes-of-compiler.md
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "modify notes"
+git push
+exit
+vim 2013-12-15-story-in-life.md
+vim 2015-05-13-notes-of-compiler.md
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "modify notes"
+git push
+vim 2015-05-13-notes-of-compiler.md
+cd Documents/GitLib/hezhizhen.github.io
+cd _posts
+ls
+vim 2015-05-13-notes-of-compiler.md
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "modify notes"
+git push
+vim 2015-05-13-notes-of-compiler.md
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "modify notes"
+git push
+vim 2015-05-13-notes-of-compiler.md
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "modify notes"
+git push
+vim 2015-05-13-notes-of-compiler.md
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "modify notes"
+git add 2015-05-13-notes-of-compiler.md
+git push
+vim :vsp 2015-05-13-notes-of-compiler.md
+tmux
+vim 2015-05-13-notes-of-compiler.md
+cd
+cd Documents/Compiler
+vim notes.tpp
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "add to notes of compiler"
+git push
+vim 2015-05-13-notes-of-compiler.md
+git add
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "modify notes"
+git push
+vim 2015-05-13-notes-of-compiler.md
+git add
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "add to notes"
+git push
+exit
+ls
+exit
+sudo shutdown -h now
+ls
+cd Documents
+ls
+cd ReadingList
+cd Documents
+cd GitLib/hezhizhen.github.io/_posts
+ls
+vim 2015-05-13-notes-of-compiler.md
+sudo apt-get install xmsudo apt-add-repository ppa:timxx/xmradio
+sudo apt-add-repository ppa:timxx/xmradio
+sudo apt-get update
+sudo apt-get install xmradio
+ls
+cd Downloads
+ls
+vlc 放开\ -\ 爱乐团.mp4
+ls
+sudo add-apt-repository ppa:noobslab/deepin-sc
+sudo apt-get update ppa:noobslab/deepin-sc
+sudo apt-get update 
+df -lh
+sudo apt-get install deepin-software-center
+df -lh
+free -h
+sudo apt-get install elementary-icon-theme
+sudo add-apt-repository ppa:mpstark/elementary-tweaks-daily
+sudo apt-get update
+sudo apt-get install elementary-tweaks
+sudo apt-get install update-manager
+update-manager
+sudo apt-get upgrade
+sudo nautilus
+nautilus
+cd 
+cd .config
+ls
+cd ReText\ project
+ls
+vim ReText.conf
+sudo apt-get install libjs-mathjax
+sudo apt-get install python-pygments
+dpkg -l retext
+ls
+cd /usr/share/icons/
+ls
+exit
+cd
+cd Documents
+ls
+cd Compiler/编译原理实验-小型编译器-实验楼
+ls
+ctags -R
+ls
+vim tags
+vim
+vim 
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+cd 
+cd .vim
+ls
+cd settings
+ls
+vim smart_jump_to_tag.vim
+cd ..
+git status
+ls
+cd ..
+ls
+cd Documents
+ls
+vim tags
+vim example.c
+sudo apt-get install unar
+cd 
+cd Downloads
+lsar vim_configure.zip
+unar vim_configure.zip
+ls
+lsar Linux\ 编译器之\ GCC\ 例子代码.rar
+unar Linux\ 编译器之\ GCC\ 例子代码.rar
+ls
+cd Linux\ 编译器之\ GCC\ 例子代码
+ls
+vim hello.c
+ls
+cd ..
+rm Linux\ 编译器之\ GCC\ 例子代码
+rm Linux\ 编译器之\ GCC\ 例子代码.rar
+cd Linux\ 编译器之\ GCC\ 例子代码
+ls
+gcc -E hello.c -o hello.i
+ls
+gcc hello -o demo
+gcc hello.c -o demo
+ls
+./demo
+exit
+cd ..
+cd /usr/share/icons
+ls
+cd default
+ls
+vim index.theme
+ls
+cd ..
+ls
+cd 
+cd Documents
+ls
+cd ..
+cd Downloads
+ls
+lsar gdb-refcard.rar
+unar gdb-refcard.rar
+ls
+rm gdb-refcard.rar
+cd gdb-refcard
+ls
+evince gdb-refcard.pdf
+cd ..
+sudo nau
+sudo nautilus
+sudo add-apt-repository ppa:noobslab/themes
+sudo apt-get update
+sudo apt-get install mbuntu-y-ithemes-v4
+sudo apt-get install mbuntu-y-icons-v4
+sudo add-apt-repository ppa:noobslab/apps
+sudo add-apt-repository ppa:docky-core/ppa
+sudo apt-get update
+sudo apt-get install mbuntu-y-docky-skins-v4
+sudo apt-get install slingscold
+sudo apt-get install indicator-synapse
+ls
+unar ubuntu\ 14.10\ install\ mac\ theme.zip
+ls
+cd ubuntu\ 14.10\ install\ mac\ theme
+ls
+cd ubuntu\ 14.10\ install\ mac\ theme
+ls
+sudo dpkg -i slingscold_1.2.1.6u\~NoobsLab.com_amd64.deb
+sudo dpkg -i indicator-synapse_0.525-1\~utopic\~NoobsLab.com_amd64.deb
+ls
+vim README.txt
+subl README.txt
+sudo dpkg -i docky_2.2.1\~bzr1855-0ubuntu1\~14.10\~dockycore1_all.deb
+sudo apt-get install docky
+sudo apt-get -f install
+df -lh
+exit
+ls
+vim Ubuntu.po
+unar MBuntu-Wallpapers.zip
+ls
+chmod a+x config.sh
+vim config.sh
+sudo ./config.sh
+ls
+sudo mv Mac.po /usr/share/locale/en/LC_MESSAGES
+cd /usr/share/locale/en/LC_MESSAGES
+ls
+sudo msgfmt -o unity.mo Mac.po
+cd
+sudo apt-get install mbuntu-y-bscreen-v4
+cd Downloads/ubuntu\ 14.10\ install\ mac\ theme
+ls
+cd ubuntu\ 14.10\ install\ mac\ theme
+ls
+sudo mv launcher_bfb.png /usr/share/unity/icons/
+sudo unzip mac-fonts.zip -d /usr/share/fonts
+sudo fc-cache -f -v
+sudo apt-get install mbuntu-y-lightdm-v4
+cd Downloads
+ls
+cd ubuntu\ 14.10\ install\ mac\ theme/ubuntu\ 14.10\ install\ mac\ theme
+ls
+vim unconfig.sh
+sudo dpkg -i mbuntu-y-docky-skins-v4_3.12\~utopic\~NoobsLab.com_all.deb
+free -h
+dpkg -l slingscold
+dpkg -l slingscold-launcher
+dpkg -l | grep mbuntu
+dpkg -l | grep synapse
+dpkg -l | grep docky
+cd Downloads/ubuntu\ 14.10\ install\ mac\ theme/ubuntu\ 14.10\ install\ mac\ theme
+ls
+vim Ubuntu.po
+sudo apt-get install plank-theme-moka
+sudo apt-get install plank-theme-orchis
+sudo apt-get install plank-themer
+sudo apt-get install mbuntu-y-bscreen-v4
+sudo apt-get install mac-icons-v3
+sudo apt-get install mac-ithemes-v3
+dpkg -l | grep v3
+sudo apt-get remove mac-icons-v3
+ls
+sudo apt-get install mbuntu-y-icons-v4
+slingscold launcher
+slingscold
+ls
+sudo apt-get remove slingscold 
+dpkg -l | grep slingscold
+sudo apt-get install slingscold-launcher
+sudo apt-get install slingshot
+exit
+sudo shutdown -h now
+ls
+cd Documents/Compiler
+ls
+lsar 121220041_lab1_new.zip
+unar 121220041_lab1_new.zip
+dpkg -l | grep wps
+dpkg -l wps-office
+ls
+vimdiff 121220041_lab1_new/bisonflex/wc.l Lab/Code/lexical.l
+cd 
+cd Downloads
+ls
+sudo dpkg -i wps-office_9.1.0.4953\~a18_amd64.deb
+dpkg -l wps-office
+dpkg -i writer
+dpkg -l writer2latex
+cd 
+cd Downloads
+ls
+rm wps-office_9.1.0.4953\~a18_amd64.deb
+cd 
+cd Documents/Compiler
+ls
+lsar 编译原理龙书答案.zip
+unar 编译原理龙书答案.zip
+ls
+sudo shutdown -h now
+cd Documents/Compiler/Flex_Bison
+ls
+vim calculator_lexical_analyzer.c
+exit
+ls
+cd Documents/Compiler/Flex_Bison
+ls
+vim calculator_lexical_analyzer.c
+tmux
+vim calculator_lexical_analyzer.c
+geany calculator_lexical_analyzer.c
+ls
+vim fb2-1.l
+vim lex.yy.c
+flex fb2-1.l
+gcc lex.yy.c -lfl
+ls
+./a.out fb2-1.l
+vim fb1-1.l
+vimdiff fb1-1.l fb2-1.l
+cd 
+vim fb2-1.l
+./a.out
+w3m vdisk.sina.com
+kill 17084
+twei remind
+twei timeline
+dpkg -l | grep rss
+newsbeuter
+man newsbeuter
+newsbeuter -h
+cd .newsbeuter
+ls
+newsbeuter
+ls
+vim cache.db
+newsbeuter -i subscriptions.xml
+newsbeuter
+cd .newsbeuter
+ls
+vim urls
+cd ..
+cd .config/nautilus
+ls
+exit
+ls
+vim config
+newsbeuter
+vim config
+newsbeuter
+vim config
+newsbeuter
+vim config
+newsbeuter
+cd .newsbeuter
+ls
+du -h
+du -lh
+du
+du -h
+du -h history.cmdline
+du -h urls
+du -h subscriptions.xml
+du -h cache.db
+vim cache.db
+newsbeuter
+ls
+vim test.txt
+rm test.txt
+exit
+vim config
+newsbeuter
+vim config
+newsbeuter
+vim config
+newsbeuter
+exit
+cd .newsbeuter
+newsbeuter
+vim config
+newsbeuter
+exit
+newsbeuter
+exit
+dpkg -l elinks
+cd Documents/GitLib/hezhizhen.github.io/_posts
+vim 2015-05-13-notes-of-compiler.md
+cd
+cd Documents/Compiler
+ls
+vim note.mkd
+subl note.mkd
+twei remind
+twei timeline
+sudo shutdown -h now
+ping www.baidu.com
+sudo apt-get upgrade
+sudo apt-get install wps-office
+dpkg -l wps-office
+cd Downloads
+ls
+sudo dpkg -i wps-office_9.1.0.4953-a18_amd64.deb
+df -lh
+sudo apt-get upgrade
+cd .config/plank/dock1/
+ls
+vim settings
+./settings
+cd launchers
+ls
+cd ..
+vim settings
+cd launchers
+ls
+vim nautilus.dockitem
+vim shutter.dockitem
+cd ..
+ls
+vim settings
+cd launchers
+ls
+sudo apt-get upgrade
+sudo apt-get install mbuntu-y-docky-skins-v4
+ls
+cd
+vim nautilus.dockitem
+cd /usr/share/applications
+ls
+find slingscold*
+find trash*
+cd 
+cd .config/plank
+ls
+cd dock1/
+cd launchers
+ls
+vim slingscold.dockitem
+cd ..
+vim settings
+ls
+vim settings
+cd launchers
+ls
+vim slingscold.dockitem
+ls
+vim slingscold.dockitem
+vimdiff nautilus.dockitem slingscold.dockitem
+cd ..
+vim settings
+cd /usr/share/applications
+vim nautilus.desktop
+vim slingscold.desktop
+ls
+rm slingscold.dockitem
+ls
+cd ..
+vim settings
+ls
+subl settings
+gedit settings
+ls
+cd theme
+ls
+cd theme_index
+ls
+cd ..
+cd themes-repo
+ls
+vim credits
+cd Themes
+ls
+cd OSXYosemite
+ls
+vim hover.theme
+vim about-the-autor-rhoconlinux
+cd ../../..
+ls
+mutt
+cd 
+ls -a
+cd .nevernote
+ls
+cd ..
+vim Mac.po
+vim .pryrc
+cd Mail
+ls
+ls 0a
+ls -a
+cd ..
+sudo apt-get install elementary-tweaks
+sudo apt-get install esmtp
+ls -a
+vim .editrc
+vim .esmtprc
+sudo apt-get install procmail
+man procmail
+vim .muttrc
+mutt
+exit
+newsbeuter
+cd .newsbeuter
+ls
+du -h
+newsbeuter
+ls
+vim config
+newsbeuter
+vim config
+newsbeuter
+vim config
+newsbeuter
+vim config
+newsbeuter
+vim config
+newsbeuter
+ls
+vim subscriptions.xml
+vim urls
+vim subscriptions.xml
+newsbeuter
+ls
+ls -a
+rm .esmtprc .muttrc
+ls
+ls -a
+sudo apt-get install msmtp mutt
+sudo apt-get upgrade
+cd /var/cache/apt/archives
+ls
+du -h
+cd 
+msmtp --version
+vim /etc/msmtprc
+vim /etc/bash.bashrc
+vim .msmtprc
+man msmtp
+vim .msmtprc
+vim .muttrc
+mutt
+df -h | mutt -s "usage of hd" zipea@163.com
+chmod a+x .msmtprc
+df -h | mutt -s "usage of hd" zipea@163.com
+ls
+ls -a
+sudo vim /etc/msmtprc
+sudo vim /etc/Mutt
+df -h | mutt -s "usage of hd" zipea@163.com
+rm .msmtprc
+df -h | mutt -s "usage of hd" zipea@163.com
+df -lh
+mutt
+mutt -s "usage of hd" zipea@163.COM
+mutt
+vim /etc/msmtprc
+man msmtp
+sudo vim /etc/msmtprc
+vim /etc/Mutt
+vim /etc/Muttrc
+sudo rm /etc/Mutt /etc/Muttrc
+sudo vim /etc/Muttrc
+mutt
+vim /etc/Muttrc
+vim /etc/msmtprc
+mutt
+sudo vim /etc/msmtprc
+mutt
+sudo vim /etc/msmtprc
+mutt
+vim /etc/msmtprc
+sudo vim /etc/msmtprc
+mutt
+vim /etc/Muttrc
+sudo vim /etc/Muttrc
+mutt
+exit
+mutt
+ls
+ls -a
+mkdir .mutt
+cd .mutt
+sudo apt-get install getmail4
+mutt
+sudo apt-get install fetchmail
+cd ..
+sudo vim /etc/Muttrc
+mutt
+vim .mutt
+mutt
+cd .mutt
+ls
+cd sent
+ls
+cd ..
+mutt
+cd sent
+ls
+cd new
+ls
+cd ..
+tree .
+cd cur
+ls
+vim 1431586306.18469_1.hezhizhen:2,S
+cd 
+vim /etc/msmtprc
+sudo vim /etc/Muttrc
+vim /usr/bin/msmtp
+sudo vim /etc/getmailrc
+sudo getmail /etc/getmailrc
+sudo getmail
+sudo rm /etc/getmailrc
+mkdir .getmail
+cd .getmail
+ls
+vim getmailrc
+chmod 600 getmailrc
+ls
+vim /bin/getmail.sh
+sudo vim /bin/getmail.sh
+sudo chmod 755 /bin/getmail.sh
+getmail.sh
+mutt
+ls
+rm /bin/getmail.sh
+sudo rm /bin/getmail.sh
+ls
+rm getmail
+rm getmailrc
+ls
+vim getmail.log
+rm getmail.log
+cd ..
+rmdir .getmail
+ls
+ls -a
+mutt
+cd .mutt
+ls
+mkdir inbox
+mkdir drafts
+mutt
+vim /etc/Muttrc
+ls
+mutt
+rmdir drafts
+mutt
+rmdir inbox
+ls
+vim /etc/Muttrc
+vim /etc/msmtprc
+cd ..
+mkdir .getmail
+cd .getmail
+vim getmailrc
+vim /etc/msmtprc
+vim getmailrc
+crontab -e
+man crontab
+mutt
+ls
+rm getmailrc
+cd ..
+rmdir .getmail
+ls
+sudo rm /etc/Muttrc /etc/msmtprc
+ls
+ls -a
+cd .mutt
+ls
+cd ..
+delete .mutt
+sudo delete .mutt
+sudo rmdir .mutt
+man rmdir
+rmdir -i .mutt
+man rmdir
+tree .mutt
+cd .mutt/cur
+cd .mutt/sent/cur
+ls
+rm 1431586306.18469_1.hezhizhen:2,S 1431586341.18518_1.hezhizhen:2,S
+ls
+cd ..
+ls
+rmdir cur new tmp  
+cd ..
+rmdir sent
+cd ..
+rmdir .mutt
+ls
+vim .msmtprc
+msmtp zipea@163.com
+chmod 600 .msmtprc
+msmtp zipea@163.com
+vim .msmtp
+vim .msmtprc
+msmtp zipea@163.com
+vim .muttrc
+mutt
+vim .muttrc
+mutt
+vim .muttrc
+mutt
+sudo apt-get install fetchmail procmail
+vim .fetchmailrc
+updatedb
+locate fetchmailrc
+cp /usr/share/doc/fetchmail/examples/fetchmailrc.example .fetchmailrc
+vim .fetchmailrc
+vim .procmailrc
+mutt
+chmod 600 .fetchmailrc
+mutt
+fetchmail -v
+mutt
+ls
+cd Mail
+ls
+ls -a
+mutt
+fetchmail -v
+mutt
+fetchmail
+mutt
+fetchmail -v
+mutt
+ls
+cd ..
+ls
+vim examples.desktop
+subl examples.desktop
+mutt
+vim .muttrc
+exit
+mutt
+ls
+cd Mail/l
+cd Mail
+ls
+cd ..
+mutt
+cd Mail
+ls
+fetchmail -v
+ls
+mutt
+fetchmail
+fetchmail -v
+mutt
+ls
+cd 
+vim .muttrc
+fetchmail -v
+mutt
+cd Mail
+ls
+cd ..
+ls 
+vim inbox
+rm inbox
+mutt 
+cd Mail
+ls
+cd sent
+ls
+vim cur
+cd cur
+ls
+vim 1431589338.21376_1.hezhizhen:2,S 1
+vim 1431589338.21376_1.hezhizhen:2,S
+mutt
+cd ..
+ls
+vim sent
+rm sent
+ls
+cd Mail
+ls
+cd sent
+ls
+cd cur
+ls
+vim inbox
+rm inbox
+ls
+cd ..
+ls
+cd ..
+ls
+mutt
+git clone https://github.com/altercation/mutt-colors-solarized.git ~/.mutt/mutt-colors-solarized
+cd ..
+ls
+vim .mutt
+vim .muttrc
+mutt
+ls
+vim .muttrc
+cd .mutt
+ls
+cd mutt-colors-solarized
+ls
+vim .muttrc
+vim mutt-colors-solarized-dark-256.muttrc
+mutt
+cd ..
+vim .muttrc
+exit
+mutt
+vim .muttrc
+mutt
+vim .muttrc
+mutt 
+vim .muttrc
+mutt
+cd Mail
+ls
+cd sent
+ls
+cd cur
+ls
+cd ..
+vim .muttrc
+mutt
+vim .muttrc
+mutt
+vim .muttrc
+mutt 
+vim .muttrc
+vim .fetchmailrc
+fetchmail -v
+vim .fetchmailrc
+fetchmail -v
+mutt
+fetchmail
+mutt
+sudo apt-get install dia
+sudo apt-get install maxima
+cd Documents
+wget -r -p -np -k http://learn.tsinghua.edu.cn/homepage/015450/index.html
+ls
+ls -lh
+wget -r -p -np -k http://docs.huihoo.com/homepage/shredderyin/linux.html
+cd Documents
+ls
+sudo apt-get install wvwa
+sudo apt-get install gv
+man gv
+ls
+gv \[David_P._Williamson,_David_B._Shmoys\]_The_Design_\(BookZZ.org\).pdf
+sudo apt-get install xmms2
+df -lh
+man xmms
+xmms2
+xmms
+xmms2 add ../Music/邓紫棋/G.E.M.\ 邓紫棋\ -\ A.I.N.Y.\ 爱你.wav
+xmms2
+sudo apt-get install mpg321
+sudo apt-get install wordnet
+cd 
+cd .config/plank/dock1/
+vim settings
+ls
+cd 
+cd Downloads
+cd ubuntu\ 14.10\ install\ mac\ theme/ubuntu\ 14.10\ install\ mac\ theme
+ls
+vim config.sh
+sudo apt-get remove mbuntu-y-bscreen-v4
+ls
+du -h docs.huihoo.com
+cd do
+cd docs.huihoo.com
+ls
+vim robots.txt
+df -lh
+cd homepage
+ls
+cd shredderyin
+ls
+cd ..
+ls
+sudo apt-get remove mbuntu-y-lightdm-v4
+ls
+cd /usr/share/locale/en/LC_MESSAGES
+ls
+vim Mac.po
+vim ~/Downloads/ubuntu\ 14.10\ install\ mac\ theme/ubuntu\ 14.10\ install\ mac\ theme/Ubuntu.po
+sudo msgfmt -o unity.mo ~/Downloads/ubuntu\ 14.10\ install\ mac\ theme/ubuntu\ 14.10\ install\ mac\ theme/Ubuntu.po
+ls
+vim unity.mo
+vim Mac.po
+sudo cp ~/Downloads/ubuntu\ 14.10\ install\ mac\ theme/ubuntu\ 14.10\ install\ mac\ theme/Ubuntu.po .
+ls
+cd 
+cd Downloads/ubuntu\ 14.10\ install\ mac\ theme/ubuntu\ 14.10\ install\ mac\ theme
+ls
+vim unconfig.sh
+cd /usr/share/unity/icons
+ls
+display launcher_bfb.png
+file launcher_bfb.png
+sudo apt-get install djview
+sudo apt-get install gnus
+cd /usr/share/locale/en/LC_MESSAGES
+ls
+vim unity.mo
+vim Ubuntu.po
+vim Mac.po
+cd 
+cd Downloads/ubuntu\ 14.10\ install\ mac\ theme/ubuntu\ 14.10\ install\ mac\ theme
+ls
+vim unconfig.sh
+chmod a+x unconfig.sh
+ls
+./unconfig.sh
+ls
+cd /usr/share/locale/en/LC_MESSAGES
+ls
+vim Mac.po
+cd 
+vim Mac.po
+cd /usr/share/locale/en/LC_MESSAGES
+sudo msgfmt -o unity.mo ~/Mac.po
+ls
+lightdm
+sudo lightdm
+df -lh
+sudo apt-get install lightdm lightdm-gtk-greeter
+sudo dpkg-reconfigure lightdm
+vim /etc/alternatives/x-cursor-theme
+ping www.baidu.com
+sudo apt-get install compizconfig-settings-manager
+cd Downloads
+lsar Phoeton.zip
+unar Phoeton.zip
+ls
+cd 
+cd /usr/share/icons
+ls
+display slingscold.png
+sudo apt-get install comixcursors
+sudo apt-get install crystalcursors
+sudo apt-get install oxygen-icon-theme-complete
+sudo apt-get install oxygen-cursor-theme
+exit
+sudo reboot
+sudo dpkg-reconfigure
+sudo dpkg-reconfigure gdm
+sudo reboot
+cd Documents/GitLib/hezhizhen.github.io/_posts
+vim 2015-05-13-notes-of-compiler.md
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "add full content"
+git push
+vim 2015-05-13-notes-of-compiler.md
+cd Documents/GitLib/hezhizhen.github.io/_posts
+subl 2015-05-13-my-rss-sources.md
+subl 2015-04-14-fascination-of-words.md
+vim 2015-04-14-fascination-of-words.md
+subl 2015-04-14-fascination-of-words.md
+git add 2015-04-14-fascination-of-words.md
+git commit -m "add 语言的魅力"
+git push
+newsbeuter
+sudo apt-get install xpdf
+exit
+sudo apt-get install xpdf
+cd Documents
+xpdf \[David_P._Williamson,_David_B._Shmoys\]_The_Design_\(BookZZ.org\).pdf
+exit
+sudo apt-get install indicator-sysmonitor
+sudo apt-get install indicator-application
+sudo apt-get install classicmenu-indicator
+sudo add-apt-repository ppa:indicator-multiload/stable-daily
+sudo apt-get update
+sudo apt-get install indicator-multiload
+sudo add-apt-repository ppa:geod/ppa-geod
+indicator-multiload
+sudo apt-get update
+indicator-sysmonitor
+indicator-multiload
+sudo apt-get install battery-stats
+sudo apt-add-repository ppa:iaz/battery-status
+sudo apt-get update
+df -lh
+sudo apt-get install indicator-china-weather
+weather
+indicator-china-weather
+ls
+kill %indicator-china-weather
+sudo apt-get install pithos
+sudo apt-get install gnome-system-monitor
+sudo apt-get install indicator-applet
+indicator-applet
+applet
+indicator-applet
+indicator-china-weather
+sudo apt-get install gnus
+df -lh
+sudo apt-get install gnus
+cd Documents/Compiler/编译原理实验-小型编译器-实验楼
+ls
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+subl lexical_analyzer.cpp
+ls
+cd .../..
+cd ..
+ls
+git log
+cd Documents
+ls
+mkdir Papers
+ls
+cd Papers
+ls
+vim note
+ls
+exit
+ls
+exit
+ls
+cd 
+sudo shutdown -h now
+sudo dpkg-reconfigure lightdm
+vim /usr/share/lightdm/lightdm.conf.d/50-ubuntu.conf
+sudo apt-get install ranger
+ranger
+ls
+ls -a
+cd .vim
+ls
+git status
+cd ..
+cd Documents/GitLib/hezhizhen.github.io/_posts
+ls
+git add 2015-05-13-notes-of-compiler.md
+git commit -m "some of chapter 1"
+git push
+ls
+exit
+sudo shutdown -h now
+sudo reboot
+sudo apt-get upgrade
+sudo apt-get remove mbuntu-y-docky-skins-v4
+dpkg -l | less
+sudo apt-get -f install
+sudo apt-get install -f
+sudo dpkg --configure -a
+sudo apt-get -f install
+uname -a
+apport-collect 1338603
+sudo apt-get install python-apport
+sudo apt-get upgrade
+sudo apt-get purge --force-yes mbuntu-y-docky-skins-v4
+sudo apt-get install mbuntu-y-docky-skins-v4
+cd /var/cache/apt/archives
+rm mbuntu-y-docky-skins-v4_3.12-a\~trusty\~NoobsLab.com_all.deb
+sudo rm mbuntu-y-docky-skins-v4_3.12-a\~trusty\~NoobsLab.com_all.deb
+sudo apt-get upgrade
+cd /var/lib/dpkg/info
+vim mbuntu-y-docky-skins-v4.list
+sudo rm mbuntu-y-docky-skins-v4.list mbuntu-y-docky-skins-v4.md5sums mbuntu-y-docky-skins-v4.postinst mbuntu-y-docky-skins-v4.postrm 
+sudo apt-get upgrade
+sudo apt-get update
+newsbeuter
+sudo apt-get update
+sudo apt-get install gnus
+cd
+cd Documents/Compiler
+ls
+wget http://cs.nju.edu.cn/dxy/%E5%AE%9E%E9%AA%8C2.pdf
+ls
+evince $'\345'$'\256'%9E$'\351'$'\252'%8C2.pdf
+mv $'\345'$'\256'%9E$'\351'$'\252'%8C2.pdf 实验2.pdf
+ls
+evince 实验2.pdf
+wget http://cs.nju.edu.cn/dxy/%E5%AE%9E%E9%AA%8C2%E8%AE%B2%E8%A7%A3.pdf
+mv $'\345'$'\256'%9E$'\351'$'\252'%8C2讲解.pdf 实验2讲解.pdf
+ls
+cd Downloads
+lsar 实验3.rar
+unar 实验3.rar
+ls
+rm 实验3.rar
+cd 实验3
+ls
+evince 实验\ 3.pdf
+evince 附录\ B.pdf
+lsar irsim.tar.gz
+cd ..
+cd Documents/GitLib/hezhizhen.github.io/_posts
+vim 2015-05-13-notes-of-compiler.md
+git push
+git log
+vim 2015-05-13-notes-of-compiler.md
+sudo apt-get update
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3C962022012520A0
+sudo apt-get update
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 40976EAF437D05B5
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3B4FE6ACC0B21F32
+sudo apt-get update
+apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 40976EAF437D05B5
+cd /etc
+cd speech-dispatcher
+cd .
+cd..
+cd ..
+cd apt
+ls
+vim sources.list
+sudo vim sources.list
+sudo gedit sources.list
+ls
+vim sources.list
+source sources.list
+sudo apt-get update
+sudo vim sources.list
+sudo gedit sources.list
+cd
+ls
+exit
+cd Documents
+ls
+vim test.cpp
+ls
+g++ test.cpp 
+ls
+./a.out
+./test
+ls
+rm a.out test
+ls
+vim test.o
+vim /usr/bin/indicator-china-weather
+vim /usr/share/indicator-china-weather
+w3m www.weather.com.cn
+ls
+git add 2015-05-13-notes-of-compiler.md
+git log
+git commit -m "add some of chapter 1"
+git push
+du -h 2015-05-13-notes-of-compiler.md
+du -lh
+ls | du -h
+ls -lh
+du -h 2015-0-1--com
+du -h 2015-05-13-notes-of-compiler.md
+file 2000-01-01-test.md
+\tfile 2013-12-15-story-in-life.md
+vim 2013-12-15-story-in-life.md
+twei remind
+twei timeline
+newsbeuter
+w3m www.quora.com
+YEXIT
+\texit
+cd .newsbeuter
+ls
+vim _quora_.txt
+subl _quora_.txt
+sudo shutdown -h now
+w3m www.baidu.com
+exit
+subl
+ls
+echo $lan
+lan
+set
+set lan
+set | grep lan
+vim Mac.po
+cd /usr/share/locale/en/LC_MESSAGES
+sudo msgfmt -o unity.mo ~/Mac.po 
+exit
+twei remind
+ls
+tpp Mac.po
+echo LANG
+echo $LANG
+cd Documents
+ls
+cd Compiler
+ls
+wget -c -r -np -k -L -p https://github.com/ITanCh/Compiler-NJU
+ls
+cd github.com
+ls
+cd ITanCh
+ls
+vim Compiler-NJU
+rm Compiler-NJU
+ls
+ls -a
+cd ..
+rmdir ITanCh
+ls
+cd ..
+rmdir github.com
+ls
+cd 实验3
+ls
+cd ..
+ls
+cd ..
+ls
+wget -c -r -np -k -L -p http://www.kuqin.com/itman/liyanhong/
+cd Documents
+ls
+cd KeepNote
+ls
+cd trash
+ls
+vim node.xml
+cd .
+cd ..
+cd new\ page
+ls
+vim page.html
+ls
+cd www.kuqin.com
+ls
+du -h
+vim robots.txt
+cd itman
+ls
+cd liyanhong
+ls
+firefox index.html
+df -lh
+cd ../..
+ls
+cd ..
+ls
+newsbeuter
+ls
+cd ..
+ls
+wget -c -r -np -k -L -p http://www.linuxidc.com/Linux/2015-05/117381.htm
+ls
+cd Documents/Compiler/编译原理实验-小型编译器-实验楼
+ls
+vim tags
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+cd 
+cd /usr/share/vim/vim74/syntax
+ls
+vim cpp.vim
+vim c.vim
+cd 
+cd .vim
+ls
+cd settings
+ls
+cd ..
+tree .
+tree . | grep syntax
+ls
+cd after
+ls
+cd plugin
+ls
+cd ..
+ls
+cd bundle
+ls
+cd ..
+ack-grep syntax
+ls
+cd vundles
+ls
+cd ..
+cd ftplugin
+ls
+cd ..
+cd sessions
+ls
+vim default.vim
+cd ..
+ls
+cd bundle
+ls
+find *syntax
+ls
+cd vim-colors
+ls
+cd colors
+ls
+cd 
+dpkg -l ctags
+sudo apt-get install ctags
+dpkg -l | grep tag
+ls
+cd Documents
+ls
+cd Compiler
+ls
+cd 编译原理实验-小型编译器-实验楼
+ls
+cd lexical_analyzer
+ls
+cd ..
+ls
+cd byq
+ls
+ctags -R
+ls
+vim tags
+vim byq.cpp
+dpkg -l | grep cscope
+dpkg -l | grep ctag
+dpkg -l | grep ctags
+sudo apt-get install exuberant-ctags
+ctags-exuberant -R
+ls 
+ls -a
+vim tags
+vim byq.cpp
+vim -t main
+ls
+cd .vi
+cd .vim
+ls
+cd vundles
+ls
+cd ..
+cd bundle
+ls
+cd vundle
+ls
+cd 
+ls
+vim spf13-vim.sh
+du -h spf13-vim.sh
+exit
+cd 
+vim .vimrc.bundles
+apt-cache search synapse
+ls
+exit
+ls
+cd .vim
+ls
+git status
+exit
+cscope -Rbq
+ls
+vim cscope.out
+vim byq.cpp
+exit
+sudo apt-get install ubuntu-desktop
+sudo shutdown -h now
+sudo reboot
+sudo apt-get update
+sudo apt-get upgrade
+dpkg -l G++
+dpkg -l g++
+dpkg -l gcc
+df -lh
+twei remind
+twei timeline
+sudo apt-get --fix-missing
+sudo apt-get install --fix-missing
+sudo apt-get upgrade
+df -lh
+uname -a
+sudo apt-get upgrade
+sudo apt-get install ubuntu-wallpapers
+sudo apt-get install ubuntu-wallpapers-maverick
+sudo apt-get install ubuntu-wallpapers-trusty
+sudo apt-get install ubuntu-wallpapers-lucid
+sudo apt-get install ubuntu-wallpapers-precise
+sudo apt-get install compiz-plugins-extra
+sudo apt-get install compizconfig-settings-manager
+man compiz
+cd Desktop
+ks
+ls
+sudo apt-get install compiz
+sudo apt-get install compiz-core
+sudo apt-get install compiz-gnome
+sudo apt-get install fusion-icon
+cd Desktop
+ls
+rmdir Untitled\ Folder Untitled\ Folder\ 2
+ls
+rmdir Untitled\ Folder
+rm Untitled\ Folder\ 2
+ls
+rmdir Untitled\ Folder\ 2
+ls
+cd Desktop
+ls
+fusion-icon
+df -lh
+sudo reboot
+sudo apt-get install emerald
+sudo apt-get install compizconfig-backend-gconf
+sudo apt-get install python-compizconfig
+sudo apt-get install compiz-core
+sudo apt-get install libemeraldengine0
+sudo apt-get install unity-greeter
+sudo apt-get install shutdown-at-night
+shutdown-at-night
+sudo add-apt-repository -y ppa:linrunner/tlp
+sudo apt-get update
+sudo apt-get install -y my-weather-indicator
+sudo apt-get install tlp
+df -lh
+sudo apt-get upgrade
+sudo apt-get -f install
+tlp
+cd /var/cache/apt/archives
+ls
+sudo apt-get upgrade
+sudo apt-get install linux-tools-3.13.0-53
+sudo apt-get install linux-tools-common
+sudo rm linux-tools-common_3.13.0-53.88_all.deb
+sudo apt-get upgrade
+sudo apt-get -f install
+sudo apt-get upgrade
+cd 
+man linux-tools
+man linux64
+cd Downloads
+ls
+wget -O skype.deb http://download.skype.com/linux/skype-ubuntu-precise_4.2.0.13-1_i386.deb
+cd Downloads
+ls
+dircolors
+cd
+dircolors -p > .dir_colors
+vim .dir_colors
+ls
+sudo dpkg -i skype.deb
+sudo apt-get -f install
+sudo apt-get install gdebi
+sudo apt-get -f install
+sudo apt-get install linux-tools-common
+dpkg --configure -a
+sudo dpkg --configure -a
+sudo apt-get upgrade
+sudo apt-get install -f
+sudo apt-get clean
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install -f
+status
+status --help
+man linux-tools
+sudo apt-get remove linux-tools-3.13.0-53
+sudo apt-get install -f
+cd /var/cache/apt/archives
+sudo rm linux-tools-common_3.13.0-53.88_all.deb
+sudo apt-get remove linux-tools-3.13.0-53
+sudo apt-get remove linux-tools-3.13.0-53-generic
+ls
+ls -a
+cd ..
+ls
+cd ..
+ls
+cd
+sudo apt-get upgrade
+sudo apt-get install -f
+sudo apt-get remove --purge linux-tools-3.13.0-53
+exit
+ls -a
+sudo shutdown -h now
+sudo apt-get upgrade
+sudo apt-get install -f
+sudo apt-get update
+cd Documents/Compiler
+ls
+cd
+cd Desktop
+ls
+cd 
+cd Documents/Compiler
+ls
+exit
+cd Documents/Compiler
+ls
+cd 121220041_lab1_new
+ls
+cd bisonflex
+ls
+vim wc.l
+cd Documents/Compiler
+ls
+cd Lab
+ls
+cd Test
+ls
+cd ..
+vim RE
+vim README
+evince report.pdf
+cd Code
+ls
+vim lexical.l
+vim wc.l
+vim main.c
+ls
+vim main.
+vim main.c
+ls
+vim node.c
+vim syntax.y
+ls
+vim main.h
+vim syntax.y
+cd Documents/Compiler
+ls
+cd 121220032_lab1
+ls
+cd ..
+vim syntax.y
+cd 121220032_lab1
+ls
+./scanner test.c
+ls
+cd ..
+l
+ls
+evince 121220041%bd%f0%b4%f3%d3%ee.pdf
+ls
+vim node.c
+cd Downloads
+ls
+cd Phoeton
+ls
+cd Phoeton
+ls
+cd ../..
+ls
+rm skype.deb
+ls
+vim core
+chmod 600 core
+./core
+rm core
+ls
+exit
+ls
+vim lexical.l
+ls
+cd bisonflex
+ls
+vim wc.l
+ls
+vim lexical.l
+exit
+vim wc.l
+exit
+tmux
+cd Documents/Compiler
+ls
+cd 121220041_lab1_new
+cd bisonflex
+ls
+vim wc.l
+cd Documents/Compiler/121220032_lab1
+ls
+vim lexical.l
+subl lexical.l
+vim lexical.l
+cd Documents/Compiler/Lab
+cd Code
+ls
+vim lexical.l
+subl lexical.l
+vim lexical.l
+cd Documents/Compiler
+vimdiff 121220032_lab1/lexical.l 121220041_lab1_new/bisonflex/wc.l
+eext
+exit
+vim lexical.l
+vim main.
+vim main.c
+ls
+vim main.c
+ls
+vim 实验报告.md
+flex lexical.l
+vim lexical.l
+flex lexical.l
+vim lexical.l
+vim wc.l
+flex wc.l
+ls
+vim wc.l
+vim syntax.y
+ls
+vim main.h
+vim main.c
+vim syntax.y
+vim main.c
+ack-grep cre_node
+vim node.h
+ls
+vim node.c
+vim lexical.l
+vim wc.l
+vim lexical.l
+subl lexical.l
+subl main.c
+flex lexical.l
+vim lexical.l
+ls
+vim main.c
+subl main.c
+ls
+vim node.c
+vim main.c
+vim syntax.y
+sl
+vim syntax.y
+ls
+vim syntax.y
+ls
+flex wc.l
+cd ..
+evince 121220041%bd%f0%b4%f3%d3%ee.pdf
+cd Documents/Compiler/121220041_lab1_new
+ls
+cd bisonflex
+ls
+flex wc.l
+bison -d syntax.y
+gcc main.c main.h syntax.tab.c -lfl -ly -o parser
+ls
+cd bisonflex
+ls
+vim syntax.y
+gcc main.c main.h syntax.tab.c -lfl -ly -o parser
+vim syntax.y
+vim main.h
+gcc main.c main.h syntax.tab.c -lfl -ly -o parser
+./parser ../../121220032_lab1/test.c
+vim test.c
+./parser ../../121220032_lab1/test.c
+ls
+flex lexical.l
+vim main.c
+ls
+vim 实验报告.md
+gcc lex.yy.c main.c -o scan
+ls
+vim lex.yy.c
+vim wc.l
+vim syntax.tab.h
+ls
+vim lexical.l
+vim wc.l
+flex lexical.l
+ls
+gcc main.c lex.yy.c -o scan
+ls
+vim main.c
+gcc main.c lex.yy.c -o scan
+vim main.c
+gcc main.c lex.yy.c -lfl -o scan
+ls
+vim main.c
+gcc lex.yy.c -lfl -o scan
+ls
+gcc main.c main.h lex.yy.c -lfl -o scan
+ls
+vim main.c
+gcc main.c lex.yy.c -lfl -o scan
+ls
+cd ../..
+ls
+cd 121220032_lab1
+ls
+./scanner test.c
+vim test.c
+./scanner test.c
+gcc lex.yy.c main.c -lfl -o scans
+vim lexical.l
+ls
+vim wc.l
+vim lexical.l
+gcc lex.yy.c main.c -lfl -o scans
+vim main.h
+vim main.
+vim main.c
+gcc lex.yy.c main.c -lfl -o scans
+vim lexical.l
+ping www.google.com
+exit
+eixt
+exit
+cd Documents/Compiler
+tmux
+cd 121220041_lab1_new
+ls
+cd bisonflex
+cd Lab
+ls
+cd Code
+ls
+cd .
+vim syntax.y
+ls
+vim syntax.y
+vim main.c
+vim main.
+vim main.c
+exit
+man cpp
+cd Documents
+ls
+man cpp
+ls
+vim hello.c
+gcc -E hello.c -o hello.i
+vim hello.i
+cpp hello.c > hello.i
+vim hello.
+vim hello.i
+gcc -S hello.i -o hello.s
+vim hello.s
+as hello.s -o hello.o
+vim hello.o
+gcc -c hello.s -o hello.o
+gcc -01 -o hello hello.o
+gcc  -o hello hello.o
+./hello
+htop
+twei remind
+sudo shutdown -h now
+sudo apt-get upgrade
+sudo apt-get -f install
+man status
+df -lh
+sudo apt-get install virtualbox
+cd /var/cache/apt/archives/
+ls
+sudo dpkg -i linux-tools-common_3.13.0-53.88_all.deb
+ls
+sudo apt-get remove linux-lts-vivid-tools-3.19.0-17
+sudo apt-get -f install
+sudo apt-get update
+cd /var/lib/apt
+ls
+sudo mv lists lists.old
+sudo mkdir -p lists/partial
+sudo apt-get update
+ls
+sudo subl /etc/apt/sources.list
+cd /var/cache/apt
+ls
+cd ..
+cd lib/apt
+ls
+cd lists.old
+ls
+vim lock
+cd
+vim .gnupg/gpg.conf
+cd /var/lib/apt
+ls
+sudo rm lists/* -vf
+sudo apt-get update
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 40976EAF437D05B5
+sudo gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 40976EAF437D05B5
+ls
+cd 
+vim key1
+sudo apt-key add key1
+cd /etc/apt/trusted.gpg.d
+ls
+find -name '*.gpg' -size 0
+ll
+ls -h
+ls -lh
+sudo apt-key add key1
+sudo apt-get update
+ls
+vim key2
+sudo apt-get update
+sudo apt-key add key2
+ls
+cd 
+sudo apt-key add key2
+dpkg -l gcc
+sudo apt-get upgrade
+sudo apt-get -f install
+exit
+cd Documents/Compiler
+ls
+cd 实验一
+ls
+tmux
+clear
+cd 121220032_lab1
+ls
+clear
+cd 121220041_lab1_new
+cd bisonflex
+ls
+cd Lab/ls
+cd Lab
+ls
+clear
+ls
+evince report.pdf
+vim README
+ls
+ranger
+cd Code
+ls
+vim main.c
+ls
+vim main.c
+twei remid
+twei remind
+twei timeline
+twei df
+twei
+twei frineds
+twei friends
+twei friends 傲娇的夏洛克
+twei remind
+twei followers 傲娇的夏洛克
+twei comments 傲娇的夏洛克
+twei comments
+mv test.c test.cmm
+vim main.c
+vim test.cmm
+vim main.c
+vim 1.cmm
+vim 2.cmm
+vim 3.cmm
+exit
+cd Documents/Compiler
+ls
+wget -c -r -np -k -L -p http://dinosaur.compilertools.net/
+ls
+cd dinosaur.compilertools.net
+ls
+du -h
+vim index.html
+firefox index.html
+ls
+display dragon.gif
+ls
+vim syntax.y
+vim lexical.l
+flex lexical.l
+gcc lex.yy.c --o scan -lfl
+gcc lex.yy.c -o scan -lfl
+vim lexical.l
+flex lexical.l
+gcc lex.yy.c -lfl -o test
+vim lexical.l
+cd ..
+ls
+cd 实验一
+ls
+cd 121220032_lab1
+ls
+flex lexical.l
+vim lex.yy.c
+gcc lex.yy.c -lfl -o scan
+flex lexical.l
+gcc lex.yy.c -lfl -o tst
+ls
+cd ..
+cd..
+cd ..
+ls
+wget -c -r -np -k -L -p http://web.stanford.edu/class/cs143/
+cd Documents/Compiler
+ls
+impressive Slides00.pdf
+exit
+ls
+du -h web.stanford.edu
+cd web.stanford.edu
+ls
+vim robots.txt
+cd class
+ls
+cd cs143
+ls
+firefox course_info.html
+ls
+index schedule.html
+firefox schedule.html
+firefox index.html
+exit
+cd Documents/Compiler/编译原理实验-小型编译器-实验楼
+cd lexical_analyzer
+ls
+tmux
+ls
+vim lexical_analyzer.cpp
+vim lexical_analyze_result.txt
+exit
+vim lexical.l
+flex lexical.l
+gcc lex.yy.c -lfl -o scan
+vim lexical.l
+vim syntax.y
+vim main.h
+vim node.h
+vim main.h
+vim node.h
+vim lexical.l
+ls
+vim wc.l
+ls
+ack-grep yylval.type_int
+ack-grep yylval.type_int | less
+ack-grep yylval.node
+ack-grep yylval.tnoe
+vim wc.l
+vim main.c
+vim main.h
+cd Documents/Compiler/实验一/Lab
+ls
+cd Code
+ls
+vim yyltype.h
+vim node.c
+vim node.h
+exit
+vim lexical.l
+cd Documents/Compiler
+ls
+cd Flex_Bison
+ls
+vim fb1-1.l
+vim fb1-5.y
+vim fb1-5.l
+vim syntax.y
+vim fb1-5.y
+cd ..
+cd 实验一/121220032_lab1
+vim lexical.l
+vim syntax.y
+vim fb1-5.l
+vim fb1-5.y
+exit
+bison -d syntax.y
+exit
+vim syntax.y
+bison -d syntax.y
+vim syntax.y
+bison -d syntax.y
+vim syntax.y
+vim syntax.
+vim syntax.y
+cd Documents/Compiler/Flex_Bison
+ls
+vim fb1-5.l
+vim fb1-5.y
+exit
+bison -d syntax.y
+vim fb1-5.y
+vim syntax.y
+bison -d syntax.y
+ls
+vim lexical.l
+flex lexical.l
+gcc lex.yy.c -lfl -o scan
+ls
+./scan 1.cmm
+./scan
+vim lexical.l
+./scan 1.cmm
+vim 1.cmm
+vim lexical.l
+vim main.c
+flex lexical.l
+gcc lex.yy.c main.c -lfl -o scans
+rm scan
+ls
+exit
+xit
+exit
+sudo shutdown -h now
+sudo apt-get -f install
+twei remind
+cd /var/cache/apt/archives
+ls
+sudo dpkg -i linux-tools-common_3.13.0-53.88_all.deb
+importance
+status 
+status --help
+sudo apt-get install virtualbox
+dpkg-source -x *.dsc
+dpkg-source -x *.linux
+df -lh
+clear
+exit
+htop
+cd Documents/GitLib/hezhizhen.github.io
+ls
+vim index.html
+cd _layouts
+vim default.html
+vim post.html
+vim default.html
+subl default.html
+ls
+git add default.html
+git commit -m "add 统计功能"
+git push
+ls
+git add default.html
+git commit -m "change statistic model"
+git push
+git add default.html
+git commit -m "change statistic model"
+git push
+ls
+exit
+sudo apt-get install dfc 
+sudo apt-get -f install
+df -lh
+twei timeline
+twei remind
+sudo apt-get update
+upower -e | grep BAT |xargs upower -i
+vim /etc/apt/sources.list
+cd /etc/apt
+ls
+vim sources.list.save
+sudo vim sources.list
+ls
+ll
+sudo vim sources.list
+sudo subl sources.list
+sudo apt-get update
+sudo subl sources.list
+sudo vim sources.list
+exit
+sudo shutdown -h now
+sudo vim /etc/apt/sources.list
+sudo subl /etc/apt/sources.list
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get -f install
+cd /var/lib/apt
+ls
+sudo mv lists list.old
+sudo mkdir -p lists/partial
+cd lists
+ls
+cd partial
+ls
+cd ../..
+ls
+sudo apt-get upgrade
+sudo apt-get update
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 437D05B5 3E5C1192
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 40976EAF437D05B5
+find /etc/apt/trusted.gpg.d -name '*.gpg' -size 0
+sudo apt-get -f install
+sudo apt-get upgrade
+cd /var/cache/apt/archives/
+ls
+sudo dpkg -i linux-tools-common_3.13.0-53.88_all.deb
+sudo dpkg -i linux-tools-common_3.13.0-52.86_all.deb
+sudo apt-get remove linux-tools-3.13.0-53
+sudo apt-get remove linux-tools-3.13.0-53-generic
+sudo apt-get remove linux-tools-generic
+sudo apt-get upgrade
+ls
+cd
+ls
+rm key1 key2 
+ls
+sudo apt-get update
+sudo apt-get --reinstall install ubuntu-keyring
+dpkg --configuration -a
+dpkg --configure -a
+sudo dpkg --configure -a
+sudo apt-get upgrade
+sudo apt-get autoremove
+dpkg -l | grep linux
+sudo apt-get remove deepin-software-center
+cd Downloads
+ls
+du -h virtualbox-4.3_4.3.28-100309-Ubuntu-raring_amd64.deb
+sudo dpkg -i virtualbox-4.3_4.3.28-100309-Ubuntu-raring_amd64.deb
+sudo apt-get remove dolphin 
+sudo apt-get autoremove
+sudo apt-get upgrade
+df -lh
+sudo apt-get install dfc
+dfc
+sudo apt-get update
+dpkg -l | grep virtual
+sudo apt-add-repository ppa:fcitx-team/nightly
+sudo apt-get update
+sudo apt-get install fcitx
+exit
+sudo dpkg -i sogoupinyin_1.2.0.0048_amd64.deb
+sudo apt-get remove ibus
+dpkg -l  | grep ibus
+sudo apt-get remove ibus
+sudo apt-get autoremove
+ls
+sudo apt-get install build-essential
+dpkg -l | grep ibus
+sudo apt-get install ibus
+sudo apt-get install -f
+sudo apt-get install ibus-gtk
+sudo apt-get install ibus-gtk3
+sudo apt-get install ibus
+sudo apt-get install gir1.2-ibus-1.0
+sudo apt-get install kde-l10n-zhcn
+sudo apt-get install ibus-pinyin
+sudo apt-get install ibus
+sudo apt-get install gir1.2-ibus-1.0
+sudo apt-get install ibus-googlepinyin
+sudo apt-get update
+sudo apt-get install ibus
+rm sogoupinyin_1.2.0.0048_amd64.deb
+ls
+sudo apt-get remove gir1.2-ibus-1.0
+sudo apt-get install linux-generic
+sudo apt-get install ibus
+sudo apt-get install ubuntu-desktop
+sudo apt-get install ibus-gtk*
+sudo apt-get install ibus-gtk
+sudo apt-get install ibus-gtk3
+sudo apt-get install ubuntu-desktop
+sudo apt-get install ibus-table
+sudo apt-get install unity-control-center
+sudo apt-get install ibus
+sudo apt-get install linux-generic
+sudo apt-get install ibus-qt4
+dpkg -l | grep ibus
+sudo apt-get upgrade
+sudo apt-get install unity-control-center
+sudo reboot
+df -lh
+vim
+ls
+sudo apt-get install ibus
+sudo apt-get install gir1.2-ibus-1.0
+dpkg -l gir1.2-ibus-1.0
+sudo apt-get install gir1.2-gtk-3.0
+sudo apt-get install python-gi
+sudo apt-get install python-notify
+sudo apt-get install unity-control-center
+sudo apt-get -f install
+sudo apt-get update
+sudo apt-get install --reinstall unity-control-center
+sudo apt-get install --reinstall ibus
+sudo apt-get install --reinstall gir1.2-ibus-1.0
+dpkg -l | grep ibus
+cd Downloads
+sudo dpkg -i ibus-gtk_1.5.5-1ubuntu3.1_arm64.deb
+rm ibus-gtk_1.5.5-1ubuntu3.1_arm64.deb
+sudo dpkg -i ibus_1.5.5-1ubuntu3.1_arm64.deb
+tar xvf ibus_1.5.5.orig.tar.gz
+ls
+cd ibus-1.5.5
+ls
+./configure
+sudo apt-get install intltool
+ls
+vim README
+./install-sh
+./configure
+sudo apt-get install ibus
+ls
+cd .
+cd ..
+ls
+rm ibus_1.5.5.orig.tar.gz
+ls
+sudo apt-get install unity-control-center
+sudo apt-get install libibus-1.0-5
+sudo apt-get install python-ibus
+dpkg -l | grep ibus
+ls
+cd ibus-1.5.5
+ls
+vim INSTALL
+./configure
+ls
+./compile
+./missing
+./test-driver
+cd ibus
+ls
+cd ..
+./install-sh
+vim install-sh
+ls
+exit
+sudo apt-get install ubuntu-desktop
+sudo apt-get install xul-ext-webaccounts
+sudo apt-get install ibus
+sudo apt-get install unity-control-center
+sudo apt-get install ubuntu-desktop
+ls
+sudo apt-get install ibus-table-wubi
+sudo apt-get install kde-l10n-zhcn
+sudo shutdown -h now
+ls
+sudo apt-get install ibus-googlepinyin
+sudo apt-get install fcitx-rime
+exit
+newsbeuter
+df -lh
+sudo shutdown -h now
+dfc
+df -lh
+dfc
+df -lh
+free -h
+htop
+dfc
+free -h
+mutt
+fetchmail -v
+ls
+mutt
+twei remind
+twei timeline
+sudo dfc
+sudo shutdown -h now
+free -h
+dfc
+free -h
+df -lh
+cd Documents
+ls
+./hello
+ls
+twei remind
+sudo shutdown -h now
+sudo apt-get upgrade
+free -h
+sudo shutdown -h now
+free -h
+htop
+df -lh
+cd Documents
+ls
+rm hello hello.c hello.i hello.o hello.s 
+ls
+wc
+vim Today\ To\ Do\ List.xmind
+XMind Today\ To\ Do\ List.xmind
+rm Today\ To\ Do\ List.xmind
+ls
+cd colord/
+ls
+cd ..
+cd colord
+ls
+pwd
+cd 
+cd Documents
+cd PR
+ls
+evince PR_5.pdf
+sudo shutdown -h now
+sudo apt-get upgrade
+free -h
+htop
+sudo apt-get install wikipediafs
+wikipediafs
+man mount.wikipediafs
+lsmod | grep fuse
+cd Downloads
+ls
+w3m cslab.nju.edu.cn
+tmux
+w3m cslab.nju.edu.cn
+uname -a
+twei remind
+exit
+twei remind
+sudo shutdown -h now
+mutt
+fetchmail -v
+mutt
+sudo apt-get upgrade
+sudo shutdown -h now
+twei remind
+sudo apt-get upgrade
+cd Pictures
+ls
+file Gloria.jpg
+du -h Gloria.jpg
+exit
+sudo shutdown -h now
+cd Documents/PR
+ls
+impressive PR_7.pdf
+wget http://cs.nju.edu.cn/wujx/teaching/PR_8.pdf
+ls
+impressive PR_8.pdf
+impressive PR_7.pdf
+sudo reboot
+dpkg -l | grep lightdm
+vim /usr/share/lightdm/lightdm.conf.d/50-ubuntu.conf
+vim /usr/share/lightdm/lightdm.conf.d/50-unity-greeter.conf
+cd /etc/lightdm
+ls
+vim lightdm-gtk-greeter-ubuntu.conf
+display /usr/share/backgrounds/warty-final-ubuntu.png
+exit
+vim users.conf
+sudo vim /usr/share/lightdm/lightdm.conf.d/50-unity-greeter.conf
+sudo gedit /usr/share/lightdm/lightdm.conf.d/50-unity-greeter.conf
+ls
+sudo gedit lightdm.conf
+ls
+vim lightdm.conf
+ls
+sudo rm lightdm.conf
+ls
+cd /usr/share/lightdm/lightdm.conf.d
+ls
+vim 50-unity-greeter.conf
+sudo apt-get install ubuntu-touchsudo add-apt-repository ppa:tualatrix/ppa
+sudo add-apt-repository ppa:tualatrix/ppa
+sudo apt-get update
+sudo apt-get install ubuntu-tweak
+sudo reboot
+ls
+cd Documents/PR
+ls
+okular PR_8.pdf
+sudo apt-get install tuxcmd
+dpkg -l tuxcmd
+tuxcmd
+sudo apt-get install audacious
+sudo apt-get remove tuxcmd
+ls
+dpkg -l  | grep google
+dfc
+df -lh
+exit
+sudo add-apt-repository ppa:obsproject/obs-studio
+sudo apt-get update
+sudo apt-get dist-upgrade
+ls
+exit
+sudo apt-get update
+sudo apt-get install obs-studio
+exit
+free -h
+htop
+free -h
+twei remind
+ping google.com
+cd Documents/Compiler
+ls
+sudo shutdown -h now
+sudo apt-get install nautilus-actions
+man nautilus-actions-config-tool
+ls -a
+ranger
+sudo apt-get install ranger
+sudo apt-get -f install
+cd Documents
+wget -c -r -np -k -L -p http://tcs.nju.edu.cn/yinyt/Yitong_Yin_homepage.html
+ls
+cd tcs.nju.edu.cn
+ls
+cd yinyt
+ls
+cd ..
+wget -np -nH -r --span-hosts http://tcs.nju.edu.cn/wiki/index.php/Combinatorics_%28Fall_2010%29
+ls
+cd tcs.nju.edu.cn
+ls
+cd ..
+ls
+cd wiki
+s
+ls
+du 0h
+du -h
+ls
+cd ..
+ls
+cd
+cd Documents
+ls
+cd PR
+ls
+wget http://cs.nju.edu.cn/wujx/teaching/ex3.pdf
+impressive ex3.pdf
+cd 
+cd Documents
+ls
+wget -c -r -np -k -L -p http://theory.cs.yale.edu/
+ls
+cd theory.cs.yale.edu
+ls
+yandex index.html
+yandex-browser index.html
+cd ..
+twei remind
+twei timeline
+exit
+cd Documents/GT
+ls
+evince iBT新托福镇魂单词题（词汇题）1.7版.pdf
+cd ..
+ls
+cd PR
+ls
+okular ex3.pdf
+sudo shutdown -h now
+sudo apt-get upgrade
+exit
+twei remind
+cd Downloads
+ls
+rm UnityWebPlayer_4.5.5.0_20141102.exe
+free -h
+htop
+HTOP
+htop
+twei remind
+sudo shutdown -h now
+ls
+sudo shutdown -h now
+cd Documents/PR
+evince ex3.pdf
+cd ..
+s
+ls
+cd tcs.nju.edu.cn
+ls
+cd yinyt
+ls
+vim Research.html
+cd Research_files
+ls
+display pinstripe_bk_tile3-51.jpg
+evince soda07-balance.pdf
+evince soda08-hash.pdf
+exit
+cd Documents/PR
+wget http://cs.nju.edu.cn/wujx/teaching/PR_10.pdf
+evince PR_10.pdf
+ls
+okular PR_10.pdf
+ranger
+exit
+sudo shutdown -h now
+sudo apt-get upgrade
+exit
+free -h
+htop
+ls
+cd VirtualBox\ VMs
+ls
+du -h
+cd Win10
+ls
+du -lh
+ls -lh
+cd Logs
+ls
+vim VBox.log
+exit
+ls
+free -h
+htop
+sudo shutdown -h now
+sudo apt-get upgrdate
+sudo apt-get upgrade
+sudo shutdown -h now
+w3m www.baidu.com
+sudo apt-get upgrade
+exit
+cd Documents
+s
+vim account+password
+exit
+free -h
+htop
+free -h
+ls
+df -lh
+dfc
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 40976EAF437D05B5
+sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 16126D3A3E5C1192
+sudo apt-get update
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 40976EAF437D05B5
+sudo apt-key adv
+ls
+vim key
+sudo apt-get update
+free -h
+htop
+free 0h
+free -h
+ls
+cd Documents/CG
+ls
+vim CohenSutherlandLineClipp
+vim CohenSutherlandLineClipp.cpp
+g++ CohenSutherlandLineClipp.cpp
+vim CohenSutherlandLineClipp.cpp
+g++ CohenSutherlandLineClipp.cpp
+vim CohenSutherlandLineClipp.cpp
+subl CohenSutherlandLineClipp.cpp
+vim CohenSutherlandLineClipp.cpp
+cd
+vim .vimrc
+ls
+cd .vim
+ls
+cd bundle
+ls
+cd ..
+cd settings
+ls
+cd ..
+ls
+cd vundles
+ls
+cd ..
+ack-grep syntax
+ack-grep c.vim
+cd 
+vim .vimrc
+sudo shutdown -h now
+sudo apt-get upgrade
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install google-chrome-stable
+sudo apt-get upgrade
+cd Desktop
+wget http://www.sharewithu.com/thread-748137-1-1.html
+ls
+firefox thread-748137-1-1.html
+rm thread-748137-1-1.html
+ls
+newsbeuter
+cd
+cd Downloads
+ls
+du -h
+ls -lh
+ls
+du -h C%2B%2B\ Primer\ Plus\ 第6版\ 中文版.rar
+cd
+df -lh
+sudo apt-get upgrade
+clear
+sudo add-apt-repository ppa:moka/stable
+sudo add-apt-repository ppa:numix/ppa
+sudo apt-get update
+sudo apt-get upgrade
+clear
+free -h
+htop
+free -h
+dfc
+df -lh
+htop
+free -h
+htop
+twei remind
+twei timeline
+cat /etc/shells
+alias
+echo "error"
+ls || echo "error"
+ls && echo "error"
+which touch
+ls -l which touch
+ls -l /bin/touch
+ls -l /usr/bin/touch
+dfc
+free -h
+dfc
+sudo shutdown -h now
+cd Pictures
+ls
+mkdir 500px
+ls
+cd 500px
+s
+ls
+du -h
+ls
+cd ..
+ls
+cd 
+cd Downloads
+ls
+dfc
+df -h
+free -h
+df -lh
+free -h
+htop
+free -h
+htop
+free -h
+clear
+cd Documents
+ls
+cd Compiler
+ls
+cd 实验一
+ls
+cd 121220032_lab1
+ls
+vim 1.cmm
+vim lexical.l
+vim lex.yy.c
+vim .vimrc
+cd .vim
+ls
+cd ..
+s
+ls
+vim .vimrc
+ls -a
+ls 
+vim spf13-vim.sh
+curl http://j.mp/spf13-vim3 -L -o - | sh
+ls -a
+cd ..
+ls
+cd 121220041_lab1_new
+ls
+cd bisonflex
+ls
+vim syntax.y
+cd ..
+ls
+cd ..
+ls
+cd 编译原理实验-小型编译器-实验楼
+ls
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+ctags
+ctags .
+ls
+vim lexical_analyzer.cpp
+vim tags
+curl https://j.mp/spf13-vim3 -L -o - | sh
+eixt
+exit
+ls
+exit
+ls
+vim spf13-vim.sh
+ls -lh spf13-vim.sh
+rm spf13-vim.sh
+ls
+ls -a
+vim .vimrc
+ls
+vim key 
+exit
+vim .vimrc
+ls
+vim .vimrc
+cd Documents
+ls
+cd Compiler
+ls
+cd 编译原理实验-小型编译器-实验楼
+s
+ls
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+ls
+vim lexical_analyzer.cpp
+ls
+vim .zshrc
+eval
+man eval
+cd .oh-my-zsh
+ls
+cd plugins
+ls
+cd vundle
+ls
+cd ..
+ls
+cd tools
+ls
+vim require_tool.sh
+cd ..
+cd themes
+ls
+upgrade_oh_my_zsh
+cd 
+upgrade_oh_my_zsh
+cd .oh-my-zsh
+cd 
+ping www.baidu.com
+vim .zshrc
+zsh
+ls
+exit
+vim .zshrc
+zsh
+exit
+ls
+cd Downloads
+ls
+lsar solarized.zip
+ls
+man lsar
+unar solarized.zip
+ls
+ls -a
+cd solarized
+ls
+ls -a
+cd 
+ls -a
+cd .spf13-vim-3
+ls
+cd ..
+ls
+cd .spf13-vim-3
+ls -lh
+cd ..
+cd Downloads
+ls
+ls -lh solarized.zip
+cd solarized
+ls
+vim README.md
+du -h
+cd ..
+ls
+du -h solarized.zip
+cd 
+cd .oh-my-zsh
+ls
+cd themes
+ls
+cd
+git clone https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme.git
+ls
+cd oh-my-zsh-powerline-theme
+ls
+vim README.md
+./install_in_omz.sh
+cd ..
+vim .vimrc
+vim .zshrc
+zsh
+ls
+exit
+vim .zshrc
+zsh
+exit
+vim .zshrc
+ls
+git clone https://github.com/milkbikis/powerline-shell
+cd powerline-shell
+ls
+vim config.py.dist
+cp config.py.dist config.py
+ls
+vim config.py
+vim install.py
+ls
+cd ..
+ls
+echo $LANG
+vim .zshrc
+zsh
+vim .zshrc
+source .zshrc
+zsh
+exit
+zsh
+git clone https://github.com/powerline/fonts.git
+ls
+cd fontconfig
+ls
+cd .
+cd ..
+cd font
+cd fonts
+ls
+vim in
+vim install.sh
+./install.sh
+exit
+zsh
+exit
+zsh
+ls
+cd fontconfig
+ls
+cd ..
+cd fonsts
+cd fonts
+ls
+./install.sh
+cd ..
+ls
+exit
+vim .zshrc
+zsh
+exit
+vim .zshrc
+zsh
+exit
+ls
+exit
+vim .zshrc
+zsh
+cd Documents
+ls
+cd Compiler
+ls
+echo $TERM
+export TERM="xterm-256color"
+echo $TERM
+zsh
+exit
+zsh
+ls
+cd .oh-my-zsh/themes
+ls
+vim powerline.zsh-theme
+exit
+echo $TERM
+vim .zshrc
+zsh
+ls
+cd Documents
+ls
+cd Compiler
+ls
+cd Flex_Bison
+cd ..
+cd GitLib
+ls
+cd hezhizhen.github.io
+exit
+vim .zshrc
+zsh
+ls
+cd Documents
+ls
+cd GitLib
+ls
+cd 
+cd Documents
+cd GitLib
+cd hezhizhen.github.io
+ls
+vim README.md
+exit
+vim .zshrc
+zsh
+cd Documents/Compiler
+ls
+exit
+vim .zshrc
+zsh
+ls
+cd Documents
+cd GitLib
+cd hezhizhen.github.io
+exit
+vim .zshrc
+zsh
+ls
+cd Documents
+cd GitLib/hezhizhen.github.io
+exit
+vim .zshrc
+zsh
+ls
+cd Documents/GitLib/hezhizhen.github.io
+exit
+cd Documents/GitLib/hezhizhen.github.io
+cd
+vim .zshrc
+zsh
+cd Documents/GitLib/hezhizhen.github.io
+exit
+vim .zshrc
+zsh
+ls
+cd Documents
+ll
+cd Compiler
+ll
+cd ..
+cd GitLib/hezhizhen.github.io
+ll
+exit
+cd Documents
+cd ..
+vim .zshrc
+zsh
+exit
+zsh
+exit
+tmux
+ls
+cd Documents
+ls
+cd GitLib
+ls
+cd hezhizhen.github.io
+ls
+cd
+vim .zshrc
+zsh
+exit
+vim .zshrc
+exit
+tmux
+cd Documents
+cd Downloads
+ls
+exit
+tmux
+vim .tmux.conf
+exit
+tmu
+tmux
+cd Documents
+ls
+cd Compiler
+ls
+cd 实验一
+ls
+cd 121220032_lab1
+ls
+vim 1.cmm
+vim 2.cmm
+vim 3.cmm
+vim 4.cmm
+cd Downloads
+ls
+rm 马原3.ppt
+ls
+cd 
+cd Documents
+ls
+vim homework.doc
+cd Compiler
+ls
+tmux
+vim lexical.l
+ls
+vim node.c
+vim node.h
+vim lex
+vim lexical.l
+vim node.h
+tmux
+twei timeline
+twei
+twei status
+twei status 傲娇的夏洛克
+twei
+twei hot
+twei get
+twei hot.comment_weekly
+twei config
+twei auth
+twei authorize
+twei comment
+douban.fm
+twei
+twei comments
+twei comments.to_me
+twei
+twei friens
+twei friends
+twei friends 傲娇的夏洛克
+twei
+twei follow
+twei followers
+twei followers 傲娇的夏洛克
+twei
+twei friends.active
+twei friends.active 傲娇的夏洛克
+twei followers 傲娇的夏洛克
+twei friends.active 3913661255
+twei friends.active 
+doc twei
+man twei
+twei
+twei whois
+twei update
+twei user
+sudo apt-get install nodejs
+sudo apt-get upgrade
+dpkg -l nodejs
+cd Downloads/node-v0.12.4
+ls
+vim configure
+vim README.md
+./configure
+make
+exit
+ls
+df -lh
+dfc
+free -h
+cd
+cd Downloads/node-v0.12.4
+ls
+vim config
+vim configure
+exit
+make
+make install
+ls
+cd ..
+ls
+rm node-v0.12.4.tar.gz
+ls
+exit
+cd Documents/Compiler
+ls
+git clone https://github.com/ITanCh/Compiler-NJU.git
+ls
+du -h Compiler-NJU
+cd Compiler-NJU
+ls
+vim README.md
+cd lab
+cd lab1
+ls
+exit
+cd Downloads
+ls
+exit
+dfc
+df -lh
+free -h
+sudo apt-get upgrade
+ls
+vim .zshrc
+zsh
+ls
+zsh
+ls
+cd Documents
+cd GitLib
+ls
+cd hezhizhen.github.io
+ls
+vim index.html
+cd ..
+exit
+ls
+exit
+vim .zshr
+cd 
+vim .zshrc
+zsh
+ls
+cd Documents
+ls
+cd GitLib
+ls
+cd hezhizhen.github.io
+cd
+vim .zshrc
+ls
+exit
+ls
+exit
+ls
+cd Documents
+cd Compiler
+ls
+cd 实验一
+ls
+cd 121220032_lab1
+ls
+cd ../..
+ls
+cd  编译原理实验-小型编译器-实验楼
+ls
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+cd 
+vim .vimrc
+tmux
+ls
+cd Documents/Compiler
+cd 编译原理实验-小型编译器-实验楼 
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+cd 
+exit
+vim .vimrc
+subl .vimrc
+cd Documents/Compiler
+cd 编译原理实验-小型编译器-实验楼
+ls
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+ls
+cd Documents
+cd Compiler
+cd 编译原理实验-小型编译器-实验楼
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+vim lexical_analyze_result.txt
+vim test.c
+ls
+vim test.c
+exit
+cd Documents/Compiler/编译原理实验-小型编译器-实验楼
+ls
+cd lexical_analyzer
+ls
+vim test.c
+exit
+ls
+vim lexical_analyzer.cpp
+exit
+vim .vimrc
+ls
+git 
+git log
+ls
+vim key
+rm key
+ls
+sudo apt-get update
+sudo apt-get upgrade
+vim .vimrc
+vim .vimrc.local
+free -h
+exit
+sudo shutdown -h now
+ping cslab.nju.edu.cn
+vim .vimrc
+cd .vim/bundle
+ls
+cd tagbar
+ls
+vim README.md
+cd Documents
+ls
+cd Compiler
+ls
+cd 编译原理实验-小型编译器-实验楼/lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+vim .vimrc
+vim lexical_analyzer.cpp
+exit
+vim .vimrc
+exit
+vim .vimrc
+cd Documents
+ls
+vim test.cpp
+cd
+vim .vimrc.local
+vim .vimrc
+cd Documents
+ls
+vim test.cpp
+cd Compiler
+ls
+cd 编译原理实验-小型编译器-实验楼
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+vim .vimrc
+vim /etc/apt/sources.list
+sudo apt-get install dconf-cli
+vim .vimrc
+vim lexical_analyzer.cpp
+vim .vimrc
+cd .vim
+ls
+cd ..
+upgrade_oh_my_zsh
+cd .oh-my-zsh
+ls
+cd ..
+ls
+cd Documents/GitLib
+cd hezhizhen.github.io
+ls
+cd _posts
+ls
+subl 2015-04-19-first-commit.md
+cd 
+ls
+cd Documents
+ls
+cd mojombo.github.io
+ls
+vim README.textile
+ls
+rm 2015-04-19-first-commit.md
+subl 2000-01-01-test.md
+rm 2000-01-01-test.md
+ls
+rm 2012-07-01-those-memories.md
+git checkout
+git checkout D
+git checkout
+git checkout _posts
+ls
+subl 2015-05-13-my-rss-sources.md
+ls
+cd ..
+ls
+vim README.md
+cd _posts
+ls
+rm 2015-05-13-my-rss-sources.md
+rm 2015-05-13-notes-of-compiler.md
+ls
+subl 2015-04-21-beautify-ubuntu.md
+cd ..
+ls
+vim _config.yml
+cd css
+ls
+cd ..
+vim index.html
+cd _layouts
+ls
+cd ..
+ls
+cd _layouts
+ls
+vim default.html
+subl default.html
+cd ..
+ls
+vim index.html
+ls
+cd ..
+ls
+git clone https://github.com/hezhizhen/hezhizhen.github.io.git
+ls
+cd hezhizhen.github.io
+ls
+git add -A
+git commit -m "add some photos"
+git push
+ls
+cd _posts
+ls
+rm 2015-04-21-beautify-ubuntu.md
+ls
+exit
+git pull
+cd Documents/GitLib/hezhizhen.github.io
+ls
+vim index.html
+cd _layouts
+cd ..
+vim README.md
+cd _layouts
+ls
+vim post.html
+ls
+vim default.html
+ls
+im beautify-ubuntu.html
+vim beautify-ubuntu.html
+git add beautify-ubuntu.html
+git commit -m "modify the path to photo"
+git push
+git pull
+ls
+vim about.html
+git push
+vim beautify-ubuntu.html
+git log
+git add beautify-ubuntu.html
+git commit -m " modify the path to the photo"
+git push
+ls
+vim beautify-ubuntu.html
+ls
+vim index.html
+tmux
+vim index.html
+cd ../../
+ls
+cd Documents/GitLib/hezhizhen.github.io
+ls
+vim index.html
+cd _layouts
+vim default.html
+ls
+vim default.html
+ls
+vim default.html
+vim post.html
+cd ..
+ls
+cd css
+ls
+vim syntax.css 
+ls
+vim main.css
+subl main.css
+subl main.js
+subl main.json
+ls
+cd ..
+ls
+cd _layouts
+ls
+cd ..
+cd _posts
+ls
+subl 2015-04-20-diary.md
+ls
+git pull
+ls
+rm 2015-04-20-diary.md
+ls
+vim 2013-12-15-story-in-life.md
+vim 2015-04-14-fascination-of-words.md
+ls
+mv beautify-ubuntu.html 2015-04-21-beautify-ubuntu.html
+mv my-rss-sources.html 2015-05-13-my-rss-sources.html
+ls
+mv hello-world.html 2015-5-29-hello-world.html
+ls
+git add
+git add -A
+git commit -m "modify file name"
+git push
+vim main.js
+vim main.json
+exit
+vim main.json
+git add main.json
+git commit -m "modify main.json"
+git push
+ls
+cd ../..
+ls
+cd Documents/GitLib/hezhizhen.github.io/_posts
+ls
+vim 2015-04-14-fascination-of-words.md
+exit
+git pull
+ls
+vim main.json
+gedit main.json
+ls
+git pull
+ls
+gedit main.css
+kate main.js
+ls
+git log
+git pull
+vim main.json
+ls
+vim main.json
+git pull
+vim main.json
+ls
+mv 2015-5-29-hello-world.html 2015-05-29-hello-world.html
+git add 2015-
+git add 2015-05-29-hello-world.html
+git commit -m " modify file name"
+git push
+ls
+git add 2015-5-29-hello-world.html
+git pull
+cd ..
+ls
+cd hezhizhen.github.io
+ls
+git status
+vim 2015-04-21-beautify-ubuntu.html
+git add 2015-04-21-beautify-ubuntu.html
+git rm 2015-5-29-hello-world.html
+git commit -m "delete one sentence"
+git push
+vim 2015-04-21-beautify-ubuntu.html
+git pull
+vim main.json
+cd ..
+ls
+git clone https://github.com/isnowfy/simple.git
+git clone https://github.com/isnowfy/isnowfy.github.io.git
+ls
+cd simple
+ls
+ack-grep github.io
+cd src
+vim index.html
+cd ..
+ls
+cd ..
+ls
+cd hezhizhen.github.io
+ls
+vim main.json
+cd ..
+ls
+cd simple
+ls
+cd src
+ls
+vim editor.html
+cd lib
+ls
+cd ..
+ls
+cd css
+ls
+cd ..
+ls
+cd template
+ls
+vim index.html
+vim page.html
+cd ..
+cd
+cd Documents/hezhizhen.github.io
+ls
+vim 2015-05-29-hello-world.html
+exit
+cd Documents/hezhizhen.github.io
+ls
+vim 2015-05-29-hello-world.html
+git add 2015-05-29-hello-world.html
+git commit -m "custom hello world"
+git push
+exit
+sudo shutdown -h now
+cd Documents/hezhizhen.github.io
+vim main.json
+ls
+git pull
+ls
+cd ..
+ls
+free -h
+dfc
+ls
+dfc
+df -lh
+free -h
+htop
+dfc
+cd hezhizhen.github.io
+ls
+git pull
+ls
+vim index.html
+git add index.html
+git commit -m "modify copyright of index"
+git push
+vim index.html
+vim 2015-04-14-fascination-of-words.html
+git add 2015-04-14-fascination-of-words.html
+ack-grep footer
+cd Documents/simple
+ls
+ack-grep footer
+exit
+git commit -m "modify 2015-04-14"
+git push
+git log
+git pull
+ls
+vim 2015-04-20-diary.html
+git status
+git pull
+git log
+git pull
+vim main.json
+ls
+git pull
+vim main.json
+git pull
+ls
+vim about.html
+git add about.html
+vim about.html
+git add about.html
+git commit -m "modify about"
+git push
+git pull
+vim about.html
+git push
+vim 2015-04-20-diary.html
+vim 2015-04-14-fascination-of-words.html
+git pull
+exit
+sudo apt-get upgrade
+exit
+cd Downloads
+ls
+mv U0P55T4D11299F50DT200310161335 test.jpg
+display test.jpg
+rm test.jpg
+ls
+cd 
+cd Documents
+cd hezhizhen.github.io
+git pull
+git log
+git pull
+vim about.html
+git pull
+vim main.json
+git pull
+sudo shutdown -h now
+exit
+free -h
+cd Documents/hezhizhen.github.io
+git pull
+ls
+git add wallpaper.jpg
+git commit -m "add a wallpaper"
+git push
+ls
+vim index.html
+vim main.json
+cd Documents
+ls
+cd isnowfy.github.io
+ls
+vim about.html
+vim main.json
+cd
+vim .ssh/known_hosts
+ssh -v git@github.com
+ls
+exit
+git pull
+exit
+cd Dow
+cd Downloads
+ls
+cd gdb-refcard
+ls
+cd ..
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+rm google-chrome-stable_current_amd64.deb
+df -h
+df -lh
+dfc
+free -h
+exit
+df -lh
+free -h
+htop
+free -h
+sudo apt-get install scribes
+cd Downloads
+ls
+vim WeiboAirLinux\(1.64\).air
+rm WeiboAirLinux\(1.64\).air
+sudo apt-get install python-software-properties
+sudo add-apt-repository ppa:wecase/ppa
+sudo apt-get update
+df -h
+sudo apt-get install wecase
+sudo apt-get remove wecase 
+free -h
+exit
+sudo apt-get remove steam
+df -lh
+dpkg -l | grep steam
+dfc
+clear
+cd 
+cd Music
+ls
+git clone https://github.com/darknessomi/musicbox.git
+cd musicbox
+sudo python setup.py install
+ls
+musicbox
+music-librarian
+cd 
+musicbox
+free -h
+htop
+musicbox
+exit
+sudo apt-get install python-qt4
+sudo apt-get install python-qt4-phonon
+twei timeline
+sudo apt-get remove nixnote 
+dfc
+df -lh
+sudo apt-get remove everpad
+sudo apt-get install facter
+facter
+fetchmail -v
+mutt
+sudo apt-get update
+ls
+cd Do
+cd Downloads
+ls
+cd ..
+cd Documents/hezhizhen.github.io
+ls
+git pull
+sudo apt-get upgrade
+dpkg -l | grep everpa
+dpkg -l | grep everpad
+dpkg -l | grep note
+sudo shutdown -h now
+tmux
+w3m www.baidu.com
+newsbeuter
+musicbox
+sudo apt-get upgrade
+sudo apt-get install task
+task
+vim .taskrc
+cd .task
+s
+ls
+vim completed.data
+task add test
+task
+ls
+vim undo.data
+task
+task help
+ls
+task
+task delete 1
+task help delete
+cd ..
+vim .taskrc
+tmux
+task
+vim .taskrc
+w3m taskwarrior.org
+musicbox
+task
+exit
+ls
+cd Documents
+ls
+cd CG
+ls
+cd
+cd Documents/hezhizhen.github.io
+git pull
+cd 
+cd Documents/CG
+ls
+clear
+vim CohenSutherlandLineClipp.cpp
+ls
+cd Documents
+ls
+git clone https://github.com/hutuxu/clipper.git
+ls
+cd clipper
+ls
+firefox index.html
+ls
+cd src
+ls
+vim clipper.js
+cd ..
+ls
+git clone https://github.com/joromir/LiangBarsky2DClip.git
+cd LiangBarsky2DClip
+ls
+vim clipped_line.m
+vim README.md
+cd ..
+ls
+git clone https://github.com/EddM/Liang-Barsky.git
+cd Liang-Barsky
+ls
+cd lib
+ls
+vim rect.rb
+cd ..
+git clone https://github.com/smcameron/liang-barsky-in-c.git
+ls
+cd liang-barsky-in-c
+ls
+vim README.md
+man w3m
+ls
+cd
+ls -a
+cd .w3m
+ls
+file w3mtmp10242-6
+file w3mcache16890-0
+file w3msrc16890-47.html
+file cookie
+file history
+vim history
+ls
+twei remind
+twei timeline
+w3m 5diary.com
+cd ..
+ls
+cd liang-barsky-in-c
+ls
+vim liang-barsky.
+vim liang-barsky.c
+vim liang-barsky.h
+vim liang-barsky.c
+gcc liang-barsky.c
+ls
+vim liang-barsky.c
+cd ..
+ls
+cd LiangBarsky2DClip
+ls
+vim color.m
+octave
+ls
+vim clipped_line.m
+cd .w3m
+ls
+vim bookmark.html
+w3m
+w3m www.baidu.com
+w3m -B
+exit
+eixt
+exit
+sudo apt-get install pidgin-openfetion
+sudo apt-get upgrade
+w3m -B
+cd Documents/liang
+cd Documents
+ls
+cd Liang-Barsky
+ls
+cd lib
+ls
+vim rect.rb
+cd ..
+ls
+cd LiangBarsky2DClip
+ls
+vim bressenham_line.m
+ls
+ctags .
+ls
+vim bressenham_line.m
+ranger
+vim color.m
+ls
+vim solution.m
+vim bressenham_line.m
+clear
+cd /media
+ls
+cd matlab
+ls
+cd ..
+cd hezhizhen
+ls
+cd Macintosh\ HD/Users/hezhizhen
+ls
+cd Downloads
+cd ..
+cd hezhizhen
+ls
+cd Desktop
+cd 
+vim set_pixel.m
+vim draw_square.m
+vim color.m
+vim liang_barsky_2d_clip.m
+vim calc_t.m
+vim bressenham_line.m
+vim set_pixel.m
+vim solution.m
+vim draw_square.m
+octave
+vim solution.m
+ls
+vim liang_barsky_2d_clip.m
+clear
+exit
+w3m -B
+tmux
+newsbeuter
+w3m -B
+cd .w3m
+ls
+vim bookmark.html
+cd ..
+cd liang-barsky-in-c
+ls
+vim liang-barsky.c
+cd ..
+ls
+cd LiangBarsky2DClip
+ls
+vim calc_t.m
+cd .w3m
+ls
+vim bookmark.html
+exit
+w3m cs.nju.edu.cn/dxy
+clc
+calc
+task calc
+task
+test done
+task 1 done
+task
+man task
+calcurse
+w3m vdisk.weibo.com
+cd Documents
+ls
+wget http://vdisk.weibo.com/s/aQA9D6s_8NDBl
+ls
+evince aQA9D6s_8NDBl
+rm aQA9D6s_8NDBl
+ls
+exit
+twei tiemline
+twei timeline
+exit
+w3m www.google.com
+vim /etc/hosts
+sudo vim /etc/hosts
+sudo subl /etc/hosts
+ping www.google.com
+w3m google.com
+man fbgs
+sudo apt-get install fbgs
+sudo apt-get install fbi
+man fbi
+ls
+cd Documents
+ls
+ls -lh
+fbi \[David_P._Williamson,_David_B._Shmoys\]_The_Design_\(BookZZ.org\).pdf
+fbgs
+fbgs \[David_P._Williamson,_David_B._Shmoys\]_The_Design_\(BookZZ.org\).pdf
+ls
+cd Compiler
+ls
+ls -lh
+fbgs 120\ Introducing\ bison.pdf
+man fbi
+man fbhs
+man fbgs
+gs
+ls
+gs 120\ Introducing\ bison.pdf
+man gs
+fbgs 120\ Introducing\ bison.pdf
+ls -l /dev/fb0
+sudo vim  /etc/group
+cd Documents
+cd Compiler
+ls
+fbgs 120\ Introducing\ bison.pdf
+vim /etc/group
+ls -l /dev/fb0
+exit
+cd
+cd Pictures
+ls
+ls -lh
+fbi Selection_002.png
+man fbi
+ls -l vt
+ls
+fbi -d /dev/fb0 Selection_002.png
+sudo fbi Selection_002.png
+fbi -d /dev/tty1 Selection_002.png
+bash
+man fbi
+man /dev/fb0
+man fbi
+ls
+fetchmail -v
+mutt
+ls
+vim Mac.po
+clear
+cd Pictures
+ls
+fbi Selection_002.png
+cd 
+cd Documents/Compiler
+fbgs 120\ Introducing\ bison.pdf
+exit
+w3m www.renren.com
+cd
+cd .w3m
+ls
+display w3mtmp25702-0.jpg
+tmux
+ls
+w3m www.renren.com
+ls
+sudo apt-get install w3m-img 
+exit
+w3m weibo.com
+w3m www.weibo.com
+w3m t.co
+octave
+sudo apt-get install fbterm
+fbterm
+ls -a
+cd /root
+ls
+cd root
+vim .fbtermrc
+ls
+cd Documents
+ls
+man fbgrab
+fbterm
+exit
+fbterm
+exit
+sudo fbterm
+ls
+exit
+fbterm
+ls
+cd Documents
+ls
+cd ..
+cd Pictures
+ls
+fbi Selection_003.png
+exit
+fbterm
+dpkg -l | grep fcitx
+dpkg -l | grep sogou
+sudo apt-get install fcitx-frontend-fbterm
+vim .fbtermrc
+exit
+fbterm
+ls
+vim
+ls
+cd Documents
+ls
+vim test.cpp
+exit
+cd Documents
+ls
+vvim test.cpp
+vim test.cpp
+exit
+man fbterm
+vim .bashrc
+ls
+exit
+ls
+cd Documents
+ls
+cd 
+tmux
+ls
+exit
+vim .bashrc
+exit
+vim .bashrc
+exit
+tmux
+fbterm
+exit
+fbterm
+exit
+fbterm
+ls
+vim .fbtermrc
+fcitx-fbterm
+ls
+fcitx -d
+ls
+vim
+exit
+vim .fbtermrc
+fbterm
+ls
+exit
+vim .fbtermrc
+fbterm
+cd Documents
+ls
+tmux
+exit
+ls
+vim test.cpp
+exit
+vim .fbtermrc
+fbterm
+ls
+cd Documents
+ls
+vim test.cpp
+exit
+ls
+vim .bashrc
+exit
+fbterm
+ls
+w3m www.google.com
+cd .w3m
+ls
+exit
+w3m www.baidu.com
+fbterm
+w3m www.baiduc.om
+exit
+w3m image.google.com
+w3m google.com
+w3m www.google.com.jp
+w3m www.google.com.
+w3m www.google.com
+w3m www.bbc.com
+exit
+ls
+cd Videos
+ls
+mplayer 胜者即是正义.Legal.High.2012.SP.HDTV.MiniSD-TLF.mkv
+ls
+cd 纸牌屋.House.Of.Cards.2013.S03.中英字幕.HDTVrip.1024X512
+ls
+mplayer -fb 纸牌屋.House.Of.Cards.2013.S03E01.中英字幕.HDTVrip.1024X512.mp4
+mplayer -vo fbdev2 纸牌屋.House.Of.Cards.2013.S03E04.中英字幕.HDTVrip.1024X512.mp4
+cd ..
+ls
+mplayer -vo fbdev2 胜者即是正义.Legal.High.2012.SP.HDTV.MiniSD-TLF.mkv
+ls
+clear
+fbterm
+ls
+mplayer -vo fbdev2 纸牌屋.House.Of.Cards.2013.S03.中英字幕.HDTVrip.1024X512/纸牌屋.House.Of.Cards.2013.S03E01.中英字幕.HDTVrip.1024X512.mp4
+clear
+cd Videos/
+cd whoopsie
+cd 纸牌屋.House.Of.Cards.2013.S03.中英字幕.HDTVrip.1024X512
+mplayer -vo fbdev2 纸牌屋.House.Of.Cards.2013.S03E02.中英字幕.HDTVrip.1024X512.mp4
+exit
+free -h
+htop
+ls
+exit
+uname -a
+exit
+bash
+fbterm
+ls
+ls -a
+vim Mac.po
+ls
+w3m www.google.com
+cd .oh-my-zsh
+ls
+ack-grep fbterm
+ls
+cd tools
+ls
+cd ...
+ls
+cd .oh-my-zsh
+ls
+cd plugins
+ls
+cd fbterm
+ls
+vim fbterm.plugin.zsh
+cd .
+cd 
+ls
+cd Documents
+vim test.cpp
+ls
+mkdir Code
+ls
+cd
+cd Documents
+ls
+cd Co
+cd Code
+ls
+vim test.cpp
+g++ test.cpp
+ls
+./a.out
+vim test.cpp
+gcc test.cpp
+g++ test.cpp
+ls
+./a.out
+ls
+octave
+ls
+w3m -B
+exit
+w3m -B
+exit
+cd Co
+cd Code
+ls
+./a.out
+vim test.cpp
+cd Documents/Code
+ls
+vim test.cpp
+fbterm
+ls
+vim test.cpp
+cd
+vim .vimrc
+set leader
+vim .vimrc
+vim test.cpp
+ls
+exit
+ls
+w3m tcs.nju.edu.cn
+tmux
+newsbeuter
+w3m -B
+cd Videos
+ls
+cd 纸牌屋.House.Of.Cards.2013.S03.中英字幕.HDTVrip.1024X512
+ls
+mplayer -vo fbdev2 纸牌屋.House.Of.Cards.2013.S03E10.中英字幕.HDTVrip.1024X512.mp4
+clear
+exit
+cd Videos/纸牌屋.House.Of.Cards.2013.S03.中英字幕.HDTVrip.1024X512
+mplayer -vo fbdev2 纸牌屋.House.Of.Cards.2013.S03E11.中英字幕.HDTVrip.1024X512.mp4
+clera
+exit
+ls
+w3m -B
+cd .w3m
+ls
+vim bookmark.html
+w3m -B
+ls
+cd oh-my-zsh-powerline-theme
+ls
+vim README.md
+display preview.png
+exit
+sudo apt-get install numix-icon-theme
+dpkg -l | grep numix
+sudo apt-get install numix-plank-theme
+sudo apt-get upgrade
+sudo apt-get install numix-wallpaper-simple-things
+sudo apt-get update
+exit
+sudo shutdown -h now
+tmux
+newsbeuter
+ls
+vim pickled_dict
+vim yankring_history_v2.txt
+vim examples.desktop
+vim hs_err_pid27184.log
+vim Ma
+vim Mac.po
+vim hs_err_pid27184.log
+vim sent
+clear
+w3m www.google.com
+twei timeline
+twei remind
+cd Documents/Compiler
+s
+ls
+cd Compiler-NJU
+ls
+cd lab3
+ls
+cd ..
+cd lab2
+ls
+cd src
+ls
+vim Makefile
+vim table.h
+vim table.c
+eixt
+cd
+clear
+cd Documents/Code
+ls
+vim 1011.cpp
+g++ 1011.cpp
+vim 1011.cpp
+g++ 1011.cpp
+./a.out
+vim 1011.cpp
+g++ 1011.cpp
+./a.out
+vim 1011.cpp
+g++ 1011.cpp
+./a.out
+vim 1011.cpp
+g++ 1011.cpp
+./a.out
+vim 1011.cpp
+vim test.cpp
+g++ test.cpp
+vim test.cpp
+g++ test.cpp
+./a.out
+vim test.cpp
+g++ test.cpp
+./a.out
+vim test.cpp
+g++ test.cpp
+./a.out
+vim test.cpp
+w3m -B
+cd .w3m
+vim bookmark.html
+w3m -B
+musicbox
+clear
+exit
+free -
+free -h
+eit
+exit
+musicbox
+w3m cs.nju.edu.cn/dxy.compiler.htm
+w3m cs.nju.edu.cn/dxy.compiler.html
+w3m cs.nju.edu.cn/dxy/compiler.html
+w3m cs.nju.edu.cn/dxy/compiler.htm
+gem install sass
+sudo gem install sass
+uname -a
+tmux
+newsbeuter
+w3m -B
+cd Documents/Compiler
+ls
+git clone https://github.com/fool2fish/dragon-book-exercise-answers.git
+cd dragon-book-exercise-answers
+ls
+cd src
+ls
+cd lexer
+ls
+vim Lexer.java
+cd ..
+ls
+cd ..
+ls
+cd ..
+du -lh
+man pandoc
+man markdown
+markdown
+sudo apt-get install markdown
+ls
+vim note.mkd
+markdown note.mkd |w3m -stdin
+markdown note.mkd |w3m 
+ls
+cd ..
+ls
+man markdown
+markdown markd.md| w3m
+markdown markd.md > markd.html
+ls
+w3m markd.html
+firefox markd.html
+ls
+rm markd.html
+ls
+man pandoc
+ls
+pandoc markd.md | w3m
+ls
+vim tst.pyc
+vim tst.py
+sudo apt-get install tomatoes
+sudo apt-get -f install
+sudo apt-get --fix-missing
+sudo apt-get install --fix-missing
+sudo apt-get update
+sudo apt-get install
+sudo apt-get install upgrade-system
+sudo apt-get upgrade
+sudo apt-get install orage
+ls
+sudo apt-get upgrade
+sudo apt-get install -f
+sudo apt-get update
+ls
+clear
+exit
+cd Documents/Code
+ls
+vim test.cpp
+ping www.baidu.com
+ls
+vim test.cpp
+g++ -o test test.cpp
+./test
+vim test.cpp 
+ls
+./a.out
+g++ -o 1011 1011.cpp
+./1011
+ls
+./a.out
+rm a.out
+ls
+cd shell_typing_game
+ls
+./word
+./game.sh
+ls
+clear
+cd..
+cd ..
+ls
+cd www.kuqin.com
+ls
+cd itman
+ls
+cd liyanhong
+ls
+cd ../../..
+ls
+cd www.linuxidc.com
+du -h
+ls
+fbi favicon.ico
+cd Linux
+ls
+cd ..
+cd upload
+ls
+cd 2007_04
+ls
+cd ..
+ls
+cd ..
+ls
+cd latex
+ls
+cd ..
+ls
+cd dou_ban_spider
+ls
+vim README.md
+cd ..
+cd docs.huihoo.com
+ls
+cd homepage
+ls
+cd shredderyin
+ls
+w3m index.html
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+mkdir Shiyanlou
+ls
+cd Shiyanlou
+ls
+mkdir 新手指南
+ls
+cd 新手指南
+ls
+exit
+ls
+cd Documents
+ls
+wget -c -r -np -k -L -p http://yuedu.163.com/book_reader/e5dd241a-122d-4a4a-b5cf-5a2dbe4fa871_4
+ls
+cd yuedu.163.com
+ls
+cd book_reader
+ls
+vim e5dd241a-122d-4a4a-b5cf-5a2dbe4fa871_4
+ls
+cd ..
+wget -c -r -np -k -L -p http://kb.cnblogs.com/page/73222/
+ls
+cd kb.cnblogs.com
+ls
+cd page
+ls
+cd 73222
+ls
+w3m index.html
+ls
+cd
+ls
+cd Documents
+ls
+cd ..
+ls
+mkdir Python编程语言
+ls
+cd Python编程语言
+ls
+python
+sudo apt-get install pep8
+pep8 tst.py
+vim tst.py
+ls
+vim hello.py
+pep8 hello.py
+python hello.py
+python
+ls
+chmod a+x hello.py
+ls
+./hello.py
+mv hello.py hello
+ls
+./hello
+python hello
+python
+vim var.py
+pep8 var.py
+vim var.py
+pep8 var.py
+python var.py
+ls
+cd ..
+ls
+exit
+ls
+cd ..
+ls
+cd Compiler
+ls
+cd Compiler-NJU
+ls
+cd lab1
+ls
+make
+ls
+parser 1.cmm
+./parser 1.cmm
+./parser 2.cmm
+./parser 3.cmm
+vim Makefile
+man bison 
+cd ..
+cd lab2/src
+ls
+vim parser
+gdb parser
+exit
+cd w3
+s
+cd .w3m
+ls
+vim bookmark.html
+cd Documents
+ls
+cd Compiler
+ls
+w3m -B
+vim bookmark.html
+w3m -B
+cd
+ls
+vim .zshrc
+cd powerline-shell
+ls
+vim README.md
+cd ..
+ls
+cd Todo
+ls
+cd ..
+ls
+cd Todo
+ls
+vim todo.txt
+cd ..
+ls
+cd Steam
+ls
+cd logs
+s
+ls
+vim bootstrap_log.txt
+cd
+ls
+cd .oh-my-zsh
+ls
+cd ..
+vim .zshrc
+cd oh-my-zsh-powerline-theme
+cd ..
+ls
+cd .oh-my-zsh
+ls
+cd custom
+ls
+vim example.zsh
+cd ..
+ls
+cd themes
+ls
+cd ..
+cd tools
+ls
+cd ..
+cd plugins
+ls
+cd tmux
+ls
+vim tmux.plugin.zsh
+tmux
+ls
+vim tmux.only.conf
+exit
+cd
+vim .bashrc
+ls
+source .bashrc
+vim .bashrc
+ls
+source .bashrc
+ls
+exit
+ls
+source .bashrc
+vim .bashrc
+vim /usr/share/bash-completion/bash_completion
+exit
+source .bashrc
+bash
+exit
+bash
+sh
+ls
+exit
+source .zshrc
+exit
+tput
+tput colors
+sudo apt-get install ncurses-term
+ls
+vim .zshrc
+sudo apt-get update
+ls
+cd .oh-my-zsh
+ls
+vim oh-my-zsh.sh
+ls
+ack-grep color
+ls
+cd ..
+ls
+vim .zshrc
+source .zshrc
+tput colors
+ncurses5-config
+ls
+cd Documents
+ls
+cd ..
+cd Downloads/
+ls
+exit
+ls
+vim hs_err_pid27184.log
+cd Documents
+ls
+vim test.cpp
+ls
+cd Documents
+ls
+vim example.c
+tmux
+ls
+vim example.c
+cd Compiler
+ls
+cd 编译原理实验-小型编译器-实验楼
+ls
+cd lexical_analyzer
+ls
+vim lexical_analyzer.cpp
+exit
+cd Compiler/编译原理实验-小型编译器-实验楼
+ls
+cd lexical_analyzer
+vim lexical_analyzer.cpp
+tput colors
+eix
+exit
+ls
+tput colors
+ls /usr/bin
+ls
+cd .oh-my-zsh
+ls
+cd themes
+ls
+vim agnoster.zsh-theme
+cd
+vim .zshrc
+w3m -B
+upgrade_oh_my_zsh
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+ls
+cd Documents
+ls
+cd ..
+cd Downloads
+ls
+cd 
+ls
+cd Documents
+ls
+cd docs.huihoo.com
+ls
+cd ..
+cd 
+cd wo
+cd dows
+cd Downloads
+ls
+exit
+vim .zshrc
+source .zshrc
+ls
+cd Downloads
+ls
+cd ..
+ls
+vim .zshrc
+git clone git://github.com/seebi/dircolors-solarized.git
+git clone git://github.com/sigurdga/gnome-terminal-colors-solarized.git
+cd gnome-terminal-colors-solarized
+ls
+./install.sh
+ls
+vim set_dark.sh
+./install.sh
+ls
+cd Documents
+ls
+cd 
+vim .bash
+vim .bashrc
+source .zshrc
+ls
+exit
+vim README.mkd
+ls
+cd ..
+ls
+tput colors
+exit
+cd dircolors-solarized
+ls
+cd ..
+ls
+cd gnome-terminal-colors-solarized
+ls
+cd colors
+ls
+cd ..
+ls
+./install.sh
+ls
+cd Documents
+ls
+cd Code
+ls
+vim test.cpp
+exit
+dconf reset -f /org/gnome/terminal/legacy/profiles:/PROFILE_ID"\n\nls
+ls
+exit
+ls
+exit
+./install.sh
+ls
+cd Documents
+ls
+vim test.cpp
+exit
+ls
+cd ..
+ls
+vim .bashrc
+source .zshrc
+vim .zshrc
+ls
+exit
+ls
+exit
+ls
+cd gnome-terminal-colors-solarized
+ls
+exit
+ls
+tput colors
+dfc
+df -lh
+free -h
+cd Documents/Shiyanlou
+ls
+cd Python编程语言
+ls
+./hello
+python var.py
+python
+cd Documents/Shiyanlou/Python编程语言
+ls
+python
+ls
+vim notes
+ls
+pep hello
+pep8 hello
+pep8 var.py
+vim hello
+tmux
+vim notes
+vim var.py
+vim guess.py
+pep8 guess.py
+python guess.py
+vim guess.py
+ls
+vim test.py
+python test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+python test.py
+python
+vim test.py
+pep8 test.py
+python test.py
+python
+vim notes
+cd
+ls
+cd Documents
+ls
+cd MATLAB
+ls
+vim bresenham_line.m
+ls
+vim bresenham_line.m
+subl bresenham_line.m
+vim bresenham_line.m
+ls
+cd ..
+ls
+vim example.c
+subl example.c
+cd Code
+ls
+vim 1011.cpp
+subl 1011.cpp
+vim 1011.cpp
+cd
+w3m -B
+tmux
+w3m -B
+newsbeuter
+fish
+sudo apt-get install fish
+ls
+ls -a
+cd .matlab
+ls
+cd ..
+cd .newsbeuter
+l
+ls
+vim config
+newsbeuter
+fish
+ls
+fish
+ls
+cd Documents
+ls
+vim test.cpp
+l
+fish
+ls
+cd
+curl -L https://github.com/bpinto/oh-my-fish/raw/master/tools/install.fish | fish
+fish
+cd 
+ls -a
+fish
+ls
+fish
+cd .config/fish
+ls
+vim config.fish
+fish
+vim config.fish
+fish
+vim config.fish
+exit
+fish
+exit
+vim config.fish
+fish
+ls
+fish
+exit
+fish
+cd .oh-my-fish
+ls
+exit
+ls
+cd Documents
+cd Compiler
+cd Compiler-NJU
+ls
+cd lab3/src
+ls
+vim table.c
+ls
+git status
+cd
+clear
+task
+task add graphics
+task
+todos
+vim todos
+ls
+cd Documents
+ls
+cd Compiler
+ls
+subl syntax.y
+ls
+vi test.py
+python test.py
+python
+vim test.py
+pep8 test.py
+python test.py
+vim test.py
+subl test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+python test.py
+python 
+vim test.py
+pep8 test.py
+python test.py
+:q
+vim test.py
+pep8 test.py
+python test.py
+python
+vim test.py
+pep8 test.py
+python test.py
+vim test.py
+pep8 test.py
+vim test.py
+python test.py
+vim test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+python test.py
+vim test.py
+pep8 test.py
+python test.py
+vim test.py
+pep8 test.py
+python test.py
+vim test.py
+pep8 test.py
+python test.py
+fish
+ls
+exit
+vim test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+python test.py
+vim test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+python test.py
+vim test.py
+pep8 test.py
+python test.py
+vim test.py
+pep8 test.py
+vim test.py
+pep8 test.py
+python test.py
+python
+vim test.py
+pep8 test.py
+python test.py
+vim test.py
+pep8 test.py
+python test.py
+vim test.py
+python
+vim prime.py
+vim test.py
+vim prime.py
+vim test.py
+vim prime.py
+pep8 prime.py
+vim prime.py
+pep8 prime.py
+vim prime.py
+pep8 prime.py
+vim prime.py
+pep8 prime.py
+vim prime.py
+pep8 prime.py
+python prime.py
+vim prime.py
+pep8 prime.py
+python prime.py
+vim prime.py
+python prime.py
+vim prime.py
+pep8 prime.py
+python prime.py
+vim prime.py
+python prime.py
+python prime.py | less
+vim prime.py
+vim notes
+pep8 prime.py
+python
+cd .w3m
+ls
+vim bookmark.html
+vim cookie
+w3m www.baidu.com
+fbterm
+ls
+fish
+ls
+clear
+python
+vim notes
+clear
+exit
+cd ..
+ls
+cd dinosaur.compilertools.net
+ls
+vim index.html
+firefox index.html
+cd ..
+s
+ls
+mkdir Git\ Community\ Book
+ls
+cd Git\ Community\ Book
+ls
+vim bookmark.html
+ls
+w3m www.baidu.com
+twei remind
+twei timeline
+free -h
+htop
+free -h
+ls
+cd ..
+cd GitLib
+ls
+cd Compilers
+ls
+vim README.md
+cd ex1
+ls
+./scanner main.c
+vim main.c
+vim lexical.l
+ls
+./scanner lexical.l
+./scanner lex.yy.c
+vim main.c
+musicbox
+free -h
+ls
+musicbox
+clear
+ls
+musicbox
+w3m -B
+w3m www.shanbay.com
+ls
+w3m www.google.com
+tmux
+clear
+clera
+clear
+ls
+cd powerline-shell
+ls
+vim README.md
+vim config.py
+vim install.py
+clear
+free -h
+htop
+w3m www.google.com
+tmux
+clear
+htop
+free -h
+dfc
+w3m www.google.com
+fbterm
+ls
+cd ..
+ls
+mkdir Flex&Bison
+ls
+cd Flex
+ls
+vim notes
+tmux
+vim notes
+sudo apt-get install flex
+sudo apt-get upgrade
+cd Documents
+ls
+cd Shiyanlou
+ls
+cd Flex
+ls
+fish
+cd 
+fish
+ls
+vim calc.l
+vim calc.y
+flex calc.l
+ls
+vim lex.yy.c
+vim calc.l
+vim calc.y
+subl calc.y
+bison calc.y
+ls
+vim calc.tab.c
+bison -d calc.y
+ls
+gcc lex.yy.c calc.tab.c -o calc
+./calc
+exit
+free -h
+kill 2939
+tmux
+clear
+w3m -B
+cd .w3m
+ls
+vim bookmark.html
+free -h
+exit
+htop
+w3m www.google.com
+sudo apt-get upgrade
+upgrade_oh_my_zsh
+htop
+./calc
+vim calc
+vim calc.l
+ls
+vim calc.y
+w3m shop.planetargon.com
+musicbox
+vim calc.l
+vim calc.y
+fish
+vim notes
+exit
+ls
+cd ..
+ls
+mkdir Linux系统监控
+cd Linux系统监控
+ls
+vim notes
+ls
+vim notes
+clera
+clear
+top
+htop 
+vmstat
+vim notes
+man vmstat
+vmstat 2 1
+vmstat 2 2
+vmstat
+vmstat -h 2
+vmstat 2
+htop
+top
+vim notes
+lsof
+man lsof
+vim notes
+free -h
+lsof
+ls
+lsof > lsof.list
+file lsof.list
+wc lsof.list
+vim lsof.list
+ls
+vim lsof.list
+man tcpdump
+tcpdump -h
+sudo tcpdump -i eth0 -c 3
+man netstat
+netstat -r
+netstat -i
+man htop
+man iotop
+sudo apt-get install iotop
+man iotop
+iotop
+sudo iotop
+iostat
+sudo apt-get install sysstat
+iostat
+cd Documents/Shiyanlou
+cd 
+cd Documents/GitLib
+ls
+git clone https://github.com/hezhizhen/Shiyanlou.git
+ls
+cd Shiyanlou
+ls
+vim README.md
+ls
+vim README.md
+git log
+git add README.md
+git commit -m "add catalog"
+git push
+exit
+eit
+exit
+ls
+git add -A
+git commit -m "add courses that have leant"
+git push
+cd Documents/GitLib
+ls
+cd Shiyanlou
+ls
+vim README.md
+ls
+cd 新手指南之玩转实验楼
+ls
+vim README.md
+touch 1-1.c
+vim 1-1.c
+gcc -o 1-1 1-1.c
+./1-1
+git add -A
+git commit -m "review the first course"
+git push
+vim README.md
+git add README.md
+git commit -m "modify readme file"
+git push
+cd .
+cd ..
+vim README.md
+git add README.md
+git commit -m "add a link to course"
+git push
+ls
+mkdir Linux基础入门（新版）
+ls
+cd Linux
+cd Linux基础入门（新版）
+ls
+vim README.md
+ls
+vim README.md
+exit
+cd 
+cd Documents/GitLib/Shiyanlou
+ls
+git add -A
+git commit -m "add a new course"
+git push
+cd Linux基础入门（新版）
+ls
+vim README.md
+git add README.md
+git commit -m "modify the path to image"
+git push
+vim README.md
+git add README.md
+git commit -m "modify the path to image"
+git push
+vim README.md
+eixt
+exit
+git add -A
+git commit -m "add some notes"
+git push
+vim README.md
+man tail
+htop
+vmstat 2
+ls
+info ls
+git add README.md
+git commit -m "add some notes"
+git push
+banner fire
+printerbanner -w 50 A
+ls
+vim homework.md
+sudo apt-get install toilet figlet
+git add homework.md
+git commit -m "add homework"
+git push
+toilet ajofjdofejf
+figlet fjodfjodfjdfdf
+printerbanner dfjodfjodfjd
+sudo apt-get upgrade
+exit
+free -h
+exit
+cd Documents/GitLib/Shiyanlou
+ls
+cd 新手指南之玩转实验楼
+ls
+vim README.md
+cd ..
+cd Linux基础入门（新版）
+ls
+vim README.md
+man figlet
+man banner
+man sysvbanner
+man printerbanner
+sudo apt-get install sysvbanner
+man banner
+banner dfdf
+banner dfdffefojoejfodjfdlfjieofe
+banner dfdffefojoejfodjfdlfjieofefejfojeofe
+vim README.md
+vim homework.md
+man banner
+vim homework.md
+man banner
+man printerbanner
+printerbanner -d ban
+man printerbanner
+printerbanner -t ban
+printer -w 50 ban
+printerbanner -w 50 ban
+man toilet
+toilet ban
+man toilet
+man figlet
+figlet ban
+xit
+exit
+vim README.md
+tmux
+who am i
+who mom likse
+who
+whoami
+who am i
+man who
+who am i
+man who
+who mom likes
+who am i
+exit
+vim README.md
+who am i
+exit
+man who
+who -u
+exit
+who -a
+who -d
+who -p
+who -q
+who -m
+who -q
+who -u
+who -r
+man who
+exit
+groups hezhizhen
+fish
+man usermod
+ls -l
+cd ..
+ls
+ls -l
+ls -dl
+ls -dl Git\ Community\ Book
+ls -dl Linux基础入门（新版）
+ls -AsSh
+ls -lh
+ls -A
+ls -a
+ls -Al
+ls -dl Linux系统监控实战
+ls -AsSh
+vim homework.md
+man fortune
+git add -A
+git commit -m "add some notes"
+git push
+vim README.md
+man tac
+man nl
+vim homework.md
+git add -A
+git commit -m "add some notes"
+git push
+ls
+vim README.md
+man declare
+ls
+cd Linux基础入门（新版）
+ls
+temp=shiyanlou
+export temp_env=shiyanlou
+env|sort>env.txt
+export|sort>export.txt
+set|sort>set.txt
+vimdiff env.txt export.txt set.txt
+echo $tmp
+echo $temp
+ls
+vim hello_shell.sh
+chmod 755 hello_shell.sh
+ls
+vim hello_world.c
+gcc -o hello_world hello_world.c
+mkdir mybin
+ls
+mv hello_world hello_shell.sh mybin
+ls
+cd mybin
+./hello_shell.sh
+./hello_world
+cd ..
+whereis who
+locate /etc/sh
+which ls
+which man
+man find
+vim homework.md
+cmatrix
+man cmatrix
+git add -A
+git commit -m "add some notes"
+git push
+ls
+vim README.md
+git add README.md
+git commit -m "modify some details"
+git push
+ls
+vim README.md
+ls
+rm lsof.list
+ls
+vim homework.md
+git add -A
+git commit -m "add some notes"
+git push
+ls
+exit
+eixt
+xit
+exit
+curl -X POST -H "application/x-www-form-urlencoded" -d "action=login&username=121220032&password=121216" http://p.nju.edu.cn/portal/portal_io.do
+tmux
+w3m B
+w3m -B
+dfc
+cd Dco
+cd Downloads
+ls
+sudo apt-get install mednafen
+man mednafen
+mednafen
+mednafen rom
+cd Downloads
+lsar Gyakuten\ Saiban1-4\&Gyakuten\ Kenji.zip
+unar Gyakuten\ Saiban1-4\&Gyakuten\ Kenji.zip
+exit
+cd Downloads
+ls
+cd 掌机游戏GBA
+ls
+lsar 43.最终幻想战略版.zip
+unar 43.最终幻想战略版.zip
+lsar 17.网球王子.zip
+unar 17.网球王子.zip
+exit
+sudo add-apt-repository ppa:noobslab/apps
+sudo apt-get update
+sudo apt-get install ppsspp
+cd Downloads
+ls
+lsar PSVITA-PSP-PS最终幻想II-HACK-BY-丁丁机.rar
+unar PSVITA-PSP-PS最终幻想II-HACK-BY-丁丁机.rar
+rm PSVITA-PSP-PS最终幻想II-HACK-BY-丁丁机.rar
+ls
+lsar k73.com_jyqxzztsj_psp.zip
+unar k73.com_jyqxzztsj_psp.zip
+rm k73.com_jyqxzztsj_psp.zip
+cd k73.com_jyqxzztsj_psp
+ls
+vim PC电脑的攻略.txt
+scribes PC电脑的攻略.txt
+l
+vim k73电玩之家下载帮助.txt
+kill 14100
+k
+ls
+cd KYSTIANSHU
+ls
+vim config.lua
+ls
+cd ..
+sudo killall ppsspp
+sudo ps -ef
+sudo ps -ef | ppss
+sudo ps -ef | grep ppss
+sudo kill 14102
+sudo kill 16169
+sudo kill -9 16169
+sudo kill -9 14102
+exit
+sudo kill -9 16423
+sudo ps -ef | grep ppss
+sudo kill -9 16424
+exit
+sudo ps -ef | grep ppss
+kill 17000 17002
+sudo ps -ef | grep ppss
+sudo kill -9 17002
+exit
+sudo apt-get install r
+newsbeuter
+LS
+ls
+time
+cd .w3m
+ls
+vim bookmark.html
+w3m -B
+exit
+sudo shutdown -h now
+w3m -B
+twei timeline
+w3m www.shanbay.com
+sudo shutdown -h now
+clear
+sudo apt-get upgrade
+ps
+man ps
+fish
+vim .zshrc
+cd Documents
+ls
+cd GitLib
+ls
+cd ..
+ls
+cd Documents
+ls
+cd Code
+ls
+vim test.cpp
+tmux
+df
+dfc
+fish
+exit
+ls
+sudo apt-get install pypy
+pypy
+vim --version | grep +python
+exit
+apt-cache search tmux
+apt-cache search atom4
+apt-cache search htop
+cd Downloads
+ls
+sudo dpkg -i atom-amd64.deb
+atom
+exit
+rm atom-amd64.deb
+cd
+cd .atom
+ls
+vim config.cson
+cd packages
+ls
+cd ..
+ls
+apm help install
+vim styles.less
+ls
+cd packages
+ls
+cd markdown-preview-plus
+ls
+vim README.md
+cd styles
+ls
+vim markdown-preview.less
+cd Documents
+vim test.tex
+ls
+exit
+sudo shutdown -h now
+cd Documents/GitLib/Shiyanlou
+ls
+cd Linux基础入门（新版）
+ls
+vim README.md
+cd .atom
+ls
+cd packages
+ls
+cd markdown-preview-plus
+ls
+df
+cd Documents/Code
+ls
+vim 1011.cpp
+exit
+du -h -d 0 ~
+du -h -d 0 .
+ls
+du -h -d 1 .
+dd
+man dd
+ls -l /lib/modules/3.16.0-33-generic/kernel/fs
+mount
+sudo mount
+man mount
+man fdish
+man fdishk
+man fdisk
+fdisk -l
+sudo fdisk -l
+man kartx
+man kpartx
+vim homework.md
+man cowsay
+git add -A
+git commit -m "add some notes"
+git push
+cd
+cd Documents
+vim markd.md
+vim README.md
+echo $?
+hhe
+echo $?
+firefo
+echo $?
+cowsay
+echo $?
+ls -al
+ls -l
+cut test.cpp ':' 1,6
+cut /etc/passwd -d ':' -f 1,6
+export
+man wc
+cd GitLib/Shiyanlou/Linux基础入门（新版）
+ls
+ls -dl /etc/*/ | wc -l
+ls -dl /etc/*/ | wc -l 
+vim ~/.zsh_history
+vim ~/.bash_history
+man uniq
+history
+history | cut -c 8-
+ls
+history > history.txt

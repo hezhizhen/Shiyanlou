@@ -495,3 +495,65 @@ dd
 >
 > sudo umount /dev/mapper/loop0p1 (卸载磁盘分区，还有loop0p5和loop0p6)
 
+<hr>
+
+顺序执行多条命令
+----------------
+> sudo apt-get update; sudo apt-get install tmux; tmux (使用分号)
+
+有选择地执行命令
+----------------
+> which cowsay > /dev/null && cowsay -f head-in ohch~ (&&实现选择性执行，如果前面的命令执行结果返回0则执行后面的，否则不执行。可以从$?环境变量获取上一次命令的返回结果)
+>
+> which cowsay > /dev/null || echo “cowsay has not been installed” (||与&&相反)
+>
+> which cowsay > /dev/null && echo “exist” || echo “not exist”
+
+管道
+----
+管道是一种通信机制，通常用于进程间的通信（也可通过socket进行网络通信），表现形式为将前面的每一个进程的输出（stdout）直接作为下一个进程的输入（stdin）
+
+分为：匿名管道，具名管道
+
+> ls -al /etc | less (将ls的输出作为less的输入)
+>
+> cut /etc/passwd -d ‘:’ -f 1,6 (以：为分隔符的第1字段和第6字段分别表示用户名和其家目录)
+>
+> cut /etc/passwd -c -5 (打印文件每一行的前5个字符（含第5个）)
+>
+> cut /etc/passwd -c 5- (前5个之后的字符（含第5个）)
+>
+> cut /etc/passwd -c 5 (第五个字符)
+>
+> cut /etc/passwd -c 2-5 (2-5个字符)
+
+> grep -rnI “shiyanlou” ～ (搜索～目录下所有包含shiyanlou的所有文本文件，并显示出现在文本中的行号)
+
+- -r: 递归搜索子目录中的文件
+- -n: 打印匹配项行号
+- -I: 忽略二进制文件
+
+> export | grep “.\*yanlou$” (查看环境变量中以yanlou结尾的字符串, $表示一行的末尾)
+
+> ls -dl /etc/\*/ | wc -l (统计/etc下面所有目录数)
+
+> cat /etc/passwd | sort (默认字典序)
+>
+> cat /etc/passwd | sort -r (反转排序)
+>
+> cat /etc/passwd | sort -t‘:’ -k 3 (按特定字段排序)
+
+- -t:指定字段的分隔符，这里以：为分隔符
+- -k 字段号：指定对哪一个字段进行排序
+
+> cat /etc/passwd | sort -t’:’ -k 3 -n (-n使按数字排序)
+
+> history | cut -c 8- | cut -d ‘ ‘ -f 1 | uniq (uniq只能去除连续重复的行，不是全文去重)
+>
+> history | cut -c 8- | cut -d ‘ ‘ -f 1 | sort | uniq (history | cut -c 8- | cut -d ‘ ‘ -f 1 | sort -u)
+
+> history | cut -c 8- | cut -d ‘ ‘ -f 1 | sort | uniq -dc (输出重复过的行（重复的只输出一次）及重复次数)
+>
+> history | cut -c 8- | cut -d ‘ ‘ -f 1 | sort | uniq -D (输出所有重复的行)
+
+

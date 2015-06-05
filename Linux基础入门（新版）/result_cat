@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main(void)
+{
+    printf("hello world!\n");
+    return 0;
+}
+cat: test.c: No such file or directory

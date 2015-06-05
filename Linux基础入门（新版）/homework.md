@@ -101,3 +101,22 @@ Installation
 > sudo apt-get install ninvaders
 
 <hr>
+
+cacafire
+========
+
+Installation
+-----------
+> sudo apt-get install caca-utils
+
+Usage
+----
+> cacaview filename
+>
+> cacademo
+> 
+> cacafire
+
+<hr>
+
+

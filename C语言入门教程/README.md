@@ -24,6 +24,6 @@ gcc -o 1-1 1-1.o
 ```
 * 执行
 
-![image](/1.png)
+![image](1.png)
 
 
